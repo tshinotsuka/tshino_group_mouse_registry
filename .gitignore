@@ -1,0 +1,36 @@
+# ===== tshino_group_mouse_registry =====
+
+# --- 生成された手術フォーム（再生成可能な印刷物。registry から作り直せる） ---
+/output/*
+!/output/.gitkeep
+surgery_*.docx
+*.pdf
+
+# --- スプレッドシートのローカル書き出し ---
+# 正本は Google Sheets。版管理は CSV スナップショットを commit する運用なので
+# ダウンロードした xlsx は追跡しない（テンプレの .docx は追跡される）。
+# どうしても特定の xlsx を追跡したい場合は: git add -f <file>.xlsx
+*.xlsx
+*.xlsm
+
+# --- 認証情報（将来 API 連携する場合の保険。今は不要） ---
+key.json
+*service_account*.json
+credentials*.json
+.env
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+env/
+venv/
+
+# --- OS / Office の一時・ロックファイル ---
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
+*.tmp
+*.bak

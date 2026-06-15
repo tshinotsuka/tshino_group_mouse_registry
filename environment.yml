@@ -1,0 +1,11 @@
+name: mouse_registry
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pandas
+  - openpyxl
+  - pip
+  - pip:
+      - docxtpl
+      - python-docx
