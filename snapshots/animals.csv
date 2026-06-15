@@ -1,0 +1,327 @@
+mouse_id,birth_id,cohort,sex,line,dob_intake,sac_date,fixation,genotype,notes
+ts1,,personal,M,cagegfp,2022-02-26,2022-11-18,none,,s1
+ts2,,personal,M,wt,2022-03-21,2022-11-18,other,,s2
+ts3,,personal,M,wt,2022-08-08,2022-11-18,other,,s3
+ts4,,personal,M,wt,2022-07-22,2022-11-21,none,,s4
+ts5,,personal,M,wt,2022-08-14,2022-11-25,none,,s5
+ts6,,personal,M,wt,2022-08-14,2022-11-25,none,,s6
+ts7,,personal,M,cagegfp,2022-02-22,2022-11-25,none,,s7
+ts8,,personal,M,cagegfp,2022-02-22,2022-11-25,none,,s8
+ts9,,personal,M,wt,2022-08-12,2022-12-13,other,,s9
+ts10,,personal,M,cagegfp,2022-07-25,2023-02-02,none,,s10
+ts11,,personal,F,wt,2023-08-28,2023-11-06,none,,s11
+ts12,,personal,F,wt,2023-08-28,2023-11-07,none,,
+ts13,,personal,M,cagegfp,2022-07-25,2023-11-23,none,,
+ts14,,personal,F,wt,2023-09-11,2023-11-13,none,,
+ts15,,personal,F,wt,2023-09-11,2023-11-13,none,,
+ts16,,personal,F,wt,2023-09-11,2023-11-13,none,,
+ts17,,personal,F,wt,2023-09-11,2023-11-14,none,,
+ts18,,personal,F,wt,2023-09-11,2023-11-14,none,,
+ts19,,personal,F,wt,2023-09-11,2023-11-16,none,,
+ts20,,personal,F,wt,2023-09-11,2023-11-28,none,,
+ts21,,personal,M,cagegfp,2023-10-01,2023-12-13,none,,
+ts22,,personal,F,wt,2023-09-11,2023-12-08,none,,
+ts23,,personal,M,cagegfp,2023-10-01,2023-12-15,none,,
+ts24,,personal,F,wt,2023-09-11,2023-12-18,none,,
+ts25,,personal,F,wt,2023-09-11,2023-12-29,none,,
+ts26,,personal,M,cagegfp,2023-10-01,2024-01-10,none,,
+ts27,,personal,M,cagegfp,2023-10-01,2024-01-11,none,,
+ts28,,personal,F,cagegfp,2023-03-06,2024-01-16,none,,
+ts29,,personal,M,cagegfp,2023-10-01,2024-01-19,none,,
+ts30,,personal,M,cagegfp,2023-11-10,2024-01-23,none,,CAG-EGFP 11
+ts31,,personal,M,wt,2023-11-20,2024-01-30,none,,
+ts32,,personal,M,wt,2023-11-27,2024-02-07,none,,
+ts33,,personal,M,wt,2023-11-27,2024-02-07,none,,
+ts34,,personal,M,wt,2023-11-27,2024-02-07,none,,
+ts35,,personal,M,wt,2023-11-27,2024-02-07,none,,
+ts36,,personal,M,wt,2023-11-27,2024-02-08,none,,
+ts37,,personal,M,wt,2023-11-27,2024-02-08,none,,
+ts38,,personal,M,wt,2023-11-27,2024-02-08,none,,
+ts39,,personal,M,wt,2023-11-27,2024-02-19,none,,
+ts40,,personal,M,wt,2023-11-20,2024-02-19,none,,
+ts41,,personal,M,wt,2023-11-20,2024-02-19,none,,
+ts42,,personal,M,wt,2023-11-20,2024-02-19,none,,
+ts43,,personal,M,cagegfp,2023-03-06,2024-02-29,none,,CAG-EGFP 1
+ts44,,personal,M,wt,2024-01-08,2024-02-29,none,,
+ts45,,personal,M,cagegfp,2023-12-27,2024-03-05,none,,CAG-EGFP 22
+ts46,,personal,M,wt,2024-01-08,2024-03-06,none,,
+ts47,,personal,M,wt,2024-01-08,2024-03-06,none,,
+ts48,,personal,M,wt,2024-01-08,2024-03-07,none,,
+ts49,,personal,M,cagegfp,2023-12-27,2024-03-07,none,,CAG-EGFP ?
+ts50,,personal,M,cagegfp,2024-01-02,2024-03-08,none,,CAG-EGFP 21
+ts51,,personal,M,cagegfp,2023-12-27,2024-03-15,none,,CAG-EGFP 18
+ts52,,personal,F,cagegfp,2024-01-02,2024-03-19,none,,CAG-EGFP 23
+ts53,,personal,M,wt,2024-01-22,2024-04-01,none,,
+ts54,,personal,M,wt,2024-01-22,2024-04-18,none,,
+ts55,,personal,M,wt,2024-01-22,2024-04-03,none,,
+ts56,,personal,M,wt,2024-01-22,2024-04-15,none,,
+ts57,,personal,M,wt,2024-01-22,2024-04-15,none,,
+ts58,,personal,F,wt,2024-01-22,2024-04-11,none,,
+ts59,,personal,M,wt,2024-01-22,2024-04-16,none,,
+ts60,,personal,F,wt,2024-01-22,2024-04-18,none,,
+ts61,,personal,M,cagegfp,2024-02-14,2024-04-18,none,,CAG-EGFP 27
+ts62,,personal,M,cagegfp,2024-02-14,2024-04-25,none,,CAG-EGFP 26
+ts63,,personal,M,cagegfp,2024-03-06,2024-05-02,none,,CAG-EGFP 29
+ts64,,personal,F,5xfad_aqp4ko,,2024-05-10,none,,From Abe sensei
+ts65,,personal,F,5xfad_aqp4ko,,2024-05-10,none,,From Abe sensei
+ts66,,personal,F,5xfad_aqp4ko,,2024-05-10,none,,From Abe sensei
+ts67,,personal,F,wt,2024-01-22,2024-06-03,none,,
+ts68,,personal,F,5xfad_aqp4ko,,2024-05-21,none,,From Abe sensei
+ts69,,personal,F,5xfad_aqp4ko,,2024-05-21,none,,From Abe sensei
+ts70,,personal,F,wt,2024-01-22,2024-05-21,none,,
+ts71,,personal,F,wt,2024-01-23,2024-05-22,none,,wt 29
+ts72,,personal,M,wt,2024-02-02,2024-06-03,none,,wt 16
+ts73,,personal,M,wt,2024-02-02,2024-06-03,none,,wt  17
+ts74,,personal,M,cagegfp,2024-03-06,2024-06-03,none,,CAG-EGFP 30
+ts75,,personal,M,cagegfp,2024-03-06,,none,,CAG-EGFP 31
+ts76,,personal,M,cagegfp,2024-03-06,,none,,CAG-EGFP 32
+ts77,,personal,M,wt,2024-02-02,2024-07-12,none,,wt 19
+ts78,,personal,M,wt,2024-02-02,2024-07-12,none,,wt 20
+ts79,,personal,F,cagegfp,2024-03-06,,none,,CAG-EGFP 33
+ts80,,personal,F,cagegfp,2024-03-08,,none,,CAG-EGFP 36
+ts81,,personal,F,cagegfp,2024-03-09,,none,,CAG-EGFP 37
+ts82,,personal,F,5xfad_aqp4ko,2023-06-09,2024-06-09,other,,From Abe sensei 940-944
+ts83,,personal,M,wt,2024-02-02,2024-06-17,none,,wt 21
+ts84,,personal,F,wt,2024-02-02,2024-06-09,other,,wt
+ts85,,personal,M,wt,2024-04-28,2024-07-23,none,,wt 37
+ts86,,personal,M,5xfad,2023-11-05,2024-07-24,none,,5xFAD 5
+ts87,,personal,M,5xfad,2023-11-05,2024-07-24,none,,5xFAD 7
+ts88,,personal,M,5xfad,2023-11-05,2024-07-25,none,,5xFAD 8
+ts89,,personal,M,5xfad,2023-11-05,2024-07-25,none,,5xFAD 9
+ts90,,personal,M,5xfad,2023-11-08,2024-07-25,none,,5xFAD 30
+ts91,,personal,M,wt,2024-04-28,2024-08-26,other,,wt 33
+ts92,,personal,M,wt,2024-05-27,2024-07-30,other,,wt
+ts93,,personal,M,5xfad_aqp4ko,2024-04-21,2025-01-08,other,,5xFAD/AQP4KO 28
+ts94,,personal,M,wt,2024-04-28,2024-09-10,other,,wt 34
+ts95,,personal,M,5xfad_aqp4ko,2024-04-28,2025-01-08,other,,5xFAD/AQP4KO 29
+ts96,,personal,M,wt,2024-04-28,2025-01-08,other,,wt 35
+ts97,,personal,M,5xfad_aqp4ko,2024-04-21,2024-10-11,other,,5xFAD/AQP4KO 31
+ts98,,personal,M,wt,2024-06-10,2024-08-20,,,wt 56
+ts99,,personal,M,wt,2024-06-10,2024-08-22,,,wt 57
+ts100,,personal,M,wt,2024-05-27,2024-09-05,,,wt 43
+ts101,,personal,M,wt,2024-05-27,2024-09-05,,,wt 44
+ts102,,personal,M,wt,2024-05-27,2024-09-05,,,wt 45
+ts103,,personal,M,wt,2024-05-27,2024-09-05,,,wt 46
+ts104,,personal,M,wt,2024-05-27,2024-09-05,,,wt 47
+ts105,,personal,M,wt,2024-05-27,2024-09-05,,,wt 48
+ts106,,personal,F,wt,2024-04-28,2024-09-10,,,wt 40
+ts107,,personal,F,wt,2024-04-28,2024-09-10,,,wt 41
+ts108,,personal,F,cagegfp,2024-06-29,2024-10-21,,,CAG-EGFP 61
+ts109,,personal,M,cagegfp,2023-11-12,2024-09-19,,,CAG-EGFP 16
+ts110,,personal,F,5xfad,2023-11-06,2024-09-24,,,5XFAD 26
+ts111,,personal,M,5xfad,2023-11-08,2024-09-25,,,5XFAD 31
+ts112,,personal,M,wt,2023-11-08,2024-09-25,,,wt 3
+ts113,,personal,F,wt,2023-11-09,2024-09-26,,,wt 4
+ts114,,personal,M,cagegfp,2024-05-08,2024-10-09,,,CAG-EGFP 42
+ts115,,personal,M,cagegfp,2024-05-08,2024-10-21,,,CAG-EGFP 43
+ts116,,personal,M,wt,2024-08-05,2024-10-11,none,,wt 65
+ts117,,personal,F,5xfad_aqp4ko,2023-12-21,2024-10-12,,,5 x FAD x AQP4KO 7
+ts118,,personal,F,5xfad_aqp4ko,2023-12-21,2024-10-12,,,5 x FAD x AQP4KO 8
+ts119,,personal,M,cagegfp,2024-07-06,2024-10-18,,,CAG-EGFP 62
+ts120,,personal,M,cagegfp,2024-07-06,2024-10-18,,,CAG-EGFP 63
+ts121,,personal,F,cagegfp,2024-07-11,2024-10-22,,,CAG-EGFP 78
+ts122,,personal,F,cagegfp,2024-07-11,2024-10-22,,,CAG-EGFP 79
+ts123,,personal,F,wt,2024-06-27,2024-10-24,,,wt -
+ts124,,personal,F,wt,2024-08-05,2024-10-25,other,,wt 71
+ts125,,personal,M,cagegfp,2024-07-11,2024-10-28,,,CAG-EGFP 75
+ts126,,personal,M,cagegfp,2024-07-11,2024-10-28,,,CAG-EGFP 76
+ts127,,personal,F,wt,2024-08-05,2024-10-28,other,,wt 72
+ts128,,personal,M,cagegfp,2024-07-11,2024-10-29,,,CAG-EGFP 77
+ts129,,personal,M,wt,2024-08-19,2024-10-30,other,,wt 77
+ts130,,personal,M,wt,2024-08-19,2024-10-30,,,wt 78
+ts131,,personal,M,wt,2024-02-02,2024-11-05,,,wt 22
+ts132,,personal,M,wt,2024-06-21,2024-11-01,,,From Nuriya-Group
+ts133,,personal,M,wt,2024-02-02,2024-11-06,,,wt 23
+ts134,,personal,M,cagegfp,2024-07-06,2024-11-07,,,CAG-EGFP 71
+ts135,,personal,F,5xfad,2024-02-07,2024-11-11,,,5xFAD 40
+ts136,,personal,F,wt,2024-02-02,2024-11-12,,,wt 24
+ts137,,personal,F,wt,2024-02-02,2024-11-12,,,wt 25
+ts138,,personal,M,wt,2024-09-02,2024-11-12,,,wt 82
+ts139,,personal,F,wt,2024-08-24,2024-11-13,,,wt 85
+ts140,,personal,M,wt,2024-09-02,2024-11-13,,,wt 83
+ts141,,personal,F,wt,2024-08-24,2024-11-13,,,wt 86
+ts142,,personal,M,5xfad_aqp4ko,2024-02-14,2024-11-14,,,5xFAD/AQP4KO11
+ts143,,personal,M,5xfad_aqp4ko,2024-02-14,2024-11-14,,,5xFAD/AQP4KO12
+ts144,,personal,M,5xfad,2024-02-07,2024-11-15,,,5xFAD 46
+ts145,,personal,M,5xfad,2024-02-07,2024-11-15,,,5xFAD 47
+ts146,,personal,F,5xfad_aqp4ko,2024-02-14,2024-11-21,,,5xFAD/AQP4KO15
+ts147,,personal,F,5xfad_aqp4ko,2024-02-14,2024-11-29,,,5xFAD/AQP4KO16
+ts148,,personal,F,5xfad,2024-02-28,2024-11-29,,,5xFAD 58
+ts149,,personal,M,5xfad,2024-03-25,2024-12-02,,,5xFAD 73 (wt)
+ts150,,personal,M,5xfad,2024-04-10,2024-12-03,,,5xFAD 71
+ts151,,personal,F,5xfad,2024-04-10,2024-12-03,,,5xFAD 77
+ts152,,personal,M,5xfad_aqp4ko,2024-04-05,2024-12-04,,,5xFAD/AQP4KO 22
+ts153,,personal,F,5xfad,2024-04-10,2024-12-09,,,5xFAD 78 (wt)
+ts154,,personal,F,5xfad,2024-04-10,2024-12-09,,,5xFAD 79 (wt)
+ts155,,personal,M,5xfad_aqp4ko,2024-02-14,2024-12-10,,,5xFAD/AQP4KO10
+ts156,,personal,M,5xfad,2024-04-10,2024-12-11,,,5xFAD 70 (wt)
+ts157,,personal,M,5xfad_aqp4ko,2024-04-05,2024-12-12,,,5xFAD/AQP4KO 23
+ts158,,personal,F,5xfad_aqp4ko,2024-04-05,2024-12-12,,,5xFAD/AQP4KO 26
+ts159,,personal,M,5xfad,2024-04-10,2024-12-13,,,5xFAD 72
+ts160,,personal,F,5xfad,2024-04-10,2024-12-13,,,5xFAD 81
+ts161,,personal,F,5xfad,2023-11-06,2024-12-26,other,,5xFAD 22
+ts162,,personal,F,wt,2023-11-08,2025-01-07,other,,wt 8
+ts163,,personal,F,wt,2023-11-08,2025-01-07,other,,wt 9
+ts164,,personal,M,wt,2024-12-16,2025-01-10,,,From Nuriya group
+ts165,,personal,M,aqp4ko,2024-11-19,2025-02-05,,,AQP4KO 28
+ts166,,personal,M,wt,2024-11-13,2025-01-15,none,,wt
+ts167,,personal,F,cagegfp,2024-08-28,2025-01-17,,,CAG-EGFP 89
+ts168,,personal,M,cagegfp,2024-09-24,2025-01-21,,,CAG-EGFP 91
+ts169,,personal,M,wt,2024-08-08,2025-01-23,,,From Nuriya group
+ts170,,personal,M,cagegfp,2024-09-24,2025-01-29,,,CAG-EGFP 92
+ts171,,personal,F,wt,2024-08-02,2025-01-29,,,From Nuriya group
+ts172,,personal,F,wt,2024-08-02,2025-01-29,,,From Nuriya group
+ts173,,personal,M,cagegfp,2024-09-24,2025-01-31,,,CAG-EGFP 93
+ts174,,personal,M,5xfad,2024-04-10,2025-01-30,,,5xFAD 67 (WT)
+ts175,,personal,F,5xfad,2024-04-10,2025-01-30,,,5xFAD 80 (WT)
+ts176,,personal,M,wt,2024-06-04,2025-01-30,,,From Nuriya group
+ts177,,personal,F,5xfad_aqp4ko,2024-05-02,2025-01-30,,,5xFAD/AQP4KO 38
+ts178,,personal,M,5xfad_aqp4ko,2024-06-09,2025-01-30,,,5xFAD/AQP4KO 44
+ts179,,personal,M,5xfad_aqp4ko,2024-06-17,2025-01-30,,,5xFAD/AQP4KO 50
+ts180,,personal,M,5xfad,2024-04-10,2025-01-31,,,5xFAD 68 (WT)
+ts181,,personal,F,5xfad,2024-04-22,2025-01-31,,,5xFAD 85 (WT)
+ts182,,personal,F,5xfad,2024-04-22,2025-01-31,,,5xFAD 86 (WT)
+ts183,,personal,F,5xfad_aqp4ko,2024-04-21,2025-01-31,,,5xFAD/AQP4KO 33
+ts184,,personal,M,5xfad_aqp4ko,2024-06-09,2025-01-31,,,5xFAD/AQP4KO 43
+ts185,,personal,F,5xfad_aqp4ko,2024-06-17,2025-01-31,,,5xFAD/AQP4KO 56
+ts186,,personal,M,cagegfp,2024-09-24,2025-02-12,,,CAG-EGFP 94
+ts187,,personal,F,cagegfp,2024-09-24,2025-02-14,,,CAG-EGFP 96
+ts188,,personal,F,cagegfp,2024-09-24,2025-02-21,,,CAG-EGFP 97
+ts189,,personal,F,wt,2024-08-02,2025-02-21,,,From Nuriya group
+ts190,,personal,M,wt,2024-12-16,2025-02-17,,,From Nuriya group
+ts191,,personal,M,wt,2024-12-16,2025-02-17,,,From Nuriya group
+ts192,,personal,M,wt,2024-12-16,2025-02-17,,,From Nuriya group
+ts193,,personal,M,wt,2024-12-16,2025-02-20,,,From Nuriya group
+ts194,,personal,M,wt,2024-12-16,2025-02-20,,,From Nuriya group
+ts195,,personal,M,wt,2024-12-19,2025-02-27,,,From Nuriya group
+ts196,,personal,M,wt,2024-12-19,2025-02-27,,,From Nuriya group
+ts197,,personal,M,wt,2024-12-23,2025-02-28,,,From Nuriya group
+ts198,,personal,M,wt,2024-12-23,2025-02-28,,,From Nuriya group
+ts199,,personal,M,wt,2024-12-23,2025-03-03,,,From Nuriya group
+ts200,,personal,M,wt,2024-12-23,2025-03-05,,,From Nuriya group
+ts201,,personal,M,wt,2024-11-13,2025-03-07,,,WT100
+ts202,,personal,M,wt,2024-11-13,2025-03-07,,,WT101
+ts203,,personal,M,wt,2024-11-13,2025-03-09,,,WT112
+ts204,,personal,M,wt,2024-11-13,2025-03-10,,,WT109
+ts205,,personal,M,wt,2024-11-13,2025-03-12,,,WT110
+ts206,,personal,M,wt,2024-11-13,2025-03-12,,,WT111
+ts207,,personal,M,wt,2024-11-13,2025-03-12,,,WT115
+ts208,,personal,M,wt,2024-11-13,2025-03-12,,,WT114
+ts209,,personal,M,wt,2024-11-13,2025-03-13,,,WT108
+ts210,,personal,M,cagegfp,2024-12-06,2025-04-15,,,CAG-EGFP 101
+ts211,,personal,M,cagegfp,2024-12-06,2025-04-18,,,CAG-EGFP 102
+ts212,,personal,M,cagegfp,2024-12-06,2025-05-13,,,CAG-EGFP 103
+ts213,,personal,M,cagegfp,2024-12-06,2025-05-19,,,CAG-EGFP 104
+ts214,,personal,M,wt,2025-03-10,2025-10-16,,,WT118
+ts215,,personal,F,wt,2025-03-10,2025-10-16,,,WT124
+ts216,,personal,M,wt,2025-03-10,2025-05-12,,,WT119
+ts217,,personal,F,wt,2025-03-10,2025-10-16,,,WT125
+ts218,,personal,M,wt,2025-03-10,2025-10-16,,,WT120
+ts219,,personal,F,wt,2025-03-10,2025-10-16,,,WT126
+ts220,,personal,M,cagegfp,2025-02-20,2025-06-10,,,CAG-EGFP 105
+ts221,,personal,F,5xfad_aqp4ko,2024-02-14,2025-05-27,,,5 x FAD x AQP4KO 19
+ts222,,personal,F,5xfad_aqp4ko,2024-03-22,2025-05-27,,,5 x FAD x AQP4KO 20
+ts223,,personal,M,cagegfp,2025-02-20,2025-06-16,,,CAG-EGFP 106
+ts224,,personal,M,cagegfp,2025-02-20,2025-06-19,,,CAG-EGFP 107
+ts225,,personal,F,cagegfp,2025-02-20,2025-07-03,,,CAG-EGFP 110
+ts226,,personal,M,cagegfp,2025-02-20,2025-07-04,,,CAG-EGFP 108
+ts227,,personal,M,cagegfp,2025-02-20,2025-07-07,,,CAG-EGFP 109
+ts228,,personal,M,wt,2025-03-10,2025-07-09,,,WT118
+ts229,,personal,M,cagegfp_aqp4ko,2025-04-24,2025-10-16,,,CAGEGFP x AQP4KO67
+ts230,,personal,M,wt,2025-03-10,2025-10-16,,,WT
+ts231,,personal,M,cagegfp_aqp4ko,2025-04-23,2025-10-16,,,CAGEGFP x AQP4KO60
+ts232,,personal,M,wt,2025-03-10,2025-08-19,,,WT121
+ts233,,personal,M,wt,2025-03-10,2025-08-19,,,WT122
+ts234,,personal,M,wt,2025-03-10,2025-08-20,,,WT123
+ts235,,personal,F,wt,2025-03-10,2025-08-28,,,WT124
+ts236,,personal,F,wt,2025-03-10,2025-09-16,,,WT125
+ts237,,personal,M,cagegfp,2025-03-21,2025-09-03,,,CAG-EGFP 111
+ts238,,personal,F,wt,2025-03-10,2025-09-03,,,WT126
+ts239,,personal,F,wt,2025-03-10,2025-09-03,,,WT127
+ts240,,personal,F,wt,2025-03-10,2025-09-04,,,WT128
+ts241,,personal,F,wt,2025-03-10,2025-09-05,,,WT129
+ts242,,personal,M,cagegfp,2025-07-15,2025-09-24,,,CAG-EGFP 118
+ts243,,personal,F,wt,2025-07-15,2025-09-26,,,WT132
+ts244,,personal,M,cagegfp_aqp4ko,2025-01-17,2025-09-26,,,CAGEGFP x AQP4KO22
+ts245,,personal,M,cagegfp_aqp4ko,2025-01-17,2025-09-29,,,CAGEGFP x AQP4KO24
+ts246,,personal,M,cagegfp_aqp4ko,2025-04-24,2025-10-03,,,CAGEGFP x AQP4KO67
+ts247,,personal,M,cagegfp,2025-07-15,2025-10-06,,,CAG-EGFP 119
+ts248,,personal,M,cagegfp_aqp4ko,2025-04-24,2025-10-07,,,CAGEGFP x AQP4KO68
+ts249,,personal,M,cagegfp,2025-07-15,2025-10-16,,,CAG-EGFP 120
+ts250,,personal,M,cagegfp,2025-07-15,2025-10-23,,,CAG-EGFP 121
+ts251,,personal,M,cagegfp,2025-07-15,2025-11-14,,,CAG-EGFP 122
+ts252,,personal,F,wt,2025-07-15,2025-11-05,,,WT133
+ts253,,personal,F,wt,2025-07-15,2025-11-05,,,WT134
+ts254,,personal,M,wt,2025-09-15,2025-12-10,other,,WT135
+ts255,,personal,M,wt,2025-09-15,2025-12-10,other,,WT136
+ts256,,personal,M,wt,2025-09-15,2025-12-10,other,,WT137
+ts257,,personal,M,wt,2025-09-15,2025-12-10,other,,WT138
+ts258,,personal,F,cagegfp,2025-03-21,2025-12-10,,,CAG-EGFP 112
+ts259,,personal,F,cagegfp,2025-03-21,2025-12-12,,,CAG-EGFP 113
+ts260,,personal,M,cagegfp,2025-10-03,2025-11-28,,,CAG-EGFP 129
+ts261,,personal,M,cagegfp,2025-10-02,2025-12-13,,,CAG-EGFP 123
+ts262,,personal,M,cagegfp_aqp4ko,2025-09-04,2025-12-17,,,CAG-EGFP-AQP4KO 80
+ts263,,personal,M,wt,2025-09-15,2025-12-17,,,WT140?
+ts264,,personal,M,wt,2025-09-15,2026-01-20,,,WT140?
+ts265,,personal,M,wt,2025-09-01,2026-01-22,,,WT141
+ts266,,personal,M,wt,2025-09-01,2026-02-04,,,WT142
+ts267,,personal,M,cagegfp,2025-10-03,2026-02-04,,,CAG-EGFP 130
+ts268,,personal,M,wt,2025-09-01,2026-01-26,,,WT143
+ts269,,personal,M,wt,2025-09-01,2026-02-10,,,WT144
+ts270,,personal,M,wt,2025-12-31,2026-03-01,,,WT147
+ts271,,personal,M,wt,2025-12-31,,,,WT148
+ts272,,personal,M,wt,2025-12-31,,,,WT149
+ts273,,personal,M,cagegfp_aqp4ko,2025-09-04,2026-01-29,,,CAG-EGFP-AQP4KO 81
+ts274,,personal,M,wt,2025-09-01,2026-02-10,,,WT145
+ts275,,personal,F,wt,2025-07-15,2026-02-10,,,WT130
+ts276,,personal,F,wt,2025-07-15,2026-02-13,,,WT131
+ts277,,personal,M,,,2026-02-18,,,
+ts278,,personal,,,,2026-02-20,,,
+ts279,,personal,,,,2026-02-20,,,
+ts280,,personal,M,cagegfp,,2026-03-10,,,CAG-EGFP xx
+ts281,,personal,M,wt,2025-12-31,2026-03-12,,,WT150
+ts282,,personal,M,wt,2025-12-31,2026-03-24,,,WT151
+ts283,,personal,M,wt,2026-02-12,2026-04-09,,,WT167
+ts284,,personal,M,cagegfp,2025-12-17,2026-04-09,,,CAG-EGFP xx
+ts285,,personal,M,wt,2026-02-12,2026-04-10,,,WT16
+ts286,,personal,F,cagegfp,2025-10-03,2026-04-13,,,CAG-EGFP 131
+ts287,,personal,F,cagegfp,2025-10-03,2026-04-13,,,CAG-EGFP 132
+ts288,,personal,M,wt,2026-03-05,2026-04-13,,,WT176
+ts289,,personal,M,wt,2026-03-05,2026-04-23,,,WT177
+sk1,,collab,M,wt,2025-09-01,2026-02-10,none,,WT146
+sk2,,collab,M,wt,2025-12-25,2026-02-16,none,,WT156
+sk3,,collab,M,wt,2025-12-25,2026-04-03,none,,WT157
+sk4,,collab,M,wt,2025-12-25,2026-04-07,,,WT158
+sk5,,collab,M,wt,2025-12-25,2026-04-07,,,WT154
+sk6,,collab,M,wt,2025-12-25,2026-04-07,,,WT155
+sk7,,collab,M,wt,2025-12-31,2026-04-15,,,WT152 骨から血が少し滲み出た
+sk8,,collab,M,aqp4ko,2025-09-07,2026-04-29,,,AQP4KO61
+sk9,,collab,M,aqp4ko,2025-09-07,,,,AQP4KO62 端のほう少し内出血
+sk10,,collab,F,aqp4ko,2025-09-07,2026-04-06,,,AQP4KO65
+sk11,,collab,M,wt,2026-02-12,2026-04-07,other,,6w260324
+sk12,,collab,M,wt,2026-02-12,,,,WT169  6w260324
+sk13,,collab,M,wt,2026-03-05,,,,WT178
+sk14,,collab,M,wt,2026-03-05,2026-05-11,other,,WT170
+sk15,,collab,M,cagegfp,2025-12-17,2026-04-24,,,CAG-EGFP#137
+sk16,,collab,M,wt,2026-03-05,2026-05-25,other,,WT171
+sk17,,collab,M,wt,2026-03-05,2026-05-25,other,,WT172
+sk18,,collab,M,wt,2026-03-05,2026-04-28,other,,WT173
+sk19,,collab,M,wt,2026-03-05,2026-04-28,other,,WT179
+sk20,,collab,M,cagegfp_aqp4ko,2026-02-28,2026-05-11,,,#92
+sk21,,collab,M,cagegfp,2026-02-14,,,,#146 カバーガラスの下に少し気泡が入った
+sk22,,collab,M,cagegfp_aqp4ko,2026-03-10,,,,#95
+sk23,,collab,M,cagegfp,2026-02-14,,,,#147
+sk24,,collab,F,cagegfp,2025-12-17,,,,#140
+sk25,,collab,M,wt,2026-03-05,,,,#175
+sk26,,collab,M,cagegfp_aqp4ko,2026-03-10,,,,#96 カバーガラスの下に一部気泡が入った
+sk27,,collab,M,wt,2026-03-05,,,,#176
+sk28,,collab,M,aqp4ko,2026-01-29,,,,#67
+sk29,,collab,M,aqp4ko,2026-01-29,,,,#68
+sk30,,collab,M,aqp4ko,2026-01-29,,,,#69
+sk31,,collab,F,cagegfp,2026-02-14,2026-06-08,,,#150 surgery中に死亡
+sk32,,collab,F,cagegfp,2025-12-17,,,,#142
+sk33,,collab,F,cagegfp,2025-12-17,,,,#141
+sk34,,collab,M,wt,2026-04-15,,,,#187 篠塚先生Demo
+sk35,,collab,M,wt,2026-04-15,2026-06-11,,,#188 頭蓋骨穴あけ失敗→sac
+sk36,,collab,M,wt,2026-04-15,,,,#189
+ts290,cagegfp-139,personal,M,cagegfp,2025-12-17,,,CAG-EGFP:+,

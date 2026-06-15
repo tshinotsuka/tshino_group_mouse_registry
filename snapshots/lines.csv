@@ -1,0 +1,7 @@
+line_id,line_name,genotype_expected,background,source,assays,notes
+wt,wild-type B6,,C57BL/6JJcl,vendor,,C57BL/6JJcl
+aqp4ko,AQP4KO,Aqp4 -/-,C57BL/6J,in_house,aqp4,Ikeshima-Kataoka et al
+cagegfp,CAG-EGFP,CAG-EGFP+/+,C57BL/6,vendor,cagegfp,RBRC00267
+cagegfp_aqp4ko,CAG-EGFP/AQP4KO,CAG-EGFP+/+;Aqp4-/-,C57BL/6,in_house,"cagegfp,aqp4",in-house cross
+5xfad,5xFAD,5xFAD+/-,C57BL/6,vendor,"app,ps1",IMSR_JAX:033254
+5xfad_aqp4ko,5xFAD/Aqp4KO,5xFAD+/-;Aqp4-/-,C57BL/6,in_house,"app,ps1,aqp4",in-house cross

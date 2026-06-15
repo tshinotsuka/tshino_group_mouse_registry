@@ -1,0 +1,15 @@
+sex,genotype_status,genotype_call,animal_status,exp_status,role,source,mating_status,cohort,procedure_type,route,injection_route,anesthesia,analgesia,hemisphere,fixation,operator,ear_mark
+M,pending,+/+,alive,planned,experimental,in_house,paired,personal,cranial_window,inhalation,ic,isoflurane,ketoprophen,R,none,ts,L1
+F,confirmed,+/-,breeding,active,control,vendor,littered,collab,PoRTs_window,ip,ivc,ketamine_xylazine,,L,PFA_perfusion,sk,R1
+U,failed,-/-,nursing,completed,littermate_control,,weaned,,craniotomy,sc,icm,avertin,,midline,immersion,,L1+R1
+,retest,+,mating,excluded,naive,,ended,,viral_injection,iv,,urethane,,,other,,L2
+,na,-,mating_planned,,,,,,CM_injection,im,,3-mixed-1,,,,,R2
+,,na,weaned,,,,,,ICM_injection,po,,other,,,,,L2+R2
+,,,sacrificed,,,,,,CSF_collection,none,,,,,,,punch
+,,,dead,,,,,,femoral_catheter,,,,,,,,
+,,,transferred,,,,,,perfusion_fix,,,,,,,,
+,,,missing,,,,,,tissue_clearing,,,,,,,,
+,,,,,,,,,brain_sampling,,,,,,,,
+,,,,,,,,,imaging,,,,,,,,
+,,,,,,,,,genotyping_biopsy,,,,,,,,
+,,,,,,,,,other,,,,,,,,
