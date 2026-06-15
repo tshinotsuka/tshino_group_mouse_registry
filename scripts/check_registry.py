@@ -16,12 +16,14 @@ import os, re, sys
 from collections import defaultdict, Counter
 import pandas as pd
 
-KNOWN = ["lines","colony","matings","animals","enrollments","projects","procedures","vocab"]
+KNOWN = ["lines","colony","matings","litters","animals","enrollments","projects","procedures","vocab"]
 PK = {"lines":"line_id","colony":"birth_id","matings":"mating_id","animals":"mouse_id",
-      "projects":"project_id","procedures":"procedure_id"}
+      "projects":"project_id","procedures":"procedure_id","litters":"litter_id"}
 FKS = [
     ("colony","line_id","lines","line_id"),
-    ("colony","litter_id","matings","litter_id"),
+    ("colony","litter_id","litters","litter_id"),
+    ("litters","mating_id","matings","mating_id"),
+    ("litters","line_id","lines","line_id"),
     ("animals","birth_id","colony","birth_id"),          # cross-layer
     ("enrollments","mouse_id","animals","mouse_id"),
     ("enrollments","project_id","projects","project_id"),
@@ -38,7 +40,8 @@ VOCAB = [
     ("animals","fixation","fixation"),("animals","sex","sex"),("animals","cohort","cohort"),
     ("enrollments","exp_status","exp_status"),("enrollments","role","role"),
     ("procedures","procedure_type","procedure_type"),("procedures","operator","operator"),
-    ("procedures","anesthesia","anesthesia"),("procedures","route","route"),
+    ("procedures","anesthesia","anesthesia"),("procedures","anesthesia_route","route"),("procedures","analgesia_route","route"),
+    ("procedures","injection_route","injection_route"),
     ("procedures","site1_hemi","hemisphere"),("procedures","site2_hemi","hemisphere"),
 ]
 MOUSE_ID_RE = re.compile(r"^(ts|sk)[0-9]+$")

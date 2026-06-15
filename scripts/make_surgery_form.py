@@ -1,59 +1,189 @@
 #!/usr/bin/env python3
-"""make_surgery_form.py — pre-fill the IBL SurgeryInformation form from the registry (v1.0).
+"""make_surgery_form.py — IBL Surgery フォーム生成 (registry → docx)
 
-Joins procedures + animals + colony (birth facts via birth_id), renders the {{...}}
-merge fields of the template, and writes a printable form. As-performed fields
-(times/weights/checklist/analgesia detail/coordinate confirmation) stay blank for
-handwriting; afterwards transcribe structured deltas back to procedures.
+データ源は **ローカル xlsx** でも **Google Sheets 直読み** でも可。
 
-Usage:
-  python make_surgery_form.py registry.xlsx template.docx <procedure_id> [--pdf]
+使い方:
+  # ローカル xlsx から
+  py make_surgery_form.py registry.xlsx pr-ts301-01
+
+  # Google Sheets から直読み（サービスアカウント認証）
+  py make_surgery_form.py "<SheetID か 共有URL>" pr-ts301-01 --creds key.json
+
+  # テンプレ / 出力先を指定
+  py make_surgery_form.py registry.xlsx pr-ts301-01 \
+      --template templates/SurgeryInformation_template.docx --out out.docx
+
+依存: docxtpl(必須), openpyxl(xlsx時), gspread(Google Sheets時)
+  py -m pip install docxtpl openpyxl gspread
+
+充填欄: mouse_id / sex / age_weeks(手術時) / surgery_date / anesthesia /
+        surgery_type / site1(region,AP,ML,DV)
+手書きのまま残す欄: 体重・時刻・チェックリスト・鎮痛・R/L丸囲み・site2座標
 """
-import sys, os, datetime as dt
-import pandas as pd
-from docxtpl import DocxTemplate
+import argparse, os, sys, datetime
 
-def val(x):
-    if x is None or (isinstance(x, float) and pd.isna(x)): return ""
-    s = str(x).strip(); return "" if s.lower() in ("nan","none","nat") else s
-def as_date(x):
-    if val(x) == "": return None
-    return x.date() if isinstance(x, dt.datetime) else (x if isinstance(x, dt.date) else pd.to_datetime(x).date())
+TABLES = ("procedures", "animals", "colony")
 
-def main(argv):
-    pdf = "--pdf" in argv; a = [x for x in argv if not x.startswith("--")]
-    if len(a) != 3: print(__doc__); return 2
-    xlsx, template, pid = a
-    P = pd.read_excel(xlsx, sheet_name="procedures", dtype=str)
-    A = pd.read_excel(xlsx, sheet_name="animals", dtype=str)
-    C = pd.read_excel(xlsx, sheet_name="colony", dtype=str)
-    prow = P[P["procedure_id"].astype(str).str.strip() == pid]
-    if prow.empty: raise SystemExit(f"procedure_id '{pid}' not found")
-    s = prow.iloc[0]; mouse_id = val(s["mouse_id"])
-    arow = A[A["mouse_id"].astype(str).str.strip() == mouse_id]
-    if arow.empty: raise SystemExit(f"mouse_id '{mouse_id}' not in animals")
-    birth_id = val(arow.iloc[0]["birth_id"])
-    crow = C[C["birth_id"].astype(str).str.strip() == birth_id]
-    sex = val(crow.iloc[0]["sex"]) if not crow.empty else ""
-    dob = as_date(crow.iloc[0]["dob"]) if not crow.empty else None
-    genotype = val(crow.iloc[0]["genotype"]) if not crow.empty else ""
-    sdate = as_date(s["procedure_date"])
-    age_w = round((sdate - dob).days / 7, 1) if (dob and sdate) else ""
-    ctx = {"mouse_id": mouse_id, "sex": sex, "age_weeks": age_w, "genotype": genotype,
-           "surgery_date": sdate.isoformat() if sdate else "",
-           "surgery_type": val(s["procedure_type"]), "construct": val(s.get("construct","")),
-           "route": val(s.get("route","")), "anesthesia": val(s.get("anesthesia",""))}
-    for site in ("site1", "site2"):
-        for f in ("hemi", "region", "ap", "ml", "dv"):
-            ctx[f"{site}_{f}"] = val(s.get(f"{site}_{f}", ""))
-    doc = DocxTemplate(template); doc.render(ctx)
-    out = f"surgery_form_{pid}_{mouse_id}.docx"; doc.save(out)
-    print(f"wrote {out}")
-    print("  context:", {k: ctx[k] for k in ("mouse_id","sex","age_weeks","surgery_date","surgery_type","construct","route","site1_hemi","site1_region","site1_ap","site1_ml","site1_dv")})
-    if pdf:
-        os.system(f'python3 /mnt/skills/public/docx/scripts/office/soffice.py --headless --convert-to pdf "{out}" >/dev/null 2>&1')
-        print(f"  pdf: {os.path.splitext(out)[0]}.pdf")
-    return 0
+
+def _s(v):
+    if v is None:
+        return ""
+    if isinstance(v, (datetime.datetime, datetime.date)):
+        return v
+    return str(v).strip()
+
+
+def load_xlsx(path):
+    import openpyxl
+    wb = openpyxl.load_workbook(path, read_only=True, data_only=True)
+    out = {}
+    for name in TABLES:
+        if name not in wb.sheetnames:
+            out[name] = []
+            continue
+        rows = list(wb[name].iter_rows(values_only=True))
+        if not rows:
+            out[name] = []
+            continue
+        hdr = [h.strip() if isinstance(h, str) else h for h in rows[0]]
+        recs = []
+        for r in rows[1:]:
+            recs.append({hdr[i]: (r[i] if i < len(r) else None)
+                         for i in range(len(hdr)) if hdr[i]})
+        out[name] = recs
+    return out
+
+
+def load_gsheet(sheet, creds):
+    import gspread
+    gc = gspread.service_account(filename=creds)
+    sh = gc.open_by_url(sheet) if str(sheet).startswith("http") else gc.open_by_key(sheet)
+    out = {}
+    for name in TABLES:
+        try:
+            out[name] = sh.worksheet(name).get_all_records()
+        except Exception:
+            out[name] = []
+    return out
+
+
+def index_by(recs, key):
+    d = {}
+    for r in recs:
+        k = _s(r.get(key))
+        if k:
+            d.setdefault(k, r)
+    return d
+
+
+def to_date(v):
+    if isinstance(v, datetime.datetime):
+        return v.date()
+    if isinstance(v, datetime.date):
+        return v
+    s = str(v).strip()
+    for fmt in ("%Y/%m/%d", "%Y-%m-%d", "%Y.%m.%d", "%Y%m%d"):
+        try:
+            return datetime.datetime.strptime(s, fmt).date()
+        except ValueError:
+            pass
+    return None
+
+
+def fmt_date(v):
+    d = to_date(v)
+    return d.strftime("%Y/%m/%d") if d else _s(v)
+
+
+def build_context(tables, pid, age_from="auto"):
+    procs = index_by(tables["procedures"], "procedure_id")
+    if pid not in procs:
+        sys.exit(f"[error] procedure_id '{pid}' が procedures に見つかりません")
+    p = procs[pid]
+    mouse = _s(p.get("mouse_id"))
+    a = index_by(tables["animals"], "mouse_id").get(mouse, {})
+    bid = _s(a.get("birth_id"))
+    c = index_by(tables["colony"], "birth_id").get(bid, {}) if bid else {}
+
+    # 手術時週齢: colony.dob → animals.dob_intake の順に dob を採用し procedure_date から算出
+    age = ""
+    if age_from != "none":
+        pdate = to_date(p.get("procedure_date"))
+        if age_from == "colony":
+            dob = to_date(c.get("dob"))
+        elif age_from == "animals":
+            dob = to_date(a.get("dob_intake"))
+        else:
+            dob = to_date(c.get("dob")) or to_date(a.get("dob_intake"))
+        if pdate and dob:
+            age = round((pdate - dob).days / 7, 1)
+    if age == "":
+        age = _s(a.get("age_weeks"))  # フォールバック(at-sacの可能性あり)
+
+    g = lambda d, k: _s(d.get(k))
+
+    def _join(drug, route):
+        a = str(g(p, drug)) if g(p, drug) != "" else ""
+        b = str(g(p, route)) if g(p, route) != "" else ""
+        return f"{a}, {b}" if (a and b) else (a or b)
+
+    ctx = dict(
+        mouse_id=mouse,
+        sex=g(a, "sex"),
+        age_weeks=age,
+        surgery_date=fmt_date(p.get("procedure_date")),
+        anesthesia=_join("anesthesia", "anesthesia_route"),
+        analgesia=_join("analgesia", "analgesia_route"),
+        surgery_type=g(p, "procedure_type"),
+        site1_region=g(p, "site1_region"),
+        site1_ap=g(p, "site1_ap"),
+        site1_ml=g(p, "site1_ml"),
+        site1_dv=g(p, "site1_dv"),
+    )
+    return {k: ("" if v == "" else str(v)) for k, v in ctx.items()}, p
+
+
+def main():
+    ap = argparse.ArgumentParser(description="IBL Surgery フォーム生成 (xlsx / Google Sheets)")
+    ap.add_argument("source", help="registry.xlsx か Google Sheet ID/共有URL")
+    ap.add_argument("procedure_id")
+    here = os.path.dirname(os.path.abspath(__file__))
+    ap.add_argument("--template",
+                    default=os.path.join(here, "..", "templates", "SurgeryInformation_template.docx"))
+    ap.add_argument("--out", default=None)
+    ap.add_argument("--creds", default=None, help="gspread サービスアカウント json (Google Sheets時必須)")
+    ap.add_argument("--age-from", choices=["auto", "colony", "animals", "none"], default="auto")
+    a = ap.parse_args()
+
+    if a.source.lower().endswith((".xlsx", ".xlsm")):
+        if not os.path.exists(a.source):
+            sys.exit(f"[error] ファイルが見つかりません: {a.source}\n"
+                     f"        ダウンロードした xlsx の実際の場所をパスで指定してください。\n"
+                     f"        例: py make_surgery_form.py \"%USERPROFILE%\\Downloads\\registry.xlsx\" {a.procedure_id}")
+        tables = load_xlsx(a.source)
+    elif a.creds:
+        tables = load_gsheet(a.source, a.creds)
+    else:
+        sys.exit("[error] xlsx のパスを渡すか、Google Sheets の場合は --creds <service_account.json> を指定してください")
+
+    ctx, _ = build_context(tables, a.procedure_id, a.age_from)
+    if not os.path.exists(a.template):
+        sys.exit(f"[error] テンプレートが見つかりません: {a.template}")
+
+    from docxtpl import DocxTemplate
+    tpl = DocxTemplate(a.template)
+    tpl.render(ctx)
+    out = a.out or os.path.join(here, "..", "output", f"surgery_{a.procedure_id}.docx")
+    os.makedirs(os.path.dirname(os.path.abspath(out)), exist_ok=True)
+    tpl.save(out)
+
+    print("生成:", out)
+    print("  充填:", {k: v for k, v in ctx.items() if v != ""})
+    miss = [k for k in ("sex", "age_weeks", "anesthesia", "surgery_type") if ctx[k] == ""]
+    if miss:
+        print("  空欄(手書き):", ", ".join(miss))
+
 
 if __name__ == "__main__":
-    sys.exit(main(sys.argv[1:]))
+    main()
