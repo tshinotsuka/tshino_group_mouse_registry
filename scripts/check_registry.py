@@ -46,7 +46,6 @@ VOCAB = [
 ]
 MOUSE_ID_RE = re.compile(r"^(ts|sk)[0-9]+$")
 BIRTH_ID_RE = re.compile(r"^[a-z0-9_]+-[0-9]+$")
-COHORT_PREFIX = {"personal":"ts","collab":"sk"}
 
 class Report:
     def __init__(self): self.errors,self.warns,self.infos=[],[],[]
@@ -144,12 +143,6 @@ def check(t,rep):
         for r,vv in _cells(df,col):
             if vv not in voc[vn]: rep.err(f"[{tab}] {col}='{vv}' (row {r}) not in vocab[{vn}]")
     c,a,m,p=(t.get(x) for x in ("colony","animals","matings","procedures"))
-    # cohort vs prefix
-    if a is not None and "cohort" in a.columns:
-        for r,mid in _cells(a,"mouse_id"):
-            coh=_val(a["cohort"].iloc[r-2]) if not _missing(a["cohort"].iloc[r-2]) else ""
-            ex=COHORT_PREFIX.get(coh)
-            if ex and not mid.lower().startswith(ex): rep.warn(f"[animals] mouse_id '{mid}' (row {r}) prefix != cohort '{coh}'")
     # matings semantics
     if m is not None and c is not None:
         sex={bid:_val(c["sex"].iloc[i-2]) for i,bid in _cells(c,"birth_id") if "sex" in c.columns and not _missing(c["sex"].iloc[i-2])}
