@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 r"""registry_to_metadata.py — registry snapshot CSV → metadata.yaml subject 充填.
 
-解析 ↔ mouse registry（別 repo `tshino_group_mouse_registry`）の主接点（roadmap §7 未決の
-"registry_to_metadata.py"）。registry の **snapshots/*.csv**（正本=Google Sheet・版管理=CSV）を
+解析 ↔ mouse registry（別 repo `tshino_group_mouse_registry`）の主接点（roadmap §1b
+registry↔metadata・06-16 実装/実データ検証済）。registry の **snapshots/*.csv**（正本=Google Sheet・版管理=CSV）を
 読み、`enrollments.project_id` で当該 project に enroll された個体を絞り、その個体の `subject.*` を
 解析側 dataset の `metadata.yaml` に流し込む。
 
