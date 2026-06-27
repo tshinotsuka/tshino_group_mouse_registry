@@ -1,3 +1,5 @@
-project_id,title,status,notes
-bw2025,brain water dynamics (2025_brain_water_dynamics),active,主
-amy2026,amyloid x glymphatic (5xFAD),active,別P
+project_id,status,notes
+2025_brain_water_dynamics,active,main
+2026_aqp4ko_water_intoxication,active,sub
+2024_5xfad_aqp4ko_epilepsy,active,sub
+2023_aqp4ko_ecm,,

@@ -206,7 +206,7 @@ birth_id,line_id,number,sex,dob,source,litter_id,ear_mark,sire,dam,generation,gt
 5xfad_aqp4ko-67,5xfad_aqp4ko,67,F,2025-05-22,in_house,,,5 x FAD x AQP4KO　53,AQP4KO 33,4,-/-,-/-,-,,APP:-/-; PS1:-/-; AQP4:-,confirmed,alive,,tag:Punch
 5xfad_aqp4ko-68,5xfad_aqp4ko,68,F,2025-05-22,in_house,,,5 x FAD x AQP4KO　53,AQP4KO 33,4,-/-,-/-,-,,APP:-/-; PS1:-/-; AQP4:-,confirmed,alive,,tag:Punch
 5xfad_aqp4ko-69,5xfad_aqp4ko,69,F,2025-05-22,in_house,,,5 x FAD x AQP4KO　53,AQP4KO 33,4,+/-,+/-,-,,APP:+/-; PS1:+/-; AQP4:-,confirmed,alive,,tag:Punch
-5xfad_aqp4ko-70,5xfad_aqp4ko,70,M,2025-10-15,in_house,,,5 x FAD x AQP4KO　65,AQP4KO 59,5,+/-,+/-,-,,APP:+/-; PS1:+/-; AQP4:-,confirmed,mating_planned,,5 x FAD x AQP4KO交配用 tag:Punch orig:交配予定
+5xfad_aqp4ko-70,5xfad_aqp4ko,70,M,2025-10-15,in_house,,,5 x FAD x AQP4KO　65,AQP4KO 59,5,+/-,+/-,-,,APP:+/-; PS1:+/-; AQP4:-,confirmed,mating,,5 x FAD x AQP4KO交配用 tag:Punch orig:交配予定
 5xfad_aqp4ko-71,5xfad_aqp4ko,71,M,2025-10-15,in_house,,,5 x FAD x AQP4KO　65,AQP4KO 59,5,+/-,+/-,-,,APP:+/-; PS1:+/-; AQP4:-,confirmed,alive,,tag:Punch
 5xfad_aqp4ko-72,5xfad_aqp4ko,72,F,2025-10-15,in_house,,,5 x FAD x AQP4KO　65,AQP4KO 59,5,-/-,-/-,-,,APP:-/-; PS1:-/-; AQP4:-,confirmed,alive,,tag:Punch
 5xfad_aqp4ko-73,5xfad_aqp4ko,73,F,2025-10-15,in_house,,,5 x FAD x AQP4KO　65,AQP4KO 59,5,-/-,-/-,-,,APP:-/-; PS1:-/-; AQP4:-,confirmed,alive,,tag:Punch
@@ -214,28 +214,28 @@ birth_id,line_id,number,sex,dob,source,litter_id,ear_mark,sire,dam,generation,gt
 5xfad_aqp4ko-75,5xfad_aqp4ko,75,F,2025-10-15,in_house,,,5 x FAD x AQP4KO　65,AQP4KO 59,5,-/-,-/-,-,,APP:-/-; PS1:-/-; AQP4:-,confirmed,alive,,tag:Punch
 5xfad_aqp4ko-76,5xfad_aqp4ko,76,F,2025-10-15,in_house,,,5 x FAD x AQP4KO　65,AQP4KO 59,5,+/-,+/-,-,,APP:+/-; PS1:+/-; AQP4:-,confirmed,alive,,tag:Punch
 5xfad_aqp4ko-77,5xfad_aqp4ko,77,M,2025-10-19,in_house,,,5 x FAD x AQP4KO　60,AQP4KO 57,5,-/-,-/-,-,,APP:-/-; PS1:-/-; AQP4:-,confirmed,alive,,tag:Punch
-5xfad_aqp4ko-78,5xfad_aqp4ko,78,M,2025-10-19,in_house,,,5 x FAD x AQP4KO　60,AQP4KO 57,5,+/-,+/-,-,,APP:+/-; PS1:+/-; AQP4:-,confirmed,mating_planned,,5 x FAD x AQP4KO交配用 tag:Punch orig:交配予定
+5xfad_aqp4ko-78,5xfad_aqp4ko,78,M,2025-10-19,in_house,,,5 x FAD x AQP4KO　60,AQP4KO 57,5,+/-,+/-,-,,APP:+/-; PS1:+/-; AQP4:-,confirmed,mating,,5 x FAD x AQP4KO交配用 tag:Punch orig:交配予定
 5xfad_aqp4ko-79,5xfad_aqp4ko,79,F,2025-10-19,in_house,,,5 x FAD x AQP4KO　60,AQP4KO 57,5,+/-,+/-,-,,APP:+/-; PS1:+/-; AQP4:-,confirmed,alive,,tag:Punch
 5xfad_aqp4ko-80,5xfad_aqp4ko,80,F,2025-10-19,in_house,,,5 x FAD x AQP4KO　60,AQP4KO 57,5,-/-,-/-,-,,APP:-/-; PS1:-/-; AQP4:-,confirmed,alive,,tag:Punch
 5xfad_aqp4ko-81,5xfad_aqp4ko,81,F,2025-10-19,in_house,,,5 x FAD x AQP4KO　60,AQP4KO 57,5,+/-,+/-,-,,APP:+/-; PS1:+/-; AQP4:-,confirmed,alive,,tag:Punch orig:実験中
 5xfad_aqp4ko-82,5xfad_aqp4ko,82,F,2025-10-19,in_house,,,5 x FAD x AQP4KO　60,AQP4KO 57,5,+/-,+/-,-,,APP:+/-; PS1:+/-; AQP4:-,confirmed,alive,,tag:Punch orig:実験中
 5xfad_aqp4ko-83,5xfad_aqp4ko,83,F,2025-10-19,in_house,,,5 x FAD x AQP4KO　60,AQP4KO 57,5,-/-,-/-,-,,APP:-/-; PS1:-/-; AQP4:-,confirmed,alive,,tag:Punch orig:実験中
-5xfad_aqp4ko-84,5xfad_aqp4ko,84,,2026-05-21,in_house,,,5 x FAD 121,AQP4KO 80,,,,,,,pending,alive,,
-5xfad_aqp4ko-85,5xfad_aqp4ko,85,,2026-05-21,in_house,,,5 x FAD 121,AQP4KO 80,,,,,,,pending,alive,,
-5xfad_aqp4ko-86,5xfad_aqp4ko,86,,2026-05-21,in_house,,,5 x FAD 121,AQP4KO 80,,,,,,,pending,alive,,
-5xfad_aqp4ko-87,5xfad_aqp4ko,87,,2026-05-21,in_house,,,5 x FAD 121,AQP4KO 80,,,,,,,pending,alive,,
-5xfad_aqp4ko-88,5xfad_aqp4ko,88,,2026-05-21,in_house,,,5 x FAD 121,AQP4KO 80,,,,,,,pending,alive,,
-5xfad_aqp4ko-89,5xfad_aqp4ko,89,,2026-05-21,in_house,,,5 x FAD 121,AQP4KO 80,,,,,,,pending,alive,,
-5xfad_aqp4ko-90,5xfad_aqp4ko,90,,2026-05-21,in_house,,,5 x FAD 121,AQP4KO 80,,,,,,,pending,alive,,
-5xfad_aqp4ko-91,5xfad_aqp4ko,91,,2026-05-21,in_house,,,5 x FAD 121,AQP4KO 80,,,,,,,pending,alive,,
-5xfad_aqp4ko-92,5xfad_aqp4ko,92,,2026-05-21,in_house,,,5 x FAD 121,AQP4KO 80,,,,,,,pending,alive,,
-5xfad_aqp4ko-93,5xfad_aqp4ko,93,,2026-05-21,in_house,,,5 x FAD 121,AQP4KO 80,,,,,,,pending,alive,,
-5xfad_aqp4ko-94,5xfad_aqp4ko,94,,2026-05-23,in_house,,,5 x FAD 120,AQP4KO 79,,,,,,,pending,alive,,
-5xfad_aqp4ko-95,5xfad_aqp4ko,95,,2026-05-23,in_house,,,5 x FAD 120,AQP4KO 79,,,,,,,pending,alive,,
-5xfad_aqp4ko-96,5xfad_aqp4ko,96,,2026-05-23,in_house,,,5 x FAD 120,AQP4KO 79,,,,,,,pending,alive,,
-5xfad_aqp4ko-97,5xfad_aqp4ko,97,,2026-05-23,in_house,,,5 x FAD 120,AQP4KO 79,,,,,,,pending,alive,,
-5xfad_aqp4ko-98,5xfad_aqp4ko,98,,2026-05-23,in_house,,,5 x FAD 120,AQP4KO 79,,,,,,,pending,alive,,
-5xfad_aqp4ko-99,5xfad_aqp4ko,99,,2026-05-23,in_house,,,5 x FAD 120,AQP4KO 79,,,,,,,pending,alive,,
+5xfad_aqp4ko-84,5xfad_aqp4ko,84,M,2026-05-21,in_house,,,5 x FAD 121,AQP4KO 80,,,,,,,pending,alive,,
+5xfad_aqp4ko-85,5xfad_aqp4ko,85,M,2026-05-21,in_house,,,5 x FAD 121,AQP4KO 80,,,,,,,pending,alive,,
+5xfad_aqp4ko-86,5xfad_aqp4ko,86,M,2026-05-21,in_house,,,5 x FAD 121,AQP4KO 80,,,,,,,pending,alive,,
+5xfad_aqp4ko-87,5xfad_aqp4ko,87,M,2026-05-21,in_house,,,5 x FAD 121,AQP4KO 80,,,,,,,pending,alive,,
+5xfad_aqp4ko-88,5xfad_aqp4ko,88,M,2026-05-21,in_house,,,5 x FAD 121,AQP4KO 80,,,,,,,pending,alive,,
+5xfad_aqp4ko-89,5xfad_aqp4ko,89,M,2026-05-21,in_house,,,5 x FAD 121,AQP4KO 80,,,,,,,pending,alive,,
+5xfad_aqp4ko-90,5xfad_aqp4ko,90,F,2026-05-21,in_house,,,5 x FAD 121,AQP4KO 80,,,,,,,pending,alive,,
+5xfad_aqp4ko-91,5xfad_aqp4ko,91,F,2026-05-21,in_house,,,5 x FAD 121,AQP4KO 80,,,,,,,pending,alive,,
+5xfad_aqp4ko-92,5xfad_aqp4ko,92,F,2026-05-21,in_house,,,5 x FAD 121,AQP4KO 80,,,,,,,pending,alive,,
+5xfad_aqp4ko-93,5xfad_aqp4ko,93,F,2026-05-21,in_house,,,5 x FAD 121,AQP4KO 80,,,,,,,pending,alive,,
+5xfad_aqp4ko-94,5xfad_aqp4ko,94,M,2026-05-23,in_house,,,5 x FAD 120,AQP4KO 79,,,,,,,pending,alive,,
+5xfad_aqp4ko-95,5xfad_aqp4ko,95,M,2026-05-23,in_house,,,5 x FAD 120,AQP4KO 79,,,,,,,pending,alive,,
+5xfad_aqp4ko-96,5xfad_aqp4ko,96,M,2026-05-23,in_house,,,5 x FAD 120,AQP4KO 79,,,,,,,pending,alive,,
+5xfad_aqp4ko-97,5xfad_aqp4ko,97,M,2026-05-23,in_house,,,5 x FAD 120,AQP4KO 79,,,,,,,pending,alive,,
+5xfad_aqp4ko-98,5xfad_aqp4ko,98,F,2026-05-23,in_house,,,5 x FAD 120,AQP4KO 79,,,,,,,pending,alive,,
+5xfad_aqp4ko-99,5xfad_aqp4ko,99,,2026-05-23,in_house,,,5 x FAD 120,AQP4KO 79,,,,,,,pending,dead,,離乳前に死亡
 aqp4ko-1,aqp4ko,1,M,2023-03-06,in_house,,,AQP4KO-28,AQP4KO-10,2,,,-,,AQP4:-,confirmed,sacrificed,,
 aqp4ko-2,aqp4ko,2,M,2023-03-06,in_house,,,AQP4KO-28,AQP4KO-10,2,,,-,,AQP4:-,confirmed,sacrificed,,tag:左1
 aqp4ko-3,aqp4ko,3,F,2023-03-08,in_house,,,AQP4KO-28,AQP4KO-10,2,,,-,,AQP4:-,confirmed,sacrificed,,
@@ -309,29 +309,29 @@ aqp4ko-70,aqp4ko,70,M,2026-01-29,in_house,,,AQP4KO＃54,AQP4KO＃63,5,,,-,,AQP4:
 aqp4ko-71,aqp4ko,71,M,2026-01-29,in_house,,,AQP4KO＃54,AQP4KO＃63,5,,,-,,AQP4:-,confirmed,alive,,
 aqp4ko-72,aqp4ko,72,M,2026-01-29,in_house,,,AQP4KO＃54,AQP4KO＃63,5,,,-,,AQP4:-,confirmed,alive,,
 aqp4ko-73,aqp4ko,73,M,2026-01-29,in_house,,,AQP4KO＃54,AQP4KO＃63,5,,,-,,AQP4:-,confirmed,alive,,
-aqp4ko-74,aqp4ko,74,F,2026-01-29,in_house,,,AQP4KO＃54,AQP4KO＃63,5,,,-,,AQP4:-,confirmed,nursing,,AQP4KO交配用 orig:育児中
+aqp4ko-74,aqp4ko,74,F,2026-01-29,in_house,,,AQP4KO＃54,AQP4KO＃63,5,,,-,,AQP4:-,confirmed,alive,,AQP4KO交配用 orig:育児中
 aqp4ko-75,aqp4ko,75,M,2026-02-01,in_house,,,AQP4KO＃55,AQP4KO＃64,5,,,-,,AQP4:-,confirmed,alive,,AQP4KO交配用→2026/05/12終了 tag:Punch
-aqp4ko-76,aqp4ko,76,F,2026-02-01,in_house,,,AQP4KO＃55,AQP4KO＃64,5,,,-,,AQP4:-,confirmed,nursing,,AQP4KO交配用 orig:育児中
+aqp4ko-76,aqp4ko,76,F,2026-02-01,in_house,,,AQP4KO＃55,AQP4KO＃64,5,,,-,,AQP4:-,confirmed,alive,,AQP4KO交配用 orig:育児中
 aqp4ko-77,aqp4ko,77,F,2026-02-01,in_house,,,AQP4KO＃55,AQP4KO＃64,5,,,-,,AQP4:-,confirmed,mating,,CAGEGFP/AQP4KO交配用→出産見込みなし orig:交配中
-aqp4ko-78,aqp4ko,78,F,2026-02-01,in_house,,,AQP4KO＃55,AQP4KO＃64,5,,,-,,AQP4:-,confirmed,nursing,,CAGEGFP/AQP4KO交配用 orig:育児中
-aqp4ko-79,aqp4ko,79,F,2026-02-01,in_house,,,AQP4KO＃55,AQP4KO＃64,5,,,-,,AQP4:-,confirmed,nursing,,5 x FAD x AQP4KO交配用 orig:育児中
-aqp4ko-80,aqp4ko,80,F,2026-02-01,in_house,,,AQP4KO＃55,AQP4KO＃64,5,,,-,,AQP4:-,confirmed,nursing,,5 x FAD x AQP4KO交配用 orig:育児中
-aqp4ko-81,aqp4ko,81,,2026-05-18,in_house,,,AQP4KO＃75,AQP4KO＃74,6,,,-,,AQP4:-,confirmed,sacrificed,,→尾崎さん
-aqp4ko-82,aqp4ko,82,,2026-05-18,in_house,,,AQP4KO＃75,AQP4KO＃74,6,,,-,,AQP4:-,confirmed,alive,,
-aqp4ko-83,aqp4ko,83,,2026-05-18,in_house,,,AQP4KO＃75,AQP4KO＃74,6,,,-,,AQP4:-,confirmed,alive,,
-aqp4ko-84,aqp4ko,84,,2026-05-18,in_house,,,AQP4KO＃75,AQP4KO＃74,6,,,-,,AQP4:-,confirmed,alive,,
-aqp4ko-85,aqp4ko,85,,2026-05-18,in_house,,,AQP4KO＃75,AQP4KO＃74,6,,,-,,AQP4:-,confirmed,alive,,
-aqp4ko-86,aqp4ko,86,,2026-05-18,in_house,,,AQP4KO＃75,AQP4KO＃74,6,,,-,,AQP4:-,confirmed,alive,,
-aqp4ko-87,aqp4ko,87,,2026-05-19,in_house,,,AQP4KO＃66,AQP4KO＃76,6,,,-,,AQP4:-,confirmed,sacrificed,,→尾崎さん
-aqp4ko-88,aqp4ko,88,,2026-05-19,in_house,,,AQP4KO＃66,AQP4KO＃76,6,,,-,,AQP4:-,confirmed,alive,,
-aqp4ko-89,aqp4ko,89,,2026-05-19,in_house,,,AQP4KO＃66,AQP4KO＃76,6,,,-,,AQP4:-,confirmed,alive,,
-aqp4ko-90,aqp4ko,90,,2026-05-19,in_house,,,AQP4KO＃66,AQP4KO＃76,6,,,-,,AQP4:-,confirmed,alive,,
-aqp4ko-91,aqp4ko,91,,2026-05-19,in_house,,,AQP4KO＃66,AQP4KO＃76,6,,,-,,AQP4:-,confirmed,alive,,
-aqp4ko-92,aqp4ko,92,,2026-05-19,in_house,,,AQP4KO＃66,AQP4KO＃76,6,,,-,,AQP4:-,confirmed,alive,,
-aqp4ko-93,aqp4ko,93,,2026-05-19,in_house,,,AQP4KO＃66,AQP4KO＃76,6,,,-,,AQP4:-,confirmed,alive,,
-aqp4ko-94,aqp4ko,94,,2026-05-19,in_house,,,AQP4KO＃66,AQP4KO＃76,6,,,-,,AQP4:-,confirmed,alive,,
-aqp4ko-95,aqp4ko,95,,2026-05-19,in_house,,,AQP4KO＃66,AQP4KO＃76,6,,,-,,AQP4:-,confirmed,alive,,
-aqp4ko-96,aqp4ko,96,,2026-05-19,in_house,,,AQP4KO＃66,AQP4KO＃76,6,,,-,,AQP4:-,confirmed,alive,,
+aqp4ko-78,aqp4ko,78,F,2026-02-01,in_house,,,AQP4KO＃55,AQP4KO＃64,5,,,-,,AQP4:-,confirmed,alive,,CAGEGFP/AQP4KO交配用 orig:育児中
+aqp4ko-79,aqp4ko,79,F,2026-02-01,in_house,,,AQP4KO＃55,AQP4KO＃64,5,,,-,,AQP4:-,confirmed,mating,,5 x FAD x AQP4KO交配用 orig:育児中
+aqp4ko-80,aqp4ko,80,F,2026-02-01,in_house,,,AQP4KO＃55,AQP4KO＃64,5,,,-,,AQP4:-,confirmed,mating,,5 x FAD x AQP4KO交配用 orig:育児中
+aqp4ko-81,aqp4ko,81,,2026-05-18,in_house,,,AQP4KO＃75,AQP4KO＃74,6,,,-,,AQP4:-,pending,sacrificed,,→尾崎さん
+aqp4ko-82,aqp4ko,82,M,2026-05-18,in_house,,,AQP4KO＃75,AQP4KO＃74,6,,,-,,AQP4:-,pending,alive,,
+aqp4ko-83,aqp4ko,83,M,2026-05-18,in_house,,,AQP4KO＃75,AQP4KO＃74,6,,,-,,AQP4:-,pending,alive,,
+aqp4ko-84,aqp4ko,84,M,2026-05-18,in_house,,,AQP4KO＃75,AQP4KO＃74,6,,,-,,AQP4:-,pending,alive,,
+aqp4ko-85,aqp4ko,85,M,2026-05-18,in_house,,,AQP4KO＃75,AQP4KO＃74,6,,,-,,AQP4:-,pending,alive,,
+aqp4ko-86,aqp4ko,86,F,2026-05-18,in_house,,,AQP4KO＃75,AQP4KO＃74,6,,,-,,AQP4:-,pending,alive,,
+aqp4ko-87,aqp4ko,87,M,2026-05-19,in_house,,,AQP4KO＃66,AQP4KO＃76,6,,,-,,AQP4:-,pending,sacrificed,,→尾崎さん
+aqp4ko-88,aqp4ko,88,M,2026-05-19,in_house,,,AQP4KO＃66,AQP4KO＃76,6,,,-,,AQP4:-,pending,alive,,
+aqp4ko-89,aqp4ko,89,M,2026-05-19,in_house,,,AQP4KO＃66,AQP4KO＃76,6,,,-,,AQP4:-,pending,alive,,
+aqp4ko-90,aqp4ko,90,M,2026-05-19,in_house,,,AQP4KO＃66,AQP4KO＃76,6,,,-,,AQP4:-,pending,alive,,
+aqp4ko-91,aqp4ko,91,M,2026-05-19,in_house,,,AQP4KO＃66,AQP4KO＃76,6,,,-,,AQP4:-,pending,alive,,
+aqp4ko-92,aqp4ko,92,M,2026-05-19,in_house,,,AQP4KO＃66,AQP4KO＃76,6,,,-,,AQP4:-,pending,alive,,
+aqp4ko-93,aqp4ko,93,F,2026-05-19,in_house,,,AQP4KO＃66,AQP4KO＃76,6,,,-,,AQP4:-,confirmed,alive,,
+aqp4ko-94,aqp4ko,94,F,2026-05-19,in_house,,,AQP4KO＃66,AQP4KO＃76,6,,,-,,AQP4:-,confirmed,alive,,
+aqp4ko-95,aqp4ko,95,F,2026-05-19,in_house,,,AQP4KO＃66,AQP4KO＃76,6,,,-,,AQP4:-,confirmed,alive,,
+aqp4ko-96,aqp4ko,96,F,2026-05-19,in_house,,,AQP4KO＃66,AQP4KO＃76,6,,,-,,AQP4:-,confirmed,alive,,
 cagegfp-105,cagegfp,105,M,2025-02-20,in_house,,,CAG-EGFP 69,CAG-EGFP 65,4,,,,+,CAG-EGFP:+,confirmed,sacrificed,,tag:Punch
 cagegfp-106,cagegfp,106,M,2025-02-20,in_house,,,CAG-EGFP 69,CAG-EGFP 65,4,,,,+,CAG-EGFP:+,confirmed,sacrificed,,tag:Punch
 cagegfp-107,cagegfp,107,M,2025-02-20,in_house,,,CAG-EGFP 69,CAG-EGFP 65,4,,,,+,CAG-EGFP:+,confirmed,sacrificed,,tag:Punch
@@ -645,7 +645,7 @@ wt-171,wt,171,M,2026-03-05,vendor,,,WT,WT,1,,,,,,na,alive,,日本クレアから
 wt-172,wt,172,M,2026-03-05,vendor,,,WT,WT,1,,,,,,na,alive,,日本クレアから2026/4/14搬入 orig:実験中
 wt-173,wt,173,M,2026-03-05,vendor,,,WT,WT,1,,,,,,na,sacrificed,,日本クレアから2026/4/14搬入
 wt-174,wt,174,M,2026-03-05,vendor,,,WT,WT,1,,,,,,na,sacrificed,,日本クレアから2026/4/14搬入
-wt-175,wt,175,M,2026-03-05,vendor,,,WT,WT,1,,,,,,na,alive,,日本クレアから2026/4/14搬入 orig:実験中
+wt-175,wt,175,M,2026-03-05,vendor,,,WT,WT,1,,,,,,na,dead,,日本クレアから2026/4/14搬入 orig:実験中
 wt-176,wt,176,M,2026-03-05,vendor,,,WT,WT,1,,,,,,na,alive,,日本クレアから2026/4/14搬入 orig:実験中
 wt-177,wt,177,M,2026-03-05,vendor,,,WT,WT,1,,,,,,na,sacrificed,,日本クレアから2026/4/14搬入
 wt-178,wt,178,M,2026-03-05,vendor,,,WT,WT,1,,,,,,na,alive,,日本クレアから2026/4/14搬入 orig:実験中
@@ -780,3 +780,7 @@ wt-114,wt,114,M,2024-11-13,vendor,,,WT,WT,2,,,,,,na,sacrificed,,日本クレア�
 wt-115,wt,115,M,2024-11-13,vendor,,,WT,WT,2,,,,,,na,sacrificed,,日本クレアから2025/1/9搬入 tag:Punch
 wt-116,wt,116,M,2024-11-13,vendor,,,WT,WT,2,,,,,,na,sacrificed,,日本クレアから2025/1/9搬入 tag:Punch
 wt-117,wt,117,M,2024-08-23,in_house,,,WT,WT,2,,,,,,na,sacrificed,,From Nuriya Group
+cagegfp-151,cagegfp,151,M,2026-05-02,vendor,,N,,,1,,,,+/+,CAG-EGFP:+/+,confirmed,alive,,"vendor: RIKEN BRC Delivered on June 26, 2026, 00267SA05640102"
+cagegfp-152,cagegfp,152,M,2026-05-02,vendor,,R1,,,1,,,,+/+,CAG-EGFP:+/+,confirmed,alive,,"vendor: RIKEN BRC Delivered on June 26, 2026, 00267SA05640103"
+cagegfp-153,cagegfp,153,F,2026-04-22,vendor,,L1,,,1,,,,+/+,CAG-EGFP:+/+,confirmed,alive,,"vendor: RIKEN BRC Delivered on June 26, 2026, 00267SA05630101"
+cagegfp-154,cagegfp,154,F,2026-04-22,vendor,,RL1,,,1,,,,+/+,CAG-EGFP:+/+,confirmed,alive,,"vendor: RIKEN BRC Delivered on June 26, 2026, 00267SA05630102"
