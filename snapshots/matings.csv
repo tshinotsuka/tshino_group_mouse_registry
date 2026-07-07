@@ -1,10 +1,10 @@
 mating_id,line_id,sire_id,dam_id,pair_start_date,status,notes
 mat-aqp4ko-1,aqp4ko,aqp4ko-75,aqp4ko-74,2026-06-16,paired,→尾崎さん
-mat-5xfad_aqp4ko-1,5xfad_aqp4ko,5xfad_aqp4ko-70,aqp4ko-80,2026-06-16,pregnant,
+mat-5xfad_aqp4ko-1,5xfad_aqp4ko,5xfad_aqp4ko-70,aqp4ko-80,2026-06-16,nursing,
 mat-5xfad_aqp4ko-2,5xfad_aqp4ko,5xfad_aqp4ko-78,aqp4ko-79,2026-06-22,paired,
 mat-cagegfp-1,cagegfp,cagegfp-148,cagegfp-143,2026-06-01,nursing,
 mat-cagegfp-2,cagegfp,cagegfp-149,cagegfp-144,2026-06-01,ended,子全死亡
 mat-5xfad-1,5xfad,5xfad-120,wt-181,2026-05-07,weaned,
-mat-5xfad-2,5xfad,5xfad-121,wt-182,2026-05-07,nursing,
+mat-5xfad-2,5xfad,5xfad-121,wt-182,2026-05-07,weaned,
 mat-cagegfp-3,cagegfp,cagegfp-151,cagegfp-153,2026-06-30,paired,
 mat-cagegfp-4,cagegfp,cagegfp-152,cagegfp-154,2026-06-30,paired,
