@@ -315,7 +315,7 @@ sk24,,collab,F,cagegfp,2025-12-17,,,,#140
 sk25,wt-175,collab,M,wt,2026-03-05,2026-06-23,,,#175
 sk26,cagegfp-96,collab,M,cagegfp_aqp4ko,2026-03-10,,,,#96 カバーガラスの下に一部気泡が入った
 sk27,wt-176,collab,M,wt,2026-03-05,,,,#176
-sk28,,collab,M,aqp4ko,2026-01-29,,,,#67
+sk28,aqp4ko-67,collab,M,aqp4ko,2026-01-29,,,,#67
 sk29,,collab,M,aqp4ko,2026-01-29,,,,#68
 sk30,,collab,M,aqp4ko,2026-01-29,,,,#69
 sk31,,collab,F,cagegfp,2026-02-14,2026-06-08,,,#150 surgery中に死亡
@@ -323,7 +323,10 @@ sk32,,collab,F,cagegfp,2025-12-17,,,,#142
 sk33,,collab,F,cagegfp,2025-12-17,,,,#141
 sk34,,collab,M,wt,2026-04-15,,,,#187 篠塚先生Demo
 sk35,,collab,M,wt,2026-04-15,2026-06-11,,,#188 頭蓋骨穴あけ失敗→sac
-sk36,,collab,M,wt,2026-04-15,,,,#189
-ts290,cagegfp-139,personal,M,cagegfp,2025-12-17,,,CAG-EGFP:+,
+sk36,,collab,M,wt,2026-04-15,2026-06-15,,,#189 
+ts290,cagegfp-139,personal,M,cagegfp,2025-12-17,2026-06-26,,CAG-EGFP:+,
 sk37,wt-190,collab,M,wt,2026-04-15,,,,
 sk38,wt-191,collab,M,wt,2026-04-15,,,,
+sk39,cagegfp-148,collab,M,cagrgfp,2026-02-14,,,CAG-EGFP:+,
+sk40,cagegfp-145,collab,M,cagrgfp,2026-02-09,,,CAG-EGFP:+,端のほう少し削りすぎて骨にひびが入った
+sk41,cagegfp-149,collab,M,cagrgfp,2026-02-14,,,CAG-EGFP:+,

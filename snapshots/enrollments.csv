@@ -1,6 +1,10 @@
 mouse_id,project_id,enroll_date,role,exp_status,notes
-ts290,2025_brain_water_dynamics,2026-05-13,experimental,active,
+ts290,2025_brain_water_dynamics,2026-05-13,experimental,completed,
 sk37,2025_brain_water_dynamics,2026-06-15,control,active,
 sk25,2026_aqp4ko_water_intoxication,2026-05-28,experimental,excluded,
 sk38,2025_brain_water_dynamics,2026-06-22,control,active,
 sk27,2025_brain_water_dynamics,2026-06-25,control,active,
+sk39,2025_brain_water_dynamics,2026-06-30,experimental,active,
+sk40,2025_brain_water_dynamics,2026-06-30,experimental,active,
+sk41,2025_brain_water_dynamics,2026-07-02,experimental,active,
+sk28,2025_brain_water_dynamics,2026-06-02,experimental,active,
