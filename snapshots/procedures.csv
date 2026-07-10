@@ -1,396 +1,399 @@
 procedure_id,mouse_id,procedure_type,procedure_date,series_id,session_no,operator,anesthesia,anesthesia_route,analgesia,analgesia_route,construct/dye,injection_route,site1_hemi,site1_region,site1_ap,site1_ml,site1_dv,outcome,notebook_scan,notes,days_since
-pr-ts1-01,ts1,cranial_window,2022-06-08,,,ts,,,,,,,,,,,,,,チャンバーづけ,1490
-pr-ts2-01,ts2,cranial_window,2022-06-09,,,ts,,,,,,,,,,,,,,チャンバーづけ,1489
-pr-ts3-01,ts3,other,2022-11-11,,,ts,,,,,,,,,,,,,,FastBlue,1334
-pr-ts4-01,ts4,CM_injection,2022-11-17,,,ts,,,,,,,,,,,,,,CM Catheter,1328
-pr-ts4-02,ts4,cranial_window,2022-11-17,,,ts,,,,,,,,,,,,,,チャンバーづけ,1328
-pr-ts5-01,ts5,CM_injection,2022-11-21,,,ts,,,,,,,,,,,,,,CM Catheter,1324
-pr-ts5-02,ts5,cranial_window,2022-11-21,,,ts,,,,,,,,,,,,,,チャンバーづけ,1324
-pr-ts6-01,ts6,CM_injection,2022-11-21,,,ts,,,,,,,,,,,,,,CM Catheter,1324
-pr-ts6-02,ts6,cranial_window,2022-11-21,,,ts,,,,,,,,,,,,,,チャンバーづけ,1324
-pr-ts7-01,ts7,CM_injection,2022-11-25,,,ts,,,,,,,,,,,,,,CM Catheter,1320
-pr-ts7-02,ts7,cranial_window,2022-11-25,,,ts,,,,,,,,,,,,,,チャンバーづけ,1320
-pr-ts8-01,ts8,CM_injection,2022-11-25,,,ts,,,,,,,,,,,,,,CM Catheter,1320
-pr-ts8-02,ts8,cranial_window,2022-11-25,,,ts,,,,,,,,,,,,,,チャンバーづけ,1320
-pr-ts9-01,ts9,other,2022-12-06,,,ts,,,,,,,,,,,,,,FastBlue,1309
-pr-ts10-01,ts10,CM_injection,2023-01-13,,,ts,,,,,,,,,,,,,,CM Catheter,1271
-pr-ts10-02,ts10,cranial_window,2023-01-13,,,ts,,,,,,,,,,,,,,Window,1271
-pr-ts11-01,ts11,CSF_collection,2023-11-06,,,ts,,,,,,,,,,,,,,CSF Collection,974
-pr-ts12-01,ts12,CSF_collection,2023-11-07,,,ts,,,,,,,,,,,,,,CSF Collection,973
-pr-ts13-01,ts13,cranial_window,2023-11-09,,,ts,,,,,,,,,,,,,,Cranial window,971
-pr-ts14-01,ts14,CSF_collection,2023-11-13,,,ts,,,,,,,,,,,,,,CSF Collection,967
-pr-ts15-01,ts15,CSF_collection,2023-11-13,,,ts,,,,,,,,,,,,,,CSF Collection,967
-pr-ts16-01,ts16,CSF_collection,2023-11-13,,,ts,,,,,,,,,,,,,,CSF Collection,967
-pr-ts17-01,ts17,CSF_collection,2023-11-14,,,ts,,,,,,,,,,,,,,CSF Collection,966
-pr-ts18-01,ts18,CSF_collection,2023-11-14,,,ts,,,,,,,,,,,,,,CSF Collection,966
-pr-ts19-01,ts19,femoral_catheter,2023-11-16,,,ts,,,,,,,,,,,,,,Femoral artery catheter,964
-pr-ts20-01,ts20,cranial_window,2023-11-27,,,ts,,,,,,,,,,,,,,Cranial window,953
-pr-ts21-01,ts21,cranial_window,2023-12-06,,,ts,,,,,,,,,,,,,,Cranial window,944
-pr-ts22-01,ts22,other,2023-12-08,,,ts,,,,,,,,,,,,,,Needle insertion,942
-pr-ts23-01,ts23,cranial_window,2023-12-12,,,ts,,,,,,,,,,,,,,Cranial window,938
-pr-ts24-01,ts24,CM_injection,2023-12-18,,,ts,,,,,,,,,,,,,,CM Catheter,932
-pr-ts24-02,ts24,cranial_window,2023-12-18,,,ts,,,,,,,,,,,,,,チャンバーづけ,932
-pr-ts25-01,ts25,CM_injection,2023-12-29,,,ts,,,,,,,,,,,,,,CM Catheter,921
-pr-ts25-02,ts25,cranial_window,2023-12-29,,,ts,,,,,,,,,,,,,,チャンバーづけ,921
-pr-ts26-01,ts26,cranial_window,2024-01-10,,,ts,,,,,,,,,,,,,,Cranial window,909
-pr-ts27-01,ts27,cranial_window,2024-01-11,,,ts,,,,,,,,,,,,,,Cranial window,908
-pr-ts28-01,ts28,CM_injection,2024-01-16,,,ts,,,,,,,,,,,,,,CM Catheter,903
-pr-ts28-02,ts28,cranial_window,2024-01-16,,,ts,,,,,,,,,,,,,,Window,903
-pr-ts29-01,ts29,CM_injection,2024-01-19,,,ts,,,,,,,,,,,,,,CM Catheter,900
-pr-ts29-02,ts29,cranial_window,2024-01-19,,,ts,,,,,,,,,,,,,,Window,900
-pr-ts30-01,ts30,CM_injection,2024-01-23,,,ts,,,,,,,,,,,,,,CM Catheter,896
-pr-ts30-02,ts30,cranial_window,2024-01-23,,,ts,,,,,,,,,,,,,,Window,896
-pr-ts31-01,ts31,CSF_collection,2024-01-30,,,ts,,,,,,,,,,,,,,CSF Collection,889
-pr-ts31-02,ts31,cranial_window,2024-01-30,,,ts,,,,,,,,,,,,,,チャンバーづけ,889
-pr-ts32-01,ts32,CSF_collection,2024-02-07,,,ts,,,,,,,,,,,,,,CSF Collection,881
-pr-ts32-02,ts32,cranial_window,2024-02-07,,,ts,,,,,,,,,,,,,,チャンバーづけ,881
-pr-ts33-01,ts33,CSF_collection,2024-02-07,,,ts,,,,,,,,,,,,,,CSF Collection,881
-pr-ts33-02,ts33,cranial_window,2024-02-07,,,ts,,,,,,,,,,,,,,チャンバーづけ,881
-pr-ts34-01,ts34,CSF_collection,2024-02-07,,,ts,,,,,,,,,,,,,,CSF Collection,881
-pr-ts34-02,ts34,cranial_window,2024-02-07,,,ts,,,,,,,,,,,,,,チャンバーづけ,881
-pr-ts35-01,ts35,CSF_collection,2024-02-07,,,ts,,,,,,,,,,,,,,CSF Collection,881
-pr-ts35-02,ts35,cranial_window,2024-02-07,,,ts,,,,,,,,,,,,,,チャンバーづけ,881
-pr-ts36-01,ts36,CSF_collection,2024-02-08,,,ts,,,,,,,,,,,,,,CSF Collection,880
-pr-ts36-02,ts36,cranial_window,2024-02-08,,,ts,,,,,,,,,,,,,,チャンバーづけ,880
-pr-ts37-01,ts37,CSF_collection,2024-02-08,,,ts,,,,,,,,,,,,,,CSF Collection,880
-pr-ts37-02,ts37,cranial_window,2024-02-08,,,ts,,,,,,,,,,,,,,チャンバーづけ,880
-pr-ts38-01,ts38,CSF_collection,2024-02-08,,,ts,,,,,,,,,,,,,,CSF Collection,880
-pr-ts38-02,ts38,cranial_window,2024-02-08,,,ts,,,,,,,,,,,,,,チャンバーづけ,880
-pr-ts39-01,ts39,CSF_collection,2024-02-19,,,ts,,,,,,,,,,,,,,CSF Collection,869
-pr-ts39-02,ts39,cranial_window,2024-02-19,,,ts,,,,,,,,,,,,,,チャンバーづけ,869
-pr-ts40-01,ts40,CSF_collection,2024-02-19,,,ts,,,,,,,,,,,,,,CSF Collection,869
-pr-ts40-02,ts40,cranial_window,2024-02-19,,,ts,,,,,,,,,,,,,,チャンバーづけ,869
-pr-ts41-01,ts41,CSF_collection,2024-02-19,,,ts,,,,,,,,,,,,,,CSF Collection,869
-pr-ts41-02,ts41,cranial_window,2024-02-19,,,ts,,,,,,,,,,,,,,チャンバーづけ,869
-pr-ts42-01,ts42,CSF_collection,2024-02-19,,,ts,,,,,,,,,,,,,,CSF Collection,869
-pr-ts42-02,ts42,cranial_window,2024-02-19,,,ts,,,,,,,,,,,,,,チャンバーづけ,869
-pr-ts43-01,ts43,CM_injection,2024-02-29,,,ts,,,,,,,,,,,,,,CM Catheter,859
-pr-ts43-02,ts43,cranial_window,2024-02-29,,,ts,,,,,,,,,,,,,,Window,859
-pr-ts44-01,ts44,other,2024-02-29,,,ts,,,,,,,,,,,,,,Injection,859
-pr-ts44-02,ts44,cranial_window,2024-02-29,,,ts,,,,,,,,,,,,,,チャンバーづけ,859
-pr-ts45-01,ts45,CM_injection,2024-03-04,,,ts,,,,,,,,,,,,,,CM Catheter,855
-pr-ts45-02,ts45,cranial_window,2024-03-04,,,ts,,,,,,,,,,,,,,Window,855
-pr-ts46-01,ts46,CM_injection,2024-03-06,,,ts,,,,,,,,,,,,,,CM Catheter,853
-pr-ts46-02,ts46,cranial_window,2024-03-06,,,ts,,,,,,,,,,,,,,チャンバーづけ,853
-pr-ts47-01,ts47,CM_injection,2024-03-06,,,ts,,,,,,,,,,,,,,CM Catheter,853
-pr-ts47-02,ts47,cranial_window,2024-03-06,,,ts,,,,,,,,,,,,,,チャンバーづけ,853
-pr-ts48-01,ts48,CM_injection,2024-03-07,,,ts,,,,,,,,,,,,,,CM Catheter,852
-pr-ts48-02,ts48,cranial_window,2024-03-07,,,ts,,,,,,,,,,,,,,チャンバーづけ,852
-pr-ts49-01,ts49,CM_injection,2024-03-07,,,ts,,,,,,,,,,,,,,CM Catheter,852
-pr-ts49-02,ts49,cranial_window,2024-03-07,,,ts,,,,,,,,,,,,,,Window,852
-pr-ts50-01,ts50,CM_injection,2024-03-08,,,ts,,,,,,,,,,,,,,CM Catheter,851
-pr-ts50-02,ts50,cranial_window,2024-03-08,,,ts,,,,,,,,,,,,,,Window,851
-pr-ts51-01,ts51,cranial_window,2024-03-14,,,ts,,,,,,,,,,,,,,Cranial window,845
-pr-ts52-01,ts52,femoral_catheter,2024-03-19,,,ts,,,,,,,,,,,,,,Femoral vein catheter,840
-pr-ts52-02,ts52,cranial_window,2024-03-19,,,ts,,,,,,,,,,,,,,チャンバーづけ,840
-pr-ts53-01,ts53,cranial_window,2024-03-21,,,ts,,,,,,,,,,,,,,Cranial window,838
-pr-ts53-02,ts53,other,2024-03-21,,,ts,,,,,,,,,,,,,,injection,838
-pr-ts54-01,ts54,cranial_window,2024-04-01,,,ts,,,,,,,,,,,,,,Cranial window,827
-pr-ts54-02,ts54,viral_injection,2024-04-01,,,ts,,,,,,,,,,,,,,AAV injection,827
-pr-ts55-01,ts55,cranial_window,2024-04-03,,,ts,,,,,,,,,,,,,,Cranial window,825
-pr-ts55-02,ts55,viral_injection,2024-04-03,,,ts,,,,,,,,,,,,,,AAV injection,825
-pr-ts56-01,ts56,cranial_window,2024-04-04,,,ts,,,,,,,,,,,,,,Cranial window,824
-pr-ts56-02,ts56,viral_injection,2024-04-04,,,ts,,,,,,,,,,,,,,AAV injection,824
-pr-ts57-01,ts57,cranial_window,2024-04-05,,,ts,,,,,,,,,,,,,,Cranial window,823
-pr-ts57-02,ts57,viral_injection,2024-04-05,,,ts,,,,,,,,,,,,,,AAV injection,823
-pr-ts58-01,ts58,other,2024-04-11,,,ts,,,,,,,,,,,,,,Injection,817
-pr-ts58-02,ts58,cranial_window,2024-04-11,,,ts,,,,,,,,,,,,,,チャンバーづけ,817
-pr-ts59-01,ts59,cranial_window,2024-04-16,,,ts,,,,,,,,,,,,,,Cranial window,812
-pr-ts59-02,ts59,femoral_catheter,2024-04-16,,,ts,,,,,,,,,,,,,,Femoral vein catheter,812
-pr-ts60-01,ts60,cranial_window,2024-04-17,,,ts,,,,,,,,,,,,,,Cranial window,811
-pr-ts61-01,ts61,cranial_window,2024-04-18,,,ts,,,,,,,,,,,,,,Cranial window,810
-pr-ts61-02,ts61,other,2024-04-18,,,ts,,,,,,,,,,,,,,inj,810
-pr-ts62-01,ts62,cranial_window,2024-04-25,,,ts,,,,,,,,,,,,,,Cranial window,803
-pr-ts63-01,ts63,cranial_window,2024-04-26,,,ts,,,,,,,,,,,,,,Cranial window,802
-pr-ts64-01,ts64,perfusion_fix,2024-05-10,,,ts,,,,,,,,,,,,,,Fix,788
-pr-ts65-01,ts65,perfusion_fix,2024-05-10,,,ts,,,,,,,,,,,,,,Fix,788
-pr-ts66-01,ts66,perfusion_fix,2024-05-10,,,ts,,,,,,,,,,,,,,Fix,788
-pr-ts67-01,ts67,cranial_window,2024-05-17,,,ts,,,,,,,,,,,,,,Cranial window,781
-pr-ts67-02,ts67,viral_injection,2024-05-17,,,ts,,,,,,,,,,,,,,AAV injection,781
-pr-ts68-01,ts68,perfusion_fix,2024-05-21,,,ts,,,,,,,,,,,,,,Fix,777
-pr-ts69-01,ts69,perfusion_fix,2024-05-21,,,ts,,,,,,,,,,,,,,Fix,777
-pr-ts70-01,ts70,femoral_catheter,2024-05-21,,,ts,,,,,,,,,,,,,,Femoral vein catheter,777
-pr-ts70-02,ts70,cranial_window,2024-05-21,,,ts,,,,,,,,,,,,,,チャンバーづけ,777
-pr-ts71-01,ts71,femoral_catheter,2024-05-22,,,ts,,,,,,,,,,,,,,Femoral vein catheter,776
-pr-ts71-02,ts71,cranial_window,2024-05-22,,,ts,,,,,,,,,,,,,,チャンバーづけ,776
-pr-ts72-01,ts72,cranial_window,2024-05-28,,,ts,,,,,,,,,,,,,,Cranial window,770
-pr-ts73-01,ts73,cranial_window,2024-05-31,,,ts,,,,,,,,,,,,,,Cranial window,767
-pr-ts74-01,ts74,cranial_window,2024-05-31,,,ts,,,,,,,,,,,,,,Cranial window,767
-pr-ts75-01,ts75,cranial_window,2024-06-05,,,ts,,,,,,,,,,,,,,Cranial window,762
-pr-ts76-01,ts76,cranial_window,2024-06-05,,,ts,,,,,,,,,,,,,,Cranial window,762
-pr-ts77-01,ts77,cranial_window,2024-06-05,,,ts,,,,,,,,,,,,,,Cranial window,762
-pr-ts78-01,ts78,cranial_window,2024-06-05,,,ts,,,,,,,,,,,,,,Cranial window,762
-pr-ts79-01,ts79,cranial_window,2024-06-07,,,ts,,,,,,,,,,,,,,Cranial window,760
-pr-ts80-01,ts80,cranial_window,2024-06-07,,,ts,,,,,,,,,,,,,,Cranial window,760
-pr-ts81-01,ts81,cranial_window,2024-06-08,,,ts,,,,,,,,,,,,,,Cranial window,759
-pr-ts82-01,ts82,perfusion_fix,2024-06-09,,,ts,,,,,,,,,,,,,,Fix,758
-pr-ts83-01,ts83,imaging,2024-06-17,,,ts,,,,,,,,,,,,,,Fluometirc experiment,750
-pr-ts84-01,ts84,perfusion_fix,2024-06-25,,,ts,,,,,,,,,,,,,,Fix,742
-pr-ts84-02,ts84,cranial_window,2024-06-25,,,ts,,,,,,,,,,,,,,チャンバーづけ,742
-pr-ts85-01,ts85,CSF_collection,2024-07-23,,,ts,,,,,,,,,,,,,,CSF Collection,714
-pr-ts86-01,ts86,CSF_collection,2024-07-24,,,ts,,,,,,,,,,,,,,CSF Collection,713
-pr-ts87-01,ts87,CSF_collection,2024-07-24,,,ts,,,,,,,,,,,,,,CSF Collection,713
-pr-ts88-01,ts88,CSF_collection,2024-07-25,,,ts,,,,,,,,,,,,,,CSF Collection,712
-pr-ts89-01,ts89,CSF_collection,2024-07-25,,,ts,,,,,,,,,,,,,,CSF Collection,712
-pr-ts90-01,ts90,CSF_collection,2024-07-25,,,ts,,,,,,,,,,,,,,CSF Collection,712
-pr-ts91-01,ts91,viral_injection,2024-07-26,,,ts,,,,,hsyn-EGFP,,,,,,,,,AAV injection,711
-pr-ts91-02,ts91,cranial_window,2024-08-09,,,ts,,,,,,,,,,,,,,チャンバーづけ,697
-pr-ts92-01,ts92,imaging,2024-07-29,,,ts,,,,,,,,,,,,,,Fluometirc experiment,708
-pr-ts93-01,ts93,viral_injection,2024-07-31,,,ts,,,,,hsyn-EGFP,,,,,,,,,AAV injection,706
-pr-ts94-01,ts94,viral_injection,2024-08-02,,,ts,,,,,hsyn-EGFP,,,,,,,,,AAV injection,704
-pr-ts94-02,ts94,cranial_window,2024-09-06,,,ts,,,,,,,,,,,,,,チャンバーづけ,669
-pr-ts95-01,ts95,viral_injection,2024-08-05,,,ts,,,,,hsyn-EGFP,,,,,,,,,AAV injection,701
-pr-ts96-01,ts96,viral_injection,2024-08-06,,,ts,,,,,hsyn-EGFP,,,,,,,,,AAV injection,700
-pr-ts96-02,ts96,cranial_window,2024-09-13,,,ts,,,,,,,,,,,,,,チャンバーづけ,662
-pr-ts97-01,ts97,viral_injection,2024-08-06,,,ts,,,,,hsyn-EGFP,,,,,,,,,AAV injection,700
-pr-ts97-02,ts97,cranial_window,2024-10-10,,,ts,,,,,,,,,,,,,,チャンバーづけ,635
-pr-ts98-01,ts98,imaging,2024-08-20,,,ts,,,,,,,,,,,,,,Fluometirc experiment,686
-pr-ts99-01,ts99,imaging,2024-08-22,,,ts,,,,,,,,,,,,,,Fluometirc experiment,684
-pr-ts100-01,ts100,other,2024-09-05,,,ts,,,,,,,,,,,,,,water intoxication,670
-pr-ts101-01,ts101,other,2024-09-05,,,ts,,,,,,,,,,,,,,water intoxication,670
-pr-ts102-01,ts102,other,2024-09-05,,,ts,,,,,,,,,,,,,,water intoxication,670
-pr-ts103-01,ts103,other,2024-09-05,,,ts,,,,,,,,,,,,,,water intoxication,670
-pr-ts104-01,ts104,other,2024-09-05,,,ts,,,,,,,,,,,,,,water intoxication,670
-pr-ts105-01,ts105,other,2024-09-05,,,ts,,,,,,,,,,,,,,water intoxication,670
-pr-ts106-01,ts106,imaging,2024-09-10,,,ts,,,,,,,,,,,,,,Fluometric measurement,665
-pr-ts107-01,ts107,imaging,2024-09-10,,,ts,,,,,,,,,,,,,,Fluometric measurement,665
-pr-ts108-01,ts108,PoRTs_window,2024-09-10,,,ts,,,,,,,,,,,,,,PoRTs window,665
-pr-ts109-01,ts109,craniotomy,2024-09-19,,,ts,,,,,,,,,,,,,,Craniotomy,656
-pr-ts109-02,ts109,cranial_window,2024-09-19,,,ts,,,,,,,,,,,,,,チャンバーづけ,656
-pr-ts110-01,ts110,CSF_collection,2024-09-24,,,ts,,,,,,,,,,,,,,CSF Collection,651
-pr-ts111-01,ts111,CSF_collection,2024-09-25,,,ts,,,,,,,,,,,,,,CSF Collection,650
-pr-ts112-01,ts112,CSF_collection,2024-09-25,,,ts,,,,,,,,,,,,,,CSF Collection,650
-pr-ts113-01,ts113,CSF_collection,2024-09-26,,,ts,,,,,,,,,,,,,,CSF Collection,649
-pr-ts114-01,ts114,PoRTs_window,2024-10-09,,,ts,,,,,,,,,,,,,,PoRTs and TIS window,636
-pr-ts115-01,ts115,PoRTs_window,2024-10-09,,,ts,,,,,,,,,,,,,,PoRTs and TIS window,636
-pr-ts117-01,ts117,CSF_collection,2024-10-12,,,ts,,,,,,,,,,,,,,CSF Collection,633
-pr-ts118-01,ts118,CSF_collection,2024-10-12,,,ts,,,,,,,,,,,,,,CSF Collection,633
-pr-ts119-01,ts119,cranial_window,2024-10-18,,,ts,,,,,,,,,,,,,,Cranial window,627
-pr-ts119-02,ts119,femoral_catheter,2024-10-18,,,ts,,,,,,,,,,,,,,Femoral vein catheter,627
-pr-ts120-01,ts120,cranial_window,2024-10-18,,,ts,,,,,,,,,,,,,,Cranial window,627
-pr-ts120-02,ts120,femoral_catheter,2024-10-18,,,ts,,,,,,,,,,,,,,Femoral vein catheter,627
-pr-ts121-01,ts121,cranial_window,2024-10-22,,,ts,,,,,,,,,,,,,,Cranial window,623
-pr-ts122-01,ts122,cranial_window,2024-10-22,,,ts,,,,,,,,,,,,,,Cranial window,623
-pr-ts122-02,ts122,femoral_catheter,2024-10-22,,,ts,,,,,,,,,,,,,,Femoral vein catheter,623
-pr-ts123-01,ts123,CM_injection,2024-10-24,,,ts,,,,,,,,,,,,,,CM injection,621
-pr-ts123-02,ts123,cranial_window,2024-10-24,,,ts,,,,,,,,,,,,,,チャンバーづけ,621
-pr-ts124-01,ts124,other,2024-10-25,,,ts,,,,,,,,,,,,,,Injection,620
-pr-ts125-01,ts125,cranial_window,2024-10-25,,,ts,,,,,,,,,,,,,,Cranial window,620
-pr-ts126-01,ts126,PoRTs_window,2024-10-25,,,ts,,,,,,,,,,,,,,PoRTs window,620
-pr-ts127-01,ts127,other,2024-10-28,,,ts,,,,,,,,,,,,,,Injection,617
-pr-ts128-01,ts128,PoRTs_window,2024-10-28,,,ts,,,,,,,,,,,,,,PoRTs window,617
-pr-ts129-01,ts129,other,2024-10-30,,,ts,,,,,,,,,,,,,,Injection,615
-pr-ts130-01,ts130,other,2024-10-30,,,ts,,,,,,,,,,,,,,Control for dCLN,615
-pr-ts131-01,ts131,CSF_collection,2024-11-05,,,ts,,,,,,,,,,,,,,CSF Collection,609
-pr-ts132-01,ts132,other,2024-11-01,,,ts,,,,,,,,,,,,,,Injection,613
-pr-ts133-01,ts133,CSF_collection,2024-11-06,,,ts,,,,,,,,,,,,,,CSF Collection,608
-pr-ts134-01,ts134,cranial_window,2024-11-06,,,ts,,,,,,,,,,,,,,Cranial window,608
-pr-ts135-01,ts135,CSF_collection,2024-11-11,,,ts,,,,,,,,,,,,,,CSF Collection,603
-pr-ts136-01,ts136,CSF_collection,2024-11-12,,,ts,,,,,,,,,,,,,,CSF Collection,602
-pr-ts137-01,ts137,CSF_collection,2024-11-12,,,ts,,,,,,,,,,,,,,CSF Collection,602
-pr-ts138-01,ts138,other,2024-11-12,,,ts,,,,,,,,,,,,,,Injection,602
-pr-ts138-02,ts138,CSF_collection,2024-11-12,,,ts,,,,,,,,,,,,,,CSF Collection,602
-pr-ts139-01,ts139,other,2024-11-13,,,ts,,,,,,,,,,,,,,Injection,601
-pr-ts139-02,ts139,CSF_collection,2024-11-13,,,ts,,,,,,,,,,,,,,CSF Collection,601
-pr-ts140-01,ts140,other,2024-11-13,,,ts,,,,,,,,,,,,,,Injection,601
-pr-ts140-02,ts140,CSF_collection,2024-11-13,,,ts,,,,,,,,,,,,,,CSF Collection,601
-pr-ts141-01,ts141,other,2024-11-13,,,ts,,,,,,,,,,,,,,Injection,601
-pr-ts141-02,ts141,CSF_collection,2024-11-13,,,ts,,,,,,,,,,,,,,CSF Collection,601
-pr-ts142-01,ts142,CSF_collection,2024-11-14,,,ts,,,,,,,,,,,,,,CSF Collection,600
-pr-ts143-01,ts143,CSF_collection,2024-11-14,,,ts,,,,,,,,,,,,,,CSF Collection,600
-pr-ts144-01,ts144,CSF_collection,2024-11-15,,,ts,,,,,,,,,,,,,,CSF Collection,599
-pr-ts145-01,ts145,CSF_collection,2024-11-15,,,ts,,,,,,,,,,,,,,CSF Collection,599
-pr-ts146-01,ts146,CSF_collection,2024-11-21,,,ts,,,,,,,,,,,,,,CSF Collection,593
-pr-ts147-01,ts147,CSF_collection,2024-11-29,,,ts,,,,,,,,,,,,,,CSF Collection,585
-pr-ts148-01,ts148,CSF_collection,2024-11-29,,,ts,,,,,,,,,,,,,,CSF Collection,585
-pr-ts149-01,ts149,CSF_collection,2024-12-02,,,ts,,,,,,,,,,,,,,CSF Collection,582
-pr-ts150-01,ts150,CSF_collection,2024-12-03,,,ts,,,,,,,,,,,,,,CSF Collection,581
-pr-ts151-01,ts151,CSF_collection,2024-12-03,,,ts,,,,,,,,,,,,,,CSF Collection,581
-pr-ts152-01,ts152,CSF_collection,2024-12-04,,,ts,,,,,,,,,,,,,,CSF Collection,580
-pr-ts153-01,ts153,CSF_collection,2024-12-09,,,ts,,,,,,,,,,,,,,CSF Collection,575
-pr-ts154-01,ts154,CSF_collection,2024-12-09,,,ts,,,,,,,,,,,,,,CSF Collection,575
-pr-ts155-01,ts155,CSF_collection,2024-12-10,,,ts,,,,,,,,,,,,,,CSF Collection,574
-pr-ts156-01,ts156,CSF_collection,2024-12-11,,,ts,,,,,,,,,,,,,,CSF Collection,573
-pr-ts157-01,ts157,CSF_collection,2024-12-12,,,ts,,,,,,,,,,,,,,CSF Collection,572
-pr-ts158-01,ts158,CSF_collection,2024-12-12,,,ts,,,,,,,,,,,,,,CSF Collection,572
-pr-ts159-01,ts159,CSF_collection,2024-12-13,,,ts,,,,,,,,,,,,,,CSF Collection,571
-pr-ts160-01,ts160,CSF_collection,2024-12-13,,,ts,,,,,,,,,,,,,,CSF Collection,571
-pr-ts161-01,ts161,perfusion_fix,2024-12-26,,,ts,,,,,,,,,,,,,,Fix,558
-pr-ts162-01,ts162,perfusion_fix,2025-01-07,,,ts,,,,,,,,,,,,,,Fix,546
-pr-ts163-01,ts163,perfusion_fix,2025-01-07,,,ts,,,,,,,,,,,,,,Fix,546
-pr-ts164-01,ts164,tissue_clearing,2025-01-10,,,ts,,,,,,,,,,,,,,Tissue clearing,543
-pr-ts165-01,ts165,viral_injection,2025-01-14,,,ts,,,,,hsyn-EGFP,,,,,,,,,AAV injection,539
-pr-ts165-02,ts165,cranial_window,2025-02-05,,,ts,,,,,,,,,,,,,,チャンバーづけ,517
-pr-ts166-01,ts166,femoral_catheter,2025-01-15,,,ts,,,,,,,,,,,,,,Femoral vein cathter,538
-pr-ts167-01,ts167,femoral_catheter,2025-01-17,,,ts,,,,,,,,,,,,,,Femoral vein cathter,536
-pr-ts168-01,ts168,femoral_catheter,2025-01-20,,,ts,,,,,,,,,,,,,,Femoral vein cathter,533
-pr-ts168-02,ts168,cranial_window,2025-01-20,,,ts,,,,,,,,,,,,,,チャンバーづけ,533
-pr-ts169-01,ts169,other,2025-01-23,,,ts,,,,,,,,,,,,,,DB53 test,530
-pr-ts170-01,ts170,PoRTs_window,2025-01-27,,,ts,,,,,,,,,,,,,,PoRTs window,526
-pr-ts171-01,ts171,other,2025-01-27,,,ts,,,,,,,,,,,,,,KX test,526
-pr-ts172-01,ts172,other,2025-01-27,,,ts,,,,,,,,,,,,,,KX test,526
-pr-ts173-01,ts173,PoRTs_window,2025-01-28,,,ts,,,,,,,,,,,,,,PoRTs window,525
-pr-ts186-01,ts186,PoRTs_window,2025-02-05,,,ts,,,,,,,,,,,,,,PoRTs window,517
-pr-ts187-01,ts187,PoRTs_window,2025-02-06,,,ts,,,,,,,,,,,,,,PoRTs window,516
-pr-ts188-01,ts188,PoRTs_window,2025-02-13,,,ts,,,,,,,,,,,,,,PoRTs window,509
-pr-ts190-01,ts190,other,2025-02-17,,,ts,,,,,,,,,,,,,,Injection,505
-pr-ts191-01,ts191,other,2025-02-17,,,ts,,,,,,,,,,,,,,Injection,505
-pr-ts192-01,ts192,other,2025-02-17,,,ts,,,,,,,,,,,,,,Injection,505
-pr-ts193-01,ts193,other,2025-02-20,,,ts,,,,,,,,,,,,,,Injection,502
-pr-ts194-01,ts194,other,2025-02-20,,,ts,,,,,,,,,,,,,,Injection,502
-pr-ts195-01,ts195,other,2025-02-27,,,ts,,,,,,,,,,,,,,Injection,495
-pr-ts196-01,ts196,other,2025-02-27,,,ts,,,,,,,,,,,,,,Injection,495
-pr-ts197-01,ts197,other,2025-02-28,,,ts,,,,,,,,,,,,,,Injection,494
-pr-ts198-01,ts198,other,2025-02-28,,,ts,,,,,,,,,,,,,,Injection,494
-pr-ts199-01,ts199,other,2025-03-03,,,ts,,,,,,,,,,,,,,Injection,491
-pr-ts200-01,ts200,other,2025-03-05,,,ts,,,,,,,,,,,,,,Injection,489
-pr-ts201-01,ts201,other,2025-03-07,,,ts,,,,,,,,,,,,,,Injection,487
-pr-ts202-01,ts202,other,2025-03-07,,,ts,,,,,,,,,,,,,,Injection,487
-pr-ts203-01,ts203,other,2025-03-09,,,ts,,,,,,,,,,,,,,Injection,485
-pr-ts204-01,ts204,other,2025-03-10,,,ts,,,,,,,,,,,,,,Injection,484
-pr-ts205-01,ts205,other,2025-03-12,,,ts,,,,,,,,,,,,,,Injection,482
-pr-ts206-01,ts206,other,2025-03-12,,,ts,,,,,,,,,,,,,,Injection,482
-pr-ts207-01,ts207,other,2025-03-12,,,ts,,,,,,,,,,,,,,Injection,482
-pr-ts208-01,ts208,other,2025-03-12,,,ts,,,,,,,,,,,,,,Injection,482
-pr-ts209-01,ts209,other,2025-03-13,,,ts,,,,,,,,,,,,,,Injection,481
-pr-ts210-01,ts210,PoRTs_window,2025-04-04,,,ts,,,,,,,,,,,,,,PoRTs window,459
-pr-ts211-01,ts211,PoRTs_window,2025-04-07,,,ts,,,,,,,,,,,,,,PoRTs window,456
-pr-ts212-01,ts212,PoRTs_window,2025-04-08,,,ts,,,,,,,,,,,,,,PoRTs window,455
-pr-ts213-01,ts213,PoRTs_window,2025-04-08,,,ts,,,,,,,,,,,,,,PoRTs window,455
-pr-ts214-01,ts214,other,2025-05-12,,,ts,,,,,,,,,,,,,,TGN020 test,421
-pr-ts215-01,ts215,other,2025-05-12,,,ts,,,,,,,,,,,,,,TGN020 test,421
-pr-ts216-01,ts216,other,2025-05-12,,,ts,,,,,,,,,,,,,,TGN020 test,421
-pr-ts217-01,ts217,other,2025-05-12,,,ts,,,,,,,,,,,,,,TGN020 test,421
-pr-ts218-01,ts218,other,2025-05-12,,,ts,,,,,,,,,,,,,,TGN020 test,421
-pr-ts219-01,ts219,other,2025-05-12,,,ts,,,,,,,,,,,,,,TGN020 test,421
-pr-ts220-01,ts220,PoRTs_window,2025-05-27,,,ts,,,,,,,,,,,,,,PoRTs window,406
-pr-ts223-01,ts223,PoRTs_window,2025-05-28,,,ts,,,,,,,,,,,,,,PoRTs window,405
-pr-ts224-01,ts224,PoRTs_window,2025-05-29,,,ts,,,,,,,,,,,,,,PoRTs window,404
-pr-ts225-01,ts225,PoRTs_window,2025-05-30,,,ts,,,,,,,,,,,,,,PoRTs window,403
-pr-ts226-01,ts226,PoRTs_window,2025-06-04,,,ts,,,,,,,,,,,,,,PoRTs window,398
-pr-ts227-01,ts227,PoRTs_window,2025-06-06,,,ts,,,,,,,,,,,,,,PoRTs window,396
-pr-ts228-01,ts228,femoral_catheter,2025-07-08,,,ts,,,,,,,,,,,,,,Femoral vein catheter test,364
-pr-ts229-01,ts229,PoRTs_window,2025-07-10,,,ts,,,,,,,,,,,,,,PoRTs window,362
-pr-ts230-01,ts230,craniotomy,2025-07-10,,,ts,,,,,,,,,,,,,,Craniotomy,362
-pr-ts230-02,ts230,cranial_window,2025-07-10,,,ts,,,,,,,,,,,,,,チャンバーづけ,362
-pr-ts231-01,ts231,PoRTs_window,2025-07-11,,,ts,,,,,,,,,,,,,,PoRTs window,361
-pr-ts232-01,ts232,femoral_catheter,2025-08-18,,,ts,,,,,,,,,,,,,,Femoral vein catheter test,323
-pr-ts233-01,ts233,femoral_catheter,2025-08-18,,,ts,,,,,,,,,,,,,,Femoral vein catheter test,323
-pr-ts234-01,ts234,femoral_catheter,2025-08-20,,,ts,,,,,,,,,,,,,,Femoral vein catheter test,321
-pr-ts235-01,ts235,ICM_injection,2025-08-25,,,ts,,,,,,,,,,,,,,Ventricle cathter test,316
-pr-ts236-01,ts236,femoral_catheter,2025-08-27,,,ts,,,,,,,,,,,,,,Femoral vein catheter test,314
-pr-ts237-01,ts237,femoral_catheter,2025-09-02,,,ts,,,,,,,,,,,,,,Femoral vein catheter test,308
-pr-ts238-01,ts238,femoral_catheter,2025-09-03,,,ts,,,,,,,,,,,,,,Femoral vein catheter test,307
-pr-ts239-01,ts239,femoral_catheter,2025-09-03,,,ts,,,,,,,,,,,,,,Femoral vein catheter test,307
-pr-ts240-01,ts240,femoral_catheter,2025-09-03,,,ts,,,,,,,,,,,,,,Femoral vein catheter test,307
-pr-ts241-01,ts241,femoral_catheter,2025-09-04,,,ts,,,,,,,,,,,,,,Femoral vein catheter test,306
-pr-ts242-01,ts242,PoRTs_window,2025-09-19,,,ts,,,,,,,,,,,,,,PoRTs window,291
-pr-ts243-01,ts243,ICM_injection,2025-09-25,,,ts,,,,,,,,,,,,,,Intraventricle injection of Rh,285
-pr-ts243-02,ts243,cranial_window,2025-09-25,,,ts,,,,,,,,,,,,,,チャンバーづけ,285
-pr-ts244-01,ts244,femoral_catheter,2025-09-26,,,ts,,,,,,,,,,,,,,Femoral vein catheter test,284
-pr-ts245-01,ts245,PoRTs_window,2025-09-26,,,ts,,,,,,,,,,,,,,PoRTs window,284
-pr-ts246-01,ts246,femoral_catheter,2025-09-30,,,ts,,,,,,,,,,,,,,Femoral vein catheter test,280
-pr-ts247-01,ts247,PoRTs_window,2025-10-03,,,ts,,,,,,,,,,,,,,PoRTs window,277
-pr-ts248-01,ts248,PoRTs_window,2025-10-04,,,ts,,,,,,,,,,,,,,PoRTs window,276
-pr-ts249-01,ts249,PoRTs_window,2025-10-14,,,ts,,,,,,,,,,,,,,PoRTs window,266
-pr-ts250-01,ts250,PoRTs_window,2025-10-20,,,ts,,,,,,,,,,,,,,PoRTs window,260
-pr-ts251-01,ts251,PoRTs_window,2025-10-20,,,ts,,,,,,,,,,,,,,PoRTs window,260
-pr-ts252-01,ts252,ICM_injection,2025-10-20,,,ts,,,,,,,,,,,,,,Ventricle cathter test,260
-pr-ts252-02,ts252,cranial_window,2025-10-20,,,ts,,,,,,,,,,,,,,チャンバーづけ,260
-pr-ts253-01,ts253,ICM_injection,2025-10-20,,,ts,,,,,,,,,,,,,,Ventricle cathter test,260
-pr-ts253-02,ts253,cranial_window,2025-10-20,,,ts,,,,,,,,,,,,,,チャンバーづけ,260
-pr-ts254-01,ts254,viral_injection,2025-10-21,,,ts,,,,,AAV-AST CMVenhancer-hGfaABC1D-GFP-Wpre,,,,,,,,,AAV-AST test,259
-pr-ts254-02,ts254,cranial_window,2025-11-21,,,ts,,,,,,,,,,,,,,チャンバーづけ,228
-pr-ts255-01,ts255,viral_injection,2025-10-21,,,ts,,,,,AAV-AST2: CMVenhancer-hGfaABC1D-GFP-Wpre,,,,,,,,,AAV-AST test,259
-pr-ts256-01,ts256,viral_injection,2025-10-21,,,ts,,,,,AAV-AST2: mGfaABC1D-mCherry-Wpre,,,,,,,,,AAV-AST test,259
-pr-ts257-01,ts257,viral_injection,2025-10-21,,,ts,,,,,,,,,,,,,,AAV-AST test,259
-pr-ts257-02,ts257,cranial_window,2025-11-21,,,ts,,,,,,,,,,,,,,チャンバーづけ,228
-pr-ts258-01,ts258,imaging,2025-11-27,,,ts,,,,,,,,,,,,,,ear,222
-pr-ts259-01,ts259,imaging,2025-11-27,,,ts,,,,,,,,,,,,,,ear,222
-pr-ts260-01,ts260,imaging,2025-11-28,,,ts,,,,,,,,,,,,,,ear,221
-pr-ts262-01,ts262,cranial_window,2025-12-17,,,ts,,,,,,,,,,,,,,チャンバーづけ,202
-pr-ts263-01,ts263,cranial_window,2025-12-17,,,ts,,,,,,,,,,,,,,チャンバーづけ,202
-pr-ts264-01,ts264,other,2026-01-20,,,ts,,,,,,,,,,,,,,jagular vein test,168
-pr-ts264-02,ts264,cranial_window,2026-01-20,,,ts,,,,,,,,,,,,,,チャンバーづけ,168
-pr-ts265-01,ts265,other,2026-01-22,,,ts,,,,,,,,,,,,,,jagular vein test,166
-pr-ts265-02,ts265,cranial_window,2026-01-22,,,ts,,,,,,,,,,,,,,チャンバーづけ,166
-pr-ts266-01,ts266,other,2026-01-22,,,ts,,,,,,,,,,,,,,jagular vein test,166
-pr-ts266-02,ts266,cranial_window,2026-01-22,,,ts,,,,,,,,,,,,,,チャンバーづけ,166
-pr-ts267-01,ts267,PoRTs_window,2026-01-23,,,ts,,,,,,,,,,,,,,PoRTs window,165
-pr-ts268-01,ts268,perfusion_fix,2026-01-26,,,ts,,,,,,,,,,,,,,Fix test,162
-pr-ts269-01,ts269,ICM_injection,2026-01-26,,,ts,,,,,,,,,,,,,,Ventricle cathter test,162
-pr-ts269-02,ts269,cranial_window,2026-01-26,,,ts,,,,,,,,,,,,,,チャンバーづけ,162
-pr-ts270-01,ts270,viral_injection,2026-01-28,,,ts,,,,,AAV-AST CMVenhancer-hGfaABC1D-GFP-Wpre,,,,,,,,,AAV-AST test,160
-pr-ts271-01,ts271,viral_injection,2026-01-28,,,ts,,,,,AAV-AST2: CMVenhancer-hGfaABC1D-GFP-Wpre,,,,,,,,,AAV-AST test,160
-pr-ts272-01,ts272,viral_injection,2026-01-28,,,ts,,,,,AAV-AST2: mGfaABC1D-mCherry-Wpre,,,,,,,,,AAV-AST test,160
-pr-ts273-01,ts273,PoRTs_window,2026-01-29,,,ts,,,,,,,,,,,,,,PoRTs window,159
-pr-ts274-01,ts274,cranial_window,2026-01-30,,,ts,,,,,,,,,,,,,,chamber,158
-pr-ts275-01,ts275,other,2026-02-10,,,ts,,,,,,,,,,,,,,jagular vein test,147
-pr-ts275-02,ts275,cranial_window,2026-02-10,,,ts,,,,,,,,,,,,,,チャンバーづけ,147
-pr-ts276-01,ts276,other,2026-02-13,,,ts,,,,,,,,,,,,,,jagular vein test,144
-pr-ts276-02,ts276,cranial_window,2026-02-13,,,ts,,,,,,,,,,,,,,チャンバーづけ,144
-pr-ts277-01,ts277,other,2026-02-18,,,ts,,,,,,,,,,,,,,jagular vein test,139
-pr-ts277-02,ts277,cranial_window,2026-02-18,,,ts,,,,,,,,,,,,,,チャンバーづけ,139
-pr-ts278-01,ts278,other,2026-02-20,,,ts,,,,,,,,,,,,,,jagular vein test,137
-pr-ts278-02,ts278,cranial_window,2026-02-20,,,ts,,,,,,,,,,,,,,チャンバーづけ,137
-pr-ts279-01,ts279,other,2026-02-20,,,ts,,,,,,,,,,,,,,jagular vein test,137
-pr-ts279-02,ts279,cranial_window,2026-02-20,,,ts,,,,,,,,,,,,,,チャンバーづけ,137
-pr-ts280-01,ts280,imaging,2026-03-10,,,ts,,,,,,,,,,,,,,ear imaging,119
-pr-ts281-01,ts281,imaging,2026-03-12,,,ts,,,,,,,,,,,,,,ear imaging,117
-pr-ts282-01,ts282,imaging,2026-03-24,,,ts,,,,,,,,,,,,,,ear imaging,105
-pr-ts283-01,ts283,imaging,2026-04-09,,,ts,,,,,,,,,,,,,,ear imaging,89
-pr-ts284-01,ts284,imaging,2026-04-09,,,ts,,,,,,,,,,,,,,ear imaging,89
-pr-ts285-01,ts285,imaging,2026-04-10,,,ts,,,,,,,,,,,,,,ear imaging,88
-pr-ts288-01,ts288,imaging,2026-04-13,,,ts,,,,,,,,,,,,,,ear imaging,85
-pr-ts289-01,ts289,imaging,2026-04-23,,,ts,,,,,,,,,,,,,,ear imaging,75
-pr-sk1-01,sk1,other,2026-02-06,,,sk,,,,,,,,,,,,,,head plate,151
-pr-sk2-01,sk2,other,2026-02-16,,,sk,,,,,,,,,,,,,,チャンバーづけ,141
-pr-sk2-02,sk2,cranial_window,2026-02-16,,,sk,,,,,,,,,,,,,,チャンバーづけ,141
-pr-sk3-01,sk3,cranial_window,2026-02-20,,,sk,,,,,,,,,,,,,,windowつけ,137
-pr-sk4-01,sk4,cranial_window,2026-02-27,,,sk,,,,,,,,,,,,,,windowつけ,130
-pr-sk5-01,sk5,cranial_window,2026-03-09,,,sk,,,,,,,,,,,,,,windowつけ,120
-pr-sk6-01,sk6,cranial_window,2026-03-09,,,sk,,,,,,,,,,,,,,windowつけ,120
-pr-sk7-01,sk7,cranial_window,2026-03-09,,,sk,,,,,,,,,,,,,,windowつけ,120
-pr-sk8-01,sk8,cranial_window,2026-03-27,,,sk,,,,,,,,,,,,,,windowつけ,102
-pr-sk9-01,sk9,PoRTs_window,2026-03-30,,,sk,,,,,,,,,,,,,,windowつけ,99
-pr-sk10-01,sk10,cranial_window,2026-04-02,,,sk,,,,,,,,,,,,,,windowつけ,96
-pr-sk11-01,sk11,other,2026-04-07,,,sk,,,,,,,,,,,,,,injection test,91
-pr-sk12-01,sk12,PoRTs_window,2026-04-09,,,sk,,,,,,,,,,,,,,windowつけ,89
-pr-sk13-01,sk13,PoRTs_window,2026-04-16,,,sk,,,,,,,,,,,,,,windowつけ,82
-pr-sk14-01,sk14,viral_injection,2026-04-16,,,sk,,,,,AAV1-hSyn-soma-GCamp8s,,,,,,,,,aav injection,82
-pr-sk15-01,sk15,PoRTs_window,2026-04-20,,,sk,,,,,,,,,,,,,,windowつけ,78
-pr-sk16-01,sk16,viral_injection,2026-04-21,,,sk,,,,,AAV1-hSyn-soma-GCamp8s(1/3),,,,,,,,,aav injection,77
-pr-sk17-01,sk17,viral_injection,2026-04-22,,,sk,,,,,AAV1-hSyn-soma-GCamp8s(1/3),,,,,,,,,aav injection,76
-pr-sk18-01,sk18,CM_injection,2026-04-28,,,sk,,,,,,,,,,,,,,大槽内投与,70
-pr-sk19-01,sk19,CM_injection,2026-04-28,,,sk,,,,,,,,,,,,,,大槽内投与,70
-pr-sk20-01,sk20,PoRTs_window,2026-04-30,,,sk,,,,,,,,,,,,,,windowつけ,68
-pr-sk21-01,sk21,PoRTs_window,2026-05-07,,,sk,,,,,,,,,,,,,,windowつけ,61
-pr-sk22-01,sk22,PoRTs_window,2026-05-12,,,sk,,,,,,,,,,,,,,windowつけ,56
-pr-sk23-01,sk23,PoRTs_window,2026-05-14,,,sk,,,,,,,,,,,,,,windowつけ,54
-pr-sk24-01,sk24,PoRTs_window,2026-05-14,,,sk,,,,,,,,,,,,,,windowつけ,54
-pr-sk25-01,sk25,viral_injection,2026-05-28,ser-sk25-01,1,sk,3-mixed,ip,ketoprophen,sc,AAV1-hSyn-soma-GCamp8s(1/3),ic,L,Barrel cortex,,,,,,aav injection,40
-pr-sk26-01,sk26,PoRTs_window,2026-06-01,ser,,sk,,,,,,,,,,,,,,windowつけ,36
-pr-sk27-01,sk27,viral_injection,2026-06-02,ser-sk27-01,,sk,3-mixed,,ketoprophen,sc,AAV1-hSyn-soma-GCamp8s(1/3),ic,L,Barrel cortex,,,,,,aav injection,35
-pr-sk28-01,sk28,viral_injection,2026-06-02,ser-sk28-01,,sk,3-mixed,,ketoprophen,sc,AAV1-hSyn-soma-GCamp8s(1/3),ic,L,Barrel cortex,,,,,,aav injection,35
-pr-sk29-01,sk29,viral_injection,2026-06-04,ser-sk29-01,,sk,3-mixed,,ketoprophen,sc,AAV1-hSyn-soma-GCamp8s(1/3),ic,L,Barrel cortex,,,,,,aav injection,33
-pr-sk30-01,sk30,viral_injection,2026-06-04,,,sk,3-mixed,,ketoprophen,sc,AAV1-hSyn-soma-GCamp8s(1/3),ic,L,Barrel cortex,,,,,,aav injection,33
-pr-sk31-01,sk31,PoRTs_window,2026-06-08,,,sk,,,,,,,,,,,,,,windowつけ,29
-pr-sk32-01,sk32,PoRTs_window,2026-06-08,,,sk,,,,,,,,,,,,,,windowつけ,29
-pr-sk33-01,sk33,PoRTs_window,2026-06-09,,,sk,,,,,,,,,,,,,,windowつけ,28
-pr-sk34-01,sk34,cranial_window,2026-06-11,,,sk,,,,,,,,,,,,,,cranial window implantation,26
-pr-sk35-01,sk35,cranial_window,2026-06-11,,,sk,,,,,,,,,,,,,,cranial window implantation,26
-pr-sk36-01,sk36,cranial_window,2026-06-11,,,sk,,,,,,,,,,,,,,cranial window implantation,26
-pr-ts290-01,ts290,PoRTs_window,2026-05-13,ser-ts290-01,1,ts,3-mixed,ip,ketoprophen,sc,,,,,,,,,,,55
-pr-sk37-01,sk37,cranial_window,2026-06-15,ser-sk37-01,1,sk,3-mixed,ip,ketoprophen,sc,,,,,,,,,,,22
-pr-sk38-01,sk38,cranial_window,2026-06-22,ser-sk38-01,1,sk,3-mixed,ip,ketoprophen,sc,,,,,,,,,,,15
-pr-sk25-02,sk25,cranial_window,2026-06-23,ser-sk25-01,2,sk,3-mixed,ip,ketoprophen,sc,,,,,,,,,,,14
-pr-sk27-02,sk27,cranial_window,2026-06-25,ser-sk27-01,2,sk,isoflurane,inhalation,ketoprophen,sc,,,,,,,,,,,12
-pr-ts290-02,ts290,tail-vein_catheter,2026-06-26,ser-ts290-01,,ts,3-mixed,ip,ketoprophen,sc,,,,,,,,,,,11
-pr-sk39-01,sk39,PoRTs_window,2026-06-30,ser-sk39-01,1,sk,3-mixed,ip,ketoprophen,sc,,,,,,,,,,,7
-pr-sk40-01,sk40,PoRTs_window,2026-06-30,ser-sk40-01,1,sk,3-mixed,ip,ketoprophen,sc,,,,,,,,,,,7
-pr-sk41-01,sk41,PoRTs_window,2026-07-02,ser-sk41-01,1,sk,3-mixed,ip,ketoprophen,sc,,,,,,,,,,,5
-pr-sk28-02,sk28,cranial_window,2026-07-02,ser-sk28-01,2,sk,isoflurane,inhalation,ketoprophen,sc,,,,,,,,,,,5
-pr-sk27-03,sk27,imaging,2026-07-06,ser-sk27-01,3,ts,isoflurane,inhalation,,,,,,,,,,,,,1
-pr-sk42-01,sk42,CM_injection,2026-07-07,ser-sk42-01,1,sk,ketamine_xylazine,ip,ketoprophen,sc,,,,,,,,,,,0
-pr-sk27-04,sk27,imaging,2026-07-07,ser-sk27-01,1,ts,ketamine_xylazine,ip,,,,,,,,,,,,,0
-pr-sk33-02,sk33,imaging,2026-07-07,ser-sk33-01,,ts,3-mixed,ip,ketoprophen,sc,,,,,,,,,,,0
+pr-ts1-01,ts1,cranial_window,2022-06-08,,,ts,,,,,,,,,,,,,,チャンバーづけ,1493
+pr-ts2-01,ts2,cranial_window,2022-06-09,,,ts,,,,,,,,,,,,,,チャンバーづけ,1492
+pr-ts3-01,ts3,other,2022-11-11,,,ts,,,,,,,,,,,,,,FastBlue,1337
+pr-ts4-01,ts4,CM_injection,2022-11-17,,,ts,,,,,,,,,,,,,,CM Catheter,1331
+pr-ts4-02,ts4,cranial_window,2022-11-17,,,ts,,,,,,,,,,,,,,チャンバーづけ,1331
+pr-ts5-01,ts5,CM_injection,2022-11-21,,,ts,,,,,,,,,,,,,,CM Catheter,1327
+pr-ts5-02,ts5,cranial_window,2022-11-21,,,ts,,,,,,,,,,,,,,チャンバーづけ,1327
+pr-ts6-01,ts6,CM_injection,2022-11-21,,,ts,,,,,,,,,,,,,,CM Catheter,1327
+pr-ts6-02,ts6,cranial_window,2022-11-21,,,ts,,,,,,,,,,,,,,チャンバーづけ,1327
+pr-ts7-01,ts7,CM_injection,2022-11-25,,,ts,,,,,,,,,,,,,,CM Catheter,1323
+pr-ts7-02,ts7,cranial_window,2022-11-25,,,ts,,,,,,,,,,,,,,チャンバーづけ,1323
+pr-ts8-01,ts8,CM_injection,2022-11-25,,,ts,,,,,,,,,,,,,,CM Catheter,1323
+pr-ts8-02,ts8,cranial_window,2022-11-25,,,ts,,,,,,,,,,,,,,チャンバーづけ,1323
+pr-ts9-01,ts9,other,2022-12-06,,,ts,,,,,,,,,,,,,,FastBlue,1312
+pr-ts10-01,ts10,CM_injection,2023-01-13,,,ts,,,,,,,,,,,,,,CM Catheter,1274
+pr-ts10-02,ts10,cranial_window,2023-01-13,,,ts,,,,,,,,,,,,,,Window,1274
+pr-ts11-01,ts11,CSF_collection,2023-11-06,,,ts,,,,,,,,,,,,,,CSF Collection,977
+pr-ts12-01,ts12,CSF_collection,2023-11-07,,,ts,,,,,,,,,,,,,,CSF Collection,976
+pr-ts13-01,ts13,cranial_window,2023-11-09,,,ts,,,,,,,,,,,,,,Cranial window,974
+pr-ts14-01,ts14,CSF_collection,2023-11-13,,,ts,,,,,,,,,,,,,,CSF Collection,970
+pr-ts15-01,ts15,CSF_collection,2023-11-13,,,ts,,,,,,,,,,,,,,CSF Collection,970
+pr-ts16-01,ts16,CSF_collection,2023-11-13,,,ts,,,,,,,,,,,,,,CSF Collection,970
+pr-ts17-01,ts17,CSF_collection,2023-11-14,,,ts,,,,,,,,,,,,,,CSF Collection,969
+pr-ts18-01,ts18,CSF_collection,2023-11-14,,,ts,,,,,,,,,,,,,,CSF Collection,969
+pr-ts19-01,ts19,femoral_catheter,2023-11-16,,,ts,,,,,,,,,,,,,,Femoral artery catheter,967
+pr-ts20-01,ts20,cranial_window,2023-11-27,,,ts,,,,,,,,,,,,,,Cranial window,956
+pr-ts21-01,ts21,cranial_window,2023-12-06,,,ts,,,,,,,,,,,,,,Cranial window,947
+pr-ts22-01,ts22,other,2023-12-08,,,ts,,,,,,,,,,,,,,Needle insertion,945
+pr-ts23-01,ts23,cranial_window,2023-12-12,,,ts,,,,,,,,,,,,,,Cranial window,941
+pr-ts24-01,ts24,CM_injection,2023-12-18,,,ts,,,,,,,,,,,,,,CM Catheter,935
+pr-ts24-02,ts24,cranial_window,2023-12-18,,,ts,,,,,,,,,,,,,,チャンバーづけ,935
+pr-ts25-01,ts25,CM_injection,2023-12-29,,,ts,,,,,,,,,,,,,,CM Catheter,924
+pr-ts25-02,ts25,cranial_window,2023-12-29,,,ts,,,,,,,,,,,,,,チャンバーづけ,924
+pr-ts26-01,ts26,cranial_window,2024-01-10,,,ts,,,,,,,,,,,,,,Cranial window,912
+pr-ts27-01,ts27,cranial_window,2024-01-11,,,ts,,,,,,,,,,,,,,Cranial window,911
+pr-ts28-01,ts28,CM_injection,2024-01-16,,,ts,,,,,,,,,,,,,,CM Catheter,906
+pr-ts28-02,ts28,cranial_window,2024-01-16,,,ts,,,,,,,,,,,,,,Window,906
+pr-ts29-01,ts29,CM_injection,2024-01-19,,,ts,,,,,,,,,,,,,,CM Catheter,903
+pr-ts29-02,ts29,cranial_window,2024-01-19,,,ts,,,,,,,,,,,,,,Window,903
+pr-ts30-01,ts30,CM_injection,2024-01-23,,,ts,,,,,,,,,,,,,,CM Catheter,899
+pr-ts30-02,ts30,cranial_window,2024-01-23,,,ts,,,,,,,,,,,,,,Window,899
+pr-ts31-01,ts31,CSF_collection,2024-01-30,,,ts,,,,,,,,,,,,,,CSF Collection,892
+pr-ts31-02,ts31,cranial_window,2024-01-30,,,ts,,,,,,,,,,,,,,チャンバーづけ,892
+pr-ts32-01,ts32,CSF_collection,2024-02-07,,,ts,,,,,,,,,,,,,,CSF Collection,884
+pr-ts32-02,ts32,cranial_window,2024-02-07,,,ts,,,,,,,,,,,,,,チャンバーづけ,884
+pr-ts33-01,ts33,CSF_collection,2024-02-07,,,ts,,,,,,,,,,,,,,CSF Collection,884
+pr-ts33-02,ts33,cranial_window,2024-02-07,,,ts,,,,,,,,,,,,,,チャンバーづけ,884
+pr-ts34-01,ts34,CSF_collection,2024-02-07,,,ts,,,,,,,,,,,,,,CSF Collection,884
+pr-ts34-02,ts34,cranial_window,2024-02-07,,,ts,,,,,,,,,,,,,,チャンバーづけ,884
+pr-ts35-01,ts35,CSF_collection,2024-02-07,,,ts,,,,,,,,,,,,,,CSF Collection,884
+pr-ts35-02,ts35,cranial_window,2024-02-07,,,ts,,,,,,,,,,,,,,チャンバーづけ,884
+pr-ts36-01,ts36,CSF_collection,2024-02-08,,,ts,,,,,,,,,,,,,,CSF Collection,883
+pr-ts36-02,ts36,cranial_window,2024-02-08,,,ts,,,,,,,,,,,,,,チャンバーづけ,883
+pr-ts37-01,ts37,CSF_collection,2024-02-08,,,ts,,,,,,,,,,,,,,CSF Collection,883
+pr-ts37-02,ts37,cranial_window,2024-02-08,,,ts,,,,,,,,,,,,,,チャンバーづけ,883
+pr-ts38-01,ts38,CSF_collection,2024-02-08,,,ts,,,,,,,,,,,,,,CSF Collection,883
+pr-ts38-02,ts38,cranial_window,2024-02-08,,,ts,,,,,,,,,,,,,,チャンバーづけ,883
+pr-ts39-01,ts39,CSF_collection,2024-02-19,,,ts,,,,,,,,,,,,,,CSF Collection,872
+pr-ts39-02,ts39,cranial_window,2024-02-19,,,ts,,,,,,,,,,,,,,チャンバーづけ,872
+pr-ts40-01,ts40,CSF_collection,2024-02-19,,,ts,,,,,,,,,,,,,,CSF Collection,872
+pr-ts40-02,ts40,cranial_window,2024-02-19,,,ts,,,,,,,,,,,,,,チャンバーづけ,872
+pr-ts41-01,ts41,CSF_collection,2024-02-19,,,ts,,,,,,,,,,,,,,CSF Collection,872
+pr-ts41-02,ts41,cranial_window,2024-02-19,,,ts,,,,,,,,,,,,,,チャンバーづけ,872
+pr-ts42-01,ts42,CSF_collection,2024-02-19,,,ts,,,,,,,,,,,,,,CSF Collection,872
+pr-ts42-02,ts42,cranial_window,2024-02-19,,,ts,,,,,,,,,,,,,,チャンバーづけ,872
+pr-ts43-01,ts43,CM_injection,2024-02-29,,,ts,,,,,,,,,,,,,,CM Catheter,862
+pr-ts43-02,ts43,cranial_window,2024-02-29,,,ts,,,,,,,,,,,,,,Window,862
+pr-ts44-01,ts44,other,2024-02-29,,,ts,,,,,,,,,,,,,,Injection,862
+pr-ts44-02,ts44,cranial_window,2024-02-29,,,ts,,,,,,,,,,,,,,チャンバーづけ,862
+pr-ts45-01,ts45,CM_injection,2024-03-04,,,ts,,,,,,,,,,,,,,CM Catheter,858
+pr-ts45-02,ts45,cranial_window,2024-03-04,,,ts,,,,,,,,,,,,,,Window,858
+pr-ts46-01,ts46,CM_injection,2024-03-06,,,ts,,,,,,,,,,,,,,CM Catheter,856
+pr-ts46-02,ts46,cranial_window,2024-03-06,,,ts,,,,,,,,,,,,,,チャンバーづけ,856
+pr-ts47-01,ts47,CM_injection,2024-03-06,,,ts,,,,,,,,,,,,,,CM Catheter,856
+pr-ts47-02,ts47,cranial_window,2024-03-06,,,ts,,,,,,,,,,,,,,チャンバーづけ,856
+pr-ts48-01,ts48,CM_injection,2024-03-07,,,ts,,,,,,,,,,,,,,CM Catheter,855
+pr-ts48-02,ts48,cranial_window,2024-03-07,,,ts,,,,,,,,,,,,,,チャンバーづけ,855
+pr-ts49-01,ts49,CM_injection,2024-03-07,,,ts,,,,,,,,,,,,,,CM Catheter,855
+pr-ts49-02,ts49,cranial_window,2024-03-07,,,ts,,,,,,,,,,,,,,Window,855
+pr-ts50-01,ts50,CM_injection,2024-03-08,,,ts,,,,,,,,,,,,,,CM Catheter,854
+pr-ts50-02,ts50,cranial_window,2024-03-08,,,ts,,,,,,,,,,,,,,Window,854
+pr-ts51-01,ts51,cranial_window,2024-03-14,,,ts,,,,,,,,,,,,,,Cranial window,848
+pr-ts52-01,ts52,femoral_catheter,2024-03-19,,,ts,,,,,,,,,,,,,,Femoral vein catheter,843
+pr-ts52-02,ts52,cranial_window,2024-03-19,,,ts,,,,,,,,,,,,,,チャンバーづけ,843
+pr-ts53-01,ts53,cranial_window,2024-03-21,,,ts,,,,,,,,,,,,,,Cranial window,841
+pr-ts53-02,ts53,other,2024-03-21,,,ts,,,,,,,,,,,,,,injection,841
+pr-ts54-01,ts54,cranial_window,2024-04-01,,,ts,,,,,,,,,,,,,,Cranial window,830
+pr-ts54-02,ts54,viral_injection,2024-04-01,,,ts,,,,,,,,,,,,,,AAV injection,830
+pr-ts55-01,ts55,cranial_window,2024-04-03,,,ts,,,,,,,,,,,,,,Cranial window,828
+pr-ts55-02,ts55,viral_injection,2024-04-03,,,ts,,,,,,,,,,,,,,AAV injection,828
+pr-ts56-01,ts56,cranial_window,2024-04-04,,,ts,,,,,,,,,,,,,,Cranial window,827
+pr-ts56-02,ts56,viral_injection,2024-04-04,,,ts,,,,,,,,,,,,,,AAV injection,827
+pr-ts57-01,ts57,cranial_window,2024-04-05,,,ts,,,,,,,,,,,,,,Cranial window,826
+pr-ts57-02,ts57,viral_injection,2024-04-05,,,ts,,,,,,,,,,,,,,AAV injection,826
+pr-ts58-01,ts58,other,2024-04-11,,,ts,,,,,,,,,,,,,,Injection,820
+pr-ts58-02,ts58,cranial_window,2024-04-11,,,ts,,,,,,,,,,,,,,チャンバーづけ,820
+pr-ts59-01,ts59,cranial_window,2024-04-16,,,ts,,,,,,,,,,,,,,Cranial window,815
+pr-ts59-02,ts59,femoral_catheter,2024-04-16,,,ts,,,,,,,,,,,,,,Femoral vein catheter,815
+pr-ts60-01,ts60,cranial_window,2024-04-17,,,ts,,,,,,,,,,,,,,Cranial window,814
+pr-ts61-01,ts61,cranial_window,2024-04-18,,,ts,,,,,,,,,,,,,,Cranial window,813
+pr-ts61-02,ts61,other,2024-04-18,,,ts,,,,,,,,,,,,,,inj,813
+pr-ts62-01,ts62,cranial_window,2024-04-25,,,ts,,,,,,,,,,,,,,Cranial window,806
+pr-ts63-01,ts63,cranial_window,2024-04-26,,,ts,,,,,,,,,,,,,,Cranial window,805
+pr-ts64-01,ts64,perfusion_fix,2024-05-10,,,ts,,,,,,,,,,,,,,Fix,791
+pr-ts65-01,ts65,perfusion_fix,2024-05-10,,,ts,,,,,,,,,,,,,,Fix,791
+pr-ts66-01,ts66,perfusion_fix,2024-05-10,,,ts,,,,,,,,,,,,,,Fix,791
+pr-ts67-01,ts67,cranial_window,2024-05-17,,,ts,,,,,,,,,,,,,,Cranial window,784
+pr-ts67-02,ts67,viral_injection,2024-05-17,,,ts,,,,,,,,,,,,,,AAV injection,784
+pr-ts68-01,ts68,perfusion_fix,2024-05-21,,,ts,,,,,,,,,,,,,,Fix,780
+pr-ts69-01,ts69,perfusion_fix,2024-05-21,,,ts,,,,,,,,,,,,,,Fix,780
+pr-ts70-01,ts70,femoral_catheter,2024-05-21,,,ts,,,,,,,,,,,,,,Femoral vein catheter,780
+pr-ts70-02,ts70,cranial_window,2024-05-21,,,ts,,,,,,,,,,,,,,チャンバーづけ,780
+pr-ts71-01,ts71,femoral_catheter,2024-05-22,,,ts,,,,,,,,,,,,,,Femoral vein catheter,779
+pr-ts71-02,ts71,cranial_window,2024-05-22,,,ts,,,,,,,,,,,,,,チャンバーづけ,779
+pr-ts72-01,ts72,cranial_window,2024-05-28,,,ts,,,,,,,,,,,,,,Cranial window,773
+pr-ts73-01,ts73,cranial_window,2024-05-31,,,ts,,,,,,,,,,,,,,Cranial window,770
+pr-ts74-01,ts74,cranial_window,2024-05-31,,,ts,,,,,,,,,,,,,,Cranial window,770
+pr-ts75-01,ts75,cranial_window,2024-06-05,,,ts,,,,,,,,,,,,,,Cranial window,765
+pr-ts76-01,ts76,cranial_window,2024-06-05,,,ts,,,,,,,,,,,,,,Cranial window,765
+pr-ts77-01,ts77,cranial_window,2024-06-05,,,ts,,,,,,,,,,,,,,Cranial window,765
+pr-ts78-01,ts78,cranial_window,2024-06-05,,,ts,,,,,,,,,,,,,,Cranial window,765
+pr-ts79-01,ts79,cranial_window,2024-06-07,,,ts,,,,,,,,,,,,,,Cranial window,763
+pr-ts80-01,ts80,cranial_window,2024-06-07,,,ts,,,,,,,,,,,,,,Cranial window,763
+pr-ts81-01,ts81,cranial_window,2024-06-08,,,ts,,,,,,,,,,,,,,Cranial window,762
+pr-ts82-01,ts82,perfusion_fix,2024-06-09,,,ts,,,,,,,,,,,,,,Fix,761
+pr-ts83-01,ts83,imaging,2024-06-17,,,ts,,,,,,,,,,,,,,Fluometirc experiment,753
+pr-ts84-01,ts84,perfusion_fix,2024-06-25,,,ts,,,,,,,,,,,,,,Fix,745
+pr-ts84-02,ts84,cranial_window,2024-06-25,,,ts,,,,,,,,,,,,,,チャンバーづけ,745
+pr-ts85-01,ts85,CSF_collection,2024-07-23,,,ts,,,,,,,,,,,,,,CSF Collection,717
+pr-ts86-01,ts86,CSF_collection,2024-07-24,,,ts,,,,,,,,,,,,,,CSF Collection,716
+pr-ts87-01,ts87,CSF_collection,2024-07-24,,,ts,,,,,,,,,,,,,,CSF Collection,716
+pr-ts88-01,ts88,CSF_collection,2024-07-25,,,ts,,,,,,,,,,,,,,CSF Collection,715
+pr-ts89-01,ts89,CSF_collection,2024-07-25,,,ts,,,,,,,,,,,,,,CSF Collection,715
+pr-ts90-01,ts90,CSF_collection,2024-07-25,,,ts,,,,,,,,,,,,,,CSF Collection,715
+pr-ts91-01,ts91,viral_injection,2024-07-26,,,ts,,,,,hsyn-EGFP,,,,,,,,,AAV injection,714
+pr-ts91-02,ts91,cranial_window,2024-08-09,,,ts,,,,,,,,,,,,,,チャンバーづけ,700
+pr-ts92-01,ts92,imaging,2024-07-29,,,ts,,,,,,,,,,,,,,Fluometirc experiment,711
+pr-ts93-01,ts93,viral_injection,2024-07-31,,,ts,,,,,hsyn-EGFP,,,,,,,,,AAV injection,709
+pr-ts94-01,ts94,viral_injection,2024-08-02,,,ts,,,,,hsyn-EGFP,,,,,,,,,AAV injection,707
+pr-ts94-02,ts94,cranial_window,2024-09-06,,,ts,,,,,,,,,,,,,,チャンバーづけ,672
+pr-ts95-01,ts95,viral_injection,2024-08-05,,,ts,,,,,hsyn-EGFP,,,,,,,,,AAV injection,704
+pr-ts96-01,ts96,viral_injection,2024-08-06,,,ts,,,,,hsyn-EGFP,,,,,,,,,AAV injection,703
+pr-ts96-02,ts96,cranial_window,2024-09-13,,,ts,,,,,,,,,,,,,,チャンバーづけ,665
+pr-ts97-01,ts97,viral_injection,2024-08-06,,,ts,,,,,hsyn-EGFP,,,,,,,,,AAV injection,703
+pr-ts97-02,ts97,cranial_window,2024-10-10,,,ts,,,,,,,,,,,,,,チャンバーづけ,638
+pr-ts98-01,ts98,imaging,2024-08-20,,,ts,,,,,,,,,,,,,,Fluometirc experiment,689
+pr-ts99-01,ts99,imaging,2024-08-22,,,ts,,,,,,,,,,,,,,Fluometirc experiment,687
+pr-ts100-01,ts100,other,2024-09-05,,,ts,,,,,,,,,,,,,,water intoxication,673
+pr-ts101-01,ts101,other,2024-09-05,,,ts,,,,,,,,,,,,,,water intoxication,673
+pr-ts102-01,ts102,other,2024-09-05,,,ts,,,,,,,,,,,,,,water intoxication,673
+pr-ts103-01,ts103,other,2024-09-05,,,ts,,,,,,,,,,,,,,water intoxication,673
+pr-ts104-01,ts104,other,2024-09-05,,,ts,,,,,,,,,,,,,,water intoxication,673
+pr-ts105-01,ts105,other,2024-09-05,,,ts,,,,,,,,,,,,,,water intoxication,673
+pr-ts106-01,ts106,imaging,2024-09-10,,,ts,,,,,,,,,,,,,,Fluometric measurement,668
+pr-ts107-01,ts107,imaging,2024-09-10,,,ts,,,,,,,,,,,,,,Fluometric measurement,668
+pr-ts108-01,ts108,PoRTs_window,2024-09-10,,,ts,,,,,,,,,,,,,,PoRTs window,668
+pr-ts109-01,ts109,craniotomy,2024-09-19,,,ts,,,,,,,,,,,,,,Craniotomy,659
+pr-ts109-02,ts109,cranial_window,2024-09-19,,,ts,,,,,,,,,,,,,,チャンバーづけ,659
+pr-ts110-01,ts110,CSF_collection,2024-09-24,,,ts,,,,,,,,,,,,,,CSF Collection,654
+pr-ts111-01,ts111,CSF_collection,2024-09-25,,,ts,,,,,,,,,,,,,,CSF Collection,653
+pr-ts112-01,ts112,CSF_collection,2024-09-25,,,ts,,,,,,,,,,,,,,CSF Collection,653
+pr-ts113-01,ts113,CSF_collection,2024-09-26,,,ts,,,,,,,,,,,,,,CSF Collection,652
+pr-ts114-01,ts114,PoRTs_window,2024-10-09,,,ts,,,,,,,,,,,,,,PoRTs and TIS window,639
+pr-ts115-01,ts115,PoRTs_window,2024-10-09,,,ts,,,,,,,,,,,,,,PoRTs and TIS window,639
+pr-ts117-01,ts117,CSF_collection,2024-10-12,,,ts,,,,,,,,,,,,,,CSF Collection,636
+pr-ts118-01,ts118,CSF_collection,2024-10-12,,,ts,,,,,,,,,,,,,,CSF Collection,636
+pr-ts119-01,ts119,cranial_window,2024-10-18,,,ts,,,,,,,,,,,,,,Cranial window,630
+pr-ts119-02,ts119,femoral_catheter,2024-10-18,,,ts,,,,,,,,,,,,,,Femoral vein catheter,630
+pr-ts120-01,ts120,cranial_window,2024-10-18,,,ts,,,,,,,,,,,,,,Cranial window,630
+pr-ts120-02,ts120,femoral_catheter,2024-10-18,,,ts,,,,,,,,,,,,,,Femoral vein catheter,630
+pr-ts121-01,ts121,cranial_window,2024-10-22,,,ts,,,,,,,,,,,,,,Cranial window,626
+pr-ts122-01,ts122,cranial_window,2024-10-22,,,ts,,,,,,,,,,,,,,Cranial window,626
+pr-ts122-02,ts122,femoral_catheter,2024-10-22,,,ts,,,,,,,,,,,,,,Femoral vein catheter,626
+pr-ts123-01,ts123,CM_injection,2024-10-24,,,ts,,,,,,,,,,,,,,CM injection,624
+pr-ts123-02,ts123,cranial_window,2024-10-24,,,ts,,,,,,,,,,,,,,チャンバーづけ,624
+pr-ts124-01,ts124,other,2024-10-25,,,ts,,,,,,,,,,,,,,Injection,623
+pr-ts125-01,ts125,cranial_window,2024-10-25,,,ts,,,,,,,,,,,,,,Cranial window,623
+pr-ts126-01,ts126,PoRTs_window,2024-10-25,,,ts,,,,,,,,,,,,,,PoRTs window,623
+pr-ts127-01,ts127,other,2024-10-28,,,ts,,,,,,,,,,,,,,Injection,620
+pr-ts128-01,ts128,PoRTs_window,2024-10-28,,,ts,,,,,,,,,,,,,,PoRTs window,620
+pr-ts129-01,ts129,other,2024-10-30,,,ts,,,,,,,,,,,,,,Injection,618
+pr-ts130-01,ts130,other,2024-10-30,,,ts,,,,,,,,,,,,,,Control for dCLN,618
+pr-ts131-01,ts131,CSF_collection,2024-11-05,,,ts,,,,,,,,,,,,,,CSF Collection,612
+pr-ts132-01,ts132,other,2024-11-01,,,ts,,,,,,,,,,,,,,Injection,616
+pr-ts133-01,ts133,CSF_collection,2024-11-06,,,ts,,,,,,,,,,,,,,CSF Collection,611
+pr-ts134-01,ts134,cranial_window,2024-11-06,,,ts,,,,,,,,,,,,,,Cranial window,611
+pr-ts135-01,ts135,CSF_collection,2024-11-11,,,ts,,,,,,,,,,,,,,CSF Collection,606
+pr-ts136-01,ts136,CSF_collection,2024-11-12,,,ts,,,,,,,,,,,,,,CSF Collection,605
+pr-ts137-01,ts137,CSF_collection,2024-11-12,,,ts,,,,,,,,,,,,,,CSF Collection,605
+pr-ts138-01,ts138,other,2024-11-12,,,ts,,,,,,,,,,,,,,Injection,605
+pr-ts138-02,ts138,CSF_collection,2024-11-12,,,ts,,,,,,,,,,,,,,CSF Collection,605
+pr-ts139-01,ts139,other,2024-11-13,,,ts,,,,,,,,,,,,,,Injection,604
+pr-ts139-02,ts139,CSF_collection,2024-11-13,,,ts,,,,,,,,,,,,,,CSF Collection,604
+pr-ts140-01,ts140,other,2024-11-13,,,ts,,,,,,,,,,,,,,Injection,604
+pr-ts140-02,ts140,CSF_collection,2024-11-13,,,ts,,,,,,,,,,,,,,CSF Collection,604
+pr-ts141-01,ts141,other,2024-11-13,,,ts,,,,,,,,,,,,,,Injection,604
+pr-ts141-02,ts141,CSF_collection,2024-11-13,,,ts,,,,,,,,,,,,,,CSF Collection,604
+pr-ts142-01,ts142,CSF_collection,2024-11-14,,,ts,,,,,,,,,,,,,,CSF Collection,603
+pr-ts143-01,ts143,CSF_collection,2024-11-14,,,ts,,,,,,,,,,,,,,CSF Collection,603
+pr-ts144-01,ts144,CSF_collection,2024-11-15,,,ts,,,,,,,,,,,,,,CSF Collection,602
+pr-ts145-01,ts145,CSF_collection,2024-11-15,,,ts,,,,,,,,,,,,,,CSF Collection,602
+pr-ts146-01,ts146,CSF_collection,2024-11-21,,,ts,,,,,,,,,,,,,,CSF Collection,596
+pr-ts147-01,ts147,CSF_collection,2024-11-29,,,ts,,,,,,,,,,,,,,CSF Collection,588
+pr-ts148-01,ts148,CSF_collection,2024-11-29,,,ts,,,,,,,,,,,,,,CSF Collection,588
+pr-ts149-01,ts149,CSF_collection,2024-12-02,,,ts,,,,,,,,,,,,,,CSF Collection,585
+pr-ts150-01,ts150,CSF_collection,2024-12-03,,,ts,,,,,,,,,,,,,,CSF Collection,584
+pr-ts151-01,ts151,CSF_collection,2024-12-03,,,ts,,,,,,,,,,,,,,CSF Collection,584
+pr-ts152-01,ts152,CSF_collection,2024-12-04,,,ts,,,,,,,,,,,,,,CSF Collection,583
+pr-ts153-01,ts153,CSF_collection,2024-12-09,,,ts,,,,,,,,,,,,,,CSF Collection,578
+pr-ts154-01,ts154,CSF_collection,2024-12-09,,,ts,,,,,,,,,,,,,,CSF Collection,578
+pr-ts155-01,ts155,CSF_collection,2024-12-10,,,ts,,,,,,,,,,,,,,CSF Collection,577
+pr-ts156-01,ts156,CSF_collection,2024-12-11,,,ts,,,,,,,,,,,,,,CSF Collection,576
+pr-ts157-01,ts157,CSF_collection,2024-12-12,,,ts,,,,,,,,,,,,,,CSF Collection,575
+pr-ts158-01,ts158,CSF_collection,2024-12-12,,,ts,,,,,,,,,,,,,,CSF Collection,575
+pr-ts159-01,ts159,CSF_collection,2024-12-13,,,ts,,,,,,,,,,,,,,CSF Collection,574
+pr-ts160-01,ts160,CSF_collection,2024-12-13,,,ts,,,,,,,,,,,,,,CSF Collection,574
+pr-ts161-01,ts161,perfusion_fix,2024-12-26,,,ts,,,,,,,,,,,,,,Fix,561
+pr-ts162-01,ts162,perfusion_fix,2025-01-07,,,ts,,,,,,,,,,,,,,Fix,549
+pr-ts163-01,ts163,perfusion_fix,2025-01-07,,,ts,,,,,,,,,,,,,,Fix,549
+pr-ts164-01,ts164,tissue_clearing,2025-01-10,,,ts,,,,,,,,,,,,,,Tissue clearing,546
+pr-ts165-01,ts165,viral_injection,2025-01-14,,,ts,,,,,hsyn-EGFP,,,,,,,,,AAV injection,542
+pr-ts165-02,ts165,cranial_window,2025-02-05,,,ts,,,,,,,,,,,,,,チャンバーづけ,520
+pr-ts166-01,ts166,femoral_catheter,2025-01-15,,,ts,,,,,,,,,,,,,,Femoral vein cathter,541
+pr-ts167-01,ts167,femoral_catheter,2025-01-17,,,ts,,,,,,,,,,,,,,Femoral vein cathter,539
+pr-ts168-01,ts168,femoral_catheter,2025-01-20,,,ts,,,,,,,,,,,,,,Femoral vein cathter,536
+pr-ts168-02,ts168,cranial_window,2025-01-20,,,ts,,,,,,,,,,,,,,チャンバーづけ,536
+pr-ts169-01,ts169,other,2025-01-23,,,ts,,,,,,,,,,,,,,DB53 test,533
+pr-ts170-01,ts170,PoRTs_window,2025-01-27,,,ts,,,,,,,,,,,,,,PoRTs window,529
+pr-ts171-01,ts171,other,2025-01-27,,,ts,,,,,,,,,,,,,,KX test,529
+pr-ts172-01,ts172,other,2025-01-27,,,ts,,,,,,,,,,,,,,KX test,529
+pr-ts173-01,ts173,PoRTs_window,2025-01-28,,,ts,,,,,,,,,,,,,,PoRTs window,528
+pr-ts186-01,ts186,PoRTs_window,2025-02-05,,,ts,,,,,,,,,,,,,,PoRTs window,520
+pr-ts187-01,ts187,PoRTs_window,2025-02-06,,,ts,,,,,,,,,,,,,,PoRTs window,519
+pr-ts188-01,ts188,PoRTs_window,2025-02-13,,,ts,,,,,,,,,,,,,,PoRTs window,512
+pr-ts190-01,ts190,other,2025-02-17,,,ts,,,,,,,,,,,,,,Injection,508
+pr-ts191-01,ts191,other,2025-02-17,,,ts,,,,,,,,,,,,,,Injection,508
+pr-ts192-01,ts192,other,2025-02-17,,,ts,,,,,,,,,,,,,,Injection,508
+pr-ts193-01,ts193,other,2025-02-20,,,ts,,,,,,,,,,,,,,Injection,505
+pr-ts194-01,ts194,other,2025-02-20,,,ts,,,,,,,,,,,,,,Injection,505
+pr-ts195-01,ts195,other,2025-02-27,,,ts,,,,,,,,,,,,,,Injection,498
+pr-ts196-01,ts196,other,2025-02-27,,,ts,,,,,,,,,,,,,,Injection,498
+pr-ts197-01,ts197,other,2025-02-28,,,ts,,,,,,,,,,,,,,Injection,497
+pr-ts198-01,ts198,other,2025-02-28,,,ts,,,,,,,,,,,,,,Injection,497
+pr-ts199-01,ts199,other,2025-03-03,,,ts,,,,,,,,,,,,,,Injection,494
+pr-ts200-01,ts200,other,2025-03-05,,,ts,,,,,,,,,,,,,,Injection,492
+pr-ts201-01,ts201,other,2025-03-07,,,ts,,,,,,,,,,,,,,Injection,490
+pr-ts202-01,ts202,other,2025-03-07,,,ts,,,,,,,,,,,,,,Injection,490
+pr-ts203-01,ts203,other,2025-03-09,,,ts,,,,,,,,,,,,,,Injection,488
+pr-ts204-01,ts204,other,2025-03-10,,,ts,,,,,,,,,,,,,,Injection,487
+pr-ts205-01,ts205,other,2025-03-12,,,ts,,,,,,,,,,,,,,Injection,485
+pr-ts206-01,ts206,other,2025-03-12,,,ts,,,,,,,,,,,,,,Injection,485
+pr-ts207-01,ts207,other,2025-03-12,,,ts,,,,,,,,,,,,,,Injection,485
+pr-ts208-01,ts208,other,2025-03-12,,,ts,,,,,,,,,,,,,,Injection,485
+pr-ts209-01,ts209,other,2025-03-13,,,ts,,,,,,,,,,,,,,Injection,484
+pr-ts210-01,ts210,PoRTs_window,2025-04-04,,,ts,,,,,,,,,,,,,,PoRTs window,462
+pr-ts211-01,ts211,PoRTs_window,2025-04-07,,,ts,,,,,,,,,,,,,,PoRTs window,459
+pr-ts212-01,ts212,PoRTs_window,2025-04-08,,,ts,,,,,,,,,,,,,,PoRTs window,458
+pr-ts213-01,ts213,PoRTs_window,2025-04-08,,,ts,,,,,,,,,,,,,,PoRTs window,458
+pr-ts214-01,ts214,other,2025-05-12,,,ts,,,,,,,,,,,,,,TGN020 test,424
+pr-ts215-01,ts215,other,2025-05-12,,,ts,,,,,,,,,,,,,,TGN020 test,424
+pr-ts216-01,ts216,other,2025-05-12,,,ts,,,,,,,,,,,,,,TGN020 test,424
+pr-ts217-01,ts217,other,2025-05-12,,,ts,,,,,,,,,,,,,,TGN020 test,424
+pr-ts218-01,ts218,other,2025-05-12,,,ts,,,,,,,,,,,,,,TGN020 test,424
+pr-ts219-01,ts219,other,2025-05-12,,,ts,,,,,,,,,,,,,,TGN020 test,424
+pr-ts220-01,ts220,PoRTs_window,2025-05-27,,,ts,,,,,,,,,,,,,,PoRTs window,409
+pr-ts223-01,ts223,PoRTs_window,2025-05-28,,,ts,,,,,,,,,,,,,,PoRTs window,408
+pr-ts224-01,ts224,PoRTs_window,2025-05-29,,,ts,,,,,,,,,,,,,,PoRTs window,407
+pr-ts225-01,ts225,PoRTs_window,2025-05-30,,,ts,,,,,,,,,,,,,,PoRTs window,406
+pr-ts226-01,ts226,PoRTs_window,2025-06-04,,,ts,,,,,,,,,,,,,,PoRTs window,401
+pr-ts227-01,ts227,PoRTs_window,2025-06-06,,,ts,,,,,,,,,,,,,,PoRTs window,399
+pr-ts228-01,ts228,femoral_catheter,2025-07-08,,,ts,,,,,,,,,,,,,,Femoral vein catheter test,367
+pr-ts229-01,ts229,PoRTs_window,2025-07-10,,,ts,,,,,,,,,,,,,,PoRTs window,365
+pr-ts230-01,ts230,craniotomy,2025-07-10,,,ts,,,,,,,,,,,,,,Craniotomy,365
+pr-ts230-02,ts230,cranial_window,2025-07-10,,,ts,,,,,,,,,,,,,,チャンバーづけ,365
+pr-ts231-01,ts231,PoRTs_window,2025-07-11,,,ts,,,,,,,,,,,,,,PoRTs window,364
+pr-ts232-01,ts232,femoral_catheter,2025-08-18,,,ts,,,,,,,,,,,,,,Femoral vein catheter test,326
+pr-ts233-01,ts233,femoral_catheter,2025-08-18,,,ts,,,,,,,,,,,,,,Femoral vein catheter test,326
+pr-ts234-01,ts234,femoral_catheter,2025-08-20,,,ts,,,,,,,,,,,,,,Femoral vein catheter test,324
+pr-ts235-01,ts235,ICM_injection,2025-08-25,,,ts,,,,,,,,,,,,,,Ventricle cathter test,319
+pr-ts236-01,ts236,femoral_catheter,2025-08-27,,,ts,,,,,,,,,,,,,,Femoral vein catheter test,317
+pr-ts237-01,ts237,femoral_catheter,2025-09-02,,,ts,,,,,,,,,,,,,,Femoral vein catheter test,311
+pr-ts238-01,ts238,femoral_catheter,2025-09-03,,,ts,,,,,,,,,,,,,,Femoral vein catheter test,310
+pr-ts239-01,ts239,femoral_catheter,2025-09-03,,,ts,,,,,,,,,,,,,,Femoral vein catheter test,310
+pr-ts240-01,ts240,femoral_catheter,2025-09-03,,,ts,,,,,,,,,,,,,,Femoral vein catheter test,310
+pr-ts241-01,ts241,femoral_catheter,2025-09-04,,,ts,,,,,,,,,,,,,,Femoral vein catheter test,309
+pr-ts242-01,ts242,PoRTs_window,2025-09-19,,,ts,,,,,,,,,,,,,,PoRTs window,294
+pr-ts243-01,ts243,ICM_injection,2025-09-25,,,ts,,,,,,,,,,,,,,Intraventricle injection of Rh,288
+pr-ts243-02,ts243,cranial_window,2025-09-25,,,ts,,,,,,,,,,,,,,チャンバーづけ,288
+pr-ts244-01,ts244,femoral_catheter,2025-09-26,,,ts,,,,,,,,,,,,,,Femoral vein catheter test,287
+pr-ts245-01,ts245,PoRTs_window,2025-09-26,,,ts,,,,,,,,,,,,,,PoRTs window,287
+pr-ts246-01,ts246,femoral_catheter,2025-09-30,,,ts,,,,,,,,,,,,,,Femoral vein catheter test,283
+pr-ts247-01,ts247,PoRTs_window,2025-10-03,,,ts,,,,,,,,,,,,,,PoRTs window,280
+pr-ts248-01,ts248,PoRTs_window,2025-10-04,,,ts,,,,,,,,,,,,,,PoRTs window,279
+pr-ts249-01,ts249,PoRTs_window,2025-10-14,,,ts,,,,,,,,,,,,,,PoRTs window,269
+pr-ts250-01,ts250,PoRTs_window,2025-10-20,,,ts,,,,,,,,,,,,,,PoRTs window,263
+pr-ts251-01,ts251,PoRTs_window,2025-10-20,,,ts,,,,,,,,,,,,,,PoRTs window,263
+pr-ts252-01,ts252,ICM_injection,2025-10-20,,,ts,,,,,,,,,,,,,,Ventricle cathter test,263
+pr-ts252-02,ts252,cranial_window,2025-10-20,,,ts,,,,,,,,,,,,,,チャンバーづけ,263
+pr-ts253-01,ts253,ICM_injection,2025-10-20,,,ts,,,,,,,,,,,,,,Ventricle cathter test,263
+pr-ts253-02,ts253,cranial_window,2025-10-20,,,ts,,,,,,,,,,,,,,チャンバーづけ,263
+pr-ts254-01,ts254,viral_injection,2025-10-21,,,ts,,,,,AAV-AST CMVenhancer-hGfaABC1D-GFP-Wpre,,,,,,,,,AAV-AST test,262
+pr-ts254-02,ts254,cranial_window,2025-11-21,,,ts,,,,,,,,,,,,,,チャンバーづけ,231
+pr-ts255-01,ts255,viral_injection,2025-10-21,,,ts,,,,,AAV-AST2: CMVenhancer-hGfaABC1D-GFP-Wpre,,,,,,,,,AAV-AST test,262
+pr-ts256-01,ts256,viral_injection,2025-10-21,,,ts,,,,,AAV-AST2: mGfaABC1D-mCherry-Wpre,,,,,,,,,AAV-AST test,262
+pr-ts257-01,ts257,viral_injection,2025-10-21,,,ts,,,,,,,,,,,,,,AAV-AST test,262
+pr-ts257-02,ts257,cranial_window,2025-11-21,,,ts,,,,,,,,,,,,,,チャンバーづけ,231
+pr-ts258-01,ts258,imaging,2025-11-27,,,ts,,,,,,,,,,,,,,ear,225
+pr-ts259-01,ts259,imaging,2025-11-27,,,ts,,,,,,,,,,,,,,ear,225
+pr-ts260-01,ts260,imaging,2025-11-28,,,ts,,,,,,,,,,,,,,ear,224
+pr-ts262-01,ts262,cranial_window,2025-12-17,,,ts,,,,,,,,,,,,,,チャンバーづけ,205
+pr-ts263-01,ts263,cranial_window,2025-12-17,,,ts,,,,,,,,,,,,,,チャンバーづけ,205
+pr-ts264-01,ts264,other,2026-01-20,,,ts,,,,,,,,,,,,,,jagular vein test,171
+pr-ts264-02,ts264,cranial_window,2026-01-20,,,ts,,,,,,,,,,,,,,チャンバーづけ,171
+pr-ts265-01,ts265,other,2026-01-22,,,ts,,,,,,,,,,,,,,jagular vein test,169
+pr-ts265-02,ts265,cranial_window,2026-01-22,,,ts,,,,,,,,,,,,,,チャンバーづけ,169
+pr-ts266-01,ts266,other,2026-01-22,,,ts,,,,,,,,,,,,,,jagular vein test,169
+pr-ts266-02,ts266,cranial_window,2026-01-22,,,ts,,,,,,,,,,,,,,チャンバーづけ,169
+pr-ts267-01,ts267,PoRTs_window,2026-01-23,,,ts,,,,,,,,,,,,,,PoRTs window,168
+pr-ts268-01,ts268,perfusion_fix,2026-01-26,,,ts,,,,,,,,,,,,,,Fix test,165
+pr-ts269-01,ts269,ICM_injection,2026-01-26,,,ts,,,,,,,,,,,,,,Ventricle cathter test,165
+pr-ts269-02,ts269,cranial_window,2026-01-26,,,ts,,,,,,,,,,,,,,チャンバーづけ,165
+pr-ts270-01,ts270,viral_injection,2026-01-28,,,ts,,,,,AAV-AST CMVenhancer-hGfaABC1D-GFP-Wpre,,,,,,,,,AAV-AST test,163
+pr-ts271-01,ts271,viral_injection,2026-01-28,,,ts,,,,,AAV-AST2: CMVenhancer-hGfaABC1D-GFP-Wpre,,,,,,,,,AAV-AST test,163
+pr-ts272-01,ts272,viral_injection,2026-01-28,,,ts,,,,,AAV-AST2: mGfaABC1D-mCherry-Wpre,,,,,,,,,AAV-AST test,163
+pr-ts273-01,ts273,PoRTs_window,2026-01-29,,,ts,,,,,,,,,,,,,,PoRTs window,162
+pr-ts274-01,ts274,cranial_window,2026-01-30,,,ts,,,,,,,,,,,,,,chamber,161
+pr-ts275-01,ts275,other,2026-02-10,,,ts,,,,,,,,,,,,,,jagular vein test,150
+pr-ts275-02,ts275,cranial_window,2026-02-10,,,ts,,,,,,,,,,,,,,チャンバーづけ,150
+pr-ts276-01,ts276,other,2026-02-13,,,ts,,,,,,,,,,,,,,jagular vein test,147
+pr-ts276-02,ts276,cranial_window,2026-02-13,,,ts,,,,,,,,,,,,,,チャンバーづけ,147
+pr-ts277-01,ts277,other,2026-02-18,,,ts,,,,,,,,,,,,,,jagular vein test,142
+pr-ts277-02,ts277,cranial_window,2026-02-18,,,ts,,,,,,,,,,,,,,チャンバーづけ,142
+pr-ts278-01,ts278,other,2026-02-20,,,ts,,,,,,,,,,,,,,jagular vein test,140
+pr-ts278-02,ts278,cranial_window,2026-02-20,,,ts,,,,,,,,,,,,,,チャンバーづけ,140
+pr-ts279-01,ts279,other,2026-02-20,,,ts,,,,,,,,,,,,,,jagular vein test,140
+pr-ts279-02,ts279,cranial_window,2026-02-20,,,ts,,,,,,,,,,,,,,チャンバーづけ,140
+pr-ts280-01,ts280,imaging,2026-03-10,,,ts,,,,,,,,,,,,,,ear imaging,122
+pr-ts281-01,ts281,imaging,2026-03-12,,,ts,,,,,,,,,,,,,,ear imaging,120
+pr-ts282-01,ts282,imaging,2026-03-24,,,ts,,,,,,,,,,,,,,ear imaging,108
+pr-ts283-01,ts283,imaging,2026-04-09,,,ts,,,,,,,,,,,,,,ear imaging,92
+pr-ts284-01,ts284,imaging,2026-04-09,,,ts,,,,,,,,,,,,,,ear imaging,92
+pr-ts285-01,ts285,imaging,2026-04-10,,,ts,,,,,,,,,,,,,,ear imaging,91
+pr-ts288-01,ts288,imaging,2026-04-13,,,ts,,,,,,,,,,,,,,ear imaging,88
+pr-ts289-01,ts289,imaging,2026-04-23,,,ts,,,,,,,,,,,,,,ear imaging,78
+pr-sk1-01,sk1,other,2026-02-06,,,sk,,,,,,,,,,,,,,head plate,154
+pr-sk2-01,sk2,other,2026-02-16,,,sk,,,,,,,,,,,,,,チャンバーづけ,144
+pr-sk2-02,sk2,cranial_window,2026-02-16,,,sk,,,,,,,,,,,,,,チャンバーづけ,144
+pr-sk3-01,sk3,cranial_window,2026-02-20,,,sk,,,,,,,,,,,,,,windowつけ,140
+pr-sk4-01,sk4,cranial_window,2026-02-27,,,sk,,,,,,,,,,,,,,windowつけ,133
+pr-sk5-01,sk5,cranial_window,2026-03-09,,,sk,,,,,,,,,,,,,,windowつけ,123
+pr-sk6-01,sk6,cranial_window,2026-03-09,,,sk,,,,,,,,,,,,,,windowつけ,123
+pr-sk7-01,sk7,cranial_window,2026-03-09,,,sk,,,,,,,,,,,,,,windowつけ,123
+pr-sk8-01,sk8,cranial_window,2026-03-27,,,sk,,,,,,,,,,,,,,windowつけ,105
+pr-sk9-01,sk9,PoRTs_window,2026-03-30,,,sk,,,,,,,,,,,,,,windowつけ,102
+pr-sk10-01,sk10,cranial_window,2026-04-02,,,sk,,,,,,,,,,,,,,windowつけ,99
+pr-sk11-01,sk11,other,2026-04-07,,,sk,,,,,,,,,,,,,,injection test,94
+pr-sk12-01,sk12,PoRTs_window,2026-04-09,,,sk,,,,,,,,,,,,,,windowつけ,92
+pr-sk13-01,sk13,PoRTs_window,2026-04-16,,,sk,,,,,,,,,,,,,,windowつけ,85
+pr-sk14-01,sk14,viral_injection,2026-04-16,,,sk,,,,,AAV1-hSyn-soma-GCamp8s,,,,,,,,,aav injection,85
+pr-sk15-01,sk15,PoRTs_window,2026-04-20,,,sk,,,,,,,,,,,,,,windowつけ,81
+pr-sk16-01,sk16,viral_injection,2026-04-21,,,sk,,,,,AAV1-hSyn-soma-GCamp8s(1/3),,,,,,,,,aav injection,80
+pr-sk17-01,sk17,viral_injection,2026-04-22,,,sk,,,,,AAV1-hSyn-soma-GCamp8s(1/3),,,,,,,,,aav injection,79
+pr-sk18-01,sk18,CM_injection,2026-04-28,,,sk,,,,,,,,,,,,,,大槽内投与,73
+pr-sk19-01,sk19,CM_injection,2026-04-28,,,sk,,,,,,,,,,,,,,大槽内投与,73
+pr-sk20-01,sk20,PoRTs_window,2026-04-30,,,sk,,,,,,,,,,,,,,windowつけ,71
+pr-sk21-01,sk21,PoRTs_window,2026-05-07,,,sk,,,,,,,,,,,,,,windowつけ,64
+pr-sk22-01,sk22,PoRTs_window,2026-05-12,,,sk,,,,,,,,,,,,,,windowつけ,59
+pr-sk23-01,sk23,PoRTs_window,2026-05-14,,,sk,,,,,,,,,,,,,,windowつけ,57
+pr-sk24-01,sk24,PoRTs_window,2026-05-14,,,sk,,,,,,,,,,,,,,windowつけ,57
+pr-sk25-01,sk25,viral_injection,2026-05-28,ser-sk25-01,1,sk,3-mixed,ip,ketoprophen,sc,AAV1-hSyn-soma-GCamp8s(1/3),ic,L,Barrel cortex,,,,,,aav injection,43
+pr-sk26-01,sk26,PoRTs_window,2026-06-01,ser,,sk,,,,,,,,,,,,,,windowつけ,39
+pr-sk27-01,sk27,viral_injection,2026-06-02,ser-sk27-01,,sk,3-mixed,,ketoprophen,sc,AAV1-hSyn-soma-GCamp8s(1/3),ic,L,Barrel cortex,,,,,,aav injection,38
+pr-sk28-01,sk28,viral_injection,2026-06-02,ser-sk28-01,,sk,3-mixed,,ketoprophen,sc,AAV1-hSyn-soma-GCamp8s(1/3),ic,L,Barrel cortex,,,,,,aav injection,38
+pr-sk29-01,sk29,viral_injection,2026-06-04,ser-sk29-01,,sk,3-mixed,,ketoprophen,sc,AAV1-hSyn-soma-GCamp8s(1/3),ic,L,Barrel cortex,,,,,,aav injection,36
+pr-sk30-01,sk30,viral_injection,2026-06-04,,,sk,3-mixed,,ketoprophen,sc,AAV1-hSyn-soma-GCamp8s(1/3),ic,L,Barrel cortex,,,,,,aav injection,36
+pr-sk31-01,sk31,PoRTs_window,2026-06-08,,,sk,,,,,,,,,,,,,,windowつけ,32
+pr-sk32-01,sk32,PoRTs_window,2026-06-08,,,sk,,,,,,,,,,,,,,windowつけ,32
+pr-sk33-01,sk33,PoRTs_window,2026-06-09,,,sk,,,,,,,,,,,,,,windowつけ,31
+pr-sk34-01,sk34,cranial_window,2026-06-11,,,sk,,,,,,,,,,,,,,cranial window implantation,29
+pr-sk35-01,sk35,cranial_window,2026-06-11,,,sk,,,,,,,,,,,,,,cranial window implantation,29
+pr-sk36-01,sk36,cranial_window,2026-06-11,,,sk,,,,,,,,,,,,,,cranial window implantation,29
+pr-ts290-01,ts290,PoRTs_window,2026-05-13,ser-ts290-01,1,ts,3-mixed,ip,ketoprophen,sc,,,,,,,,,,,58
+pr-sk37-01,sk37,cranial_window,2026-06-15,ser-sk37-01,1,sk,3-mixed,ip,ketoprophen,sc,,,,,,,,,,,25
+pr-sk38-01,sk38,cranial_window,2026-06-22,ser-sk38-01,1,sk,3-mixed,ip,ketoprophen,sc,,,,,,,,,,,18
+pr-sk25-02,sk25,cranial_window,2026-06-23,ser-sk25-01,2,sk,3-mixed,ip,ketoprophen,sc,,,,,,,,,,,17
+pr-sk27-02,sk27,cranial_window,2026-06-25,ser-sk27-01,2,sk,isoflurane,inhalation,ketoprophen,sc,,,,,,,,,,,15
+pr-ts290-02,ts290,tail-vein_catheter,2026-06-26,ser-ts290-01,,ts,3-mixed,ip,ketoprophen,sc,,,,,,,,,,,14
+pr-sk39-01,sk39,PoRTs_window,2026-06-30,ser-sk39-01,1,sk,3-mixed,ip,ketoprophen,sc,,,,,,,,,,,10
+pr-sk40-01,sk40,PoRTs_window,2026-06-30,ser-sk40-01,1,sk,3-mixed,ip,ketoprophen,sc,,,,,,,,,,,10
+pr-sk41-01,sk41,PoRTs_window,2026-07-02,ser-sk41-01,1,sk,3-mixed,ip,ketoprophen,sc,,,,,,,,,,,8
+pr-sk28-02,sk28,cranial_window,2026-07-02,ser-sk28-01,2,sk,isoflurane,inhalation,ketoprophen,sc,,,,,,,,,,,8
+pr-sk27-03,sk27,imaging,2026-07-06,ser-sk27-01,3,ts,isoflurane,inhalation,,,,,,,,,,,,,4
+pr-sk42-01,sk42,CM_injection,2026-07-07,ser-sk42-01,1,sk,ketamine_xylazine,ip,ketoprophen,sc,,,,,,,,,,,3
+pr-sk27-04,sk27,imaging,2026-07-07,ser-sk27-01,1,ts,ketamine_xylazine,ip,,,,,,,,,,,,,3
+pr-sk33-02,sk33,jagular-vein_catheter,2026-07-07,ser-sk33-01,,ts,3-mixed,ip,ketoprophen,sc,,,,,,,,,,,3
+pr-sk33-03,sk33,imaging,2026-07-07,ser-sk33-01,,ts,3-mixed,ip,ketoprophen,sc,,,,,,,,,,,3
+pr-sk22-02,sk22,jagular-vein_catheter,2026-07-09,ser-sk22-01,,ts,3-mixed,ip,ketoprophen,sc,,,,,,,,,,,1
+pr-sk22-03,sk22,imaging,2026-07-09,ser-sk22-01,,ts,3-mixed,ip,,,,,,,,,,,,,1
