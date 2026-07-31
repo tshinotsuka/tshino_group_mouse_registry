@@ -314,7 +314,7 @@ sk23,,collab,M,cagegfp,2026-02-14,,,,#147
 sk24,,collab,F,cagegfp,2025-12-17,,,,#140
 sk25,wt-175,collab,M,wt,2026-03-05,2026-06-23,,,#175
 sk26,cagegfp-96,collab,M,cagegfp_aqp4ko,2026-03-10,,,,#96 カバーガラスの下に一部気泡が入った
-sk27,wt-176,collab,M,wt,2026-03-05,,,,#176
+sk27,wt-176,collab,M,wt,2026-03-05,2026-07-30,PFA_perfusion,,#176
 sk28,aqp4ko-67,collab,M,aqp4ko,2026-01-29,,,,#67
 sk29,,collab,M,aqp4ko,2026-01-29,,,,#68
 sk30,,collab,M,aqp4ko,2026-01-29,,,,#69
@@ -331,3 +331,8 @@ sk39,cagegfp-148,collab,M,cagegfp,2026-02-14,,,CAG-EGFP:+,
 sk40,cagegfp-145,collab,M,cagegfp,2026-02-09,,,CAG-EGFP:+,端のほう少し削りすぎて骨にひびが入った
 sk41,cagegfp-149,collab,M,cagegfp,2026-02-14,,,CAG-EGFP:+,
 sk42,wt-192,collab,M,wt,2026-04-15,2026-07-07,PFA_immersion,,
+sk43,wt-186,collab,F,wt,2026-02-25,2026-07-13,PFA_immersion,,
+sk44,wt-185,collab,F,wt,2026-02-25,2026-07-13,PFA_immersion,,
+sk45,wt-193,collab,M,wt,2026-06-03,2026-07-21,PFA_immersion,,
+sk46,wt-194,collab,M,wt,2026-06-03,2026-07-27,PFA_immersion,,
+sk47,wt-195,collab,M,wt,2026-06-03,,,,

@@ -1,2 +1,7 @@
 litter_id,mating_id,line_id,litter_dob,n_pups,n_male,n_female,status,notes
-lit-cagegfp-1,mat-cagegfp-1,cagegfp,2026-06-24,7,7,0,nursing,
+lit-cagegfp-1,mat-cagegfp-1,cagegfp,2026-06-24,7,2,5,weaned,
+lit-5xfad_aqp4ko-1,mat-5xfad_aqp4ko-1,5xfad_aqp4ko,2026-07-06,11,,,nursing,
+lit-5xfad_aqp4ko-2,mat-5xfad_aqp4ko-2,5xfad_aqp4ko,2026-07-18,4,,,nursing,
+lit-cagegfp-2,mat-cagegfp-3,cagegfp,2026-07-20,7,,,nursing,
+lit-cagegfp-3,mat-cagegfp-4,cagegfp,2026-07-20,2,,,nursing,
+lit-cagegfp_aqp4ko-1,mat-cagegfp_aqp4ko-1,cagegfp_aqp4ko,2026-07-18,4,,,nursing,
