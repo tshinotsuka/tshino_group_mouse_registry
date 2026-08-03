@@ -404,4 +404,4 @@ pr-sk46-01,sk46,CM_injection,2026-07-27,ser-sk46-01,1,sk,3-mixed,ip,ketoprophen,
 pr-sk47-01,sk47,striatum_cannula,2026-07-30,ser-sk47-01,1,sk,3-mixed,ip,ketoprophen,sc,,,L,striatum,-0.6,-2,-3.3,,,,4
 pr-sk21-02,sk21,jagular-vein_catheter,2026-07-31,ser-sk21-01,1,ts,3-mixed,ip,ketoprophen,sc,,,,,,,,,,,3
 pr-sk48-01,sk48,CM_injection,2026-08-03,ser-sk48-01,1,sk,ketamine_xylazine,ip,ketoprophen,sc,,,,,,,,,,,0
-pr-sk29-03,sk29,imaging,2026-08-03,ser-sk29-01,1,ts,isoflurane,inhalation,,,,,,,,,,,,,0
+pr-sk28-03,sk28,imaging,2026-08-03,ser-sk28-01,1,ts,isoflurane,inhalation,,,,,,,,,,,,,0
