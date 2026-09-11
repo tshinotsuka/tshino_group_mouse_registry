@@ -23,7 +23,7 @@ birth_id,line_id,number,sex,dob,source,litter_id,ear_mark,sire,dam,generation,gt
 5xfad-133,5xfad,133,F,2026-06-02,in_house,,punch,5xFAD 120,WT 181,,+/-,+/-,,,APP:+/-; PS1:+/-,confirmed,alive,,
 5xfad-134,5xfad,134,F,2026-06-02,in_house,,punch,5xFAD 120,WT 181,,+/-,+/-,,,APP:+/-; PS1:+/-,confirmed,alive,,
 5xfad-135,5xfad,135,F,2026-06-06,in_house,,punch,5xFAD 121,WT 182,,-/-,-/-,,,APP:-/-; PS1:-/-,confirmed,alive,,
-5xfad-136,5xfad,136,F,2026-06-06,in_house,,punch,5xFAD 121,WT 182,,-/-,-/-,,,APP:-/-; PS1:-/-,confirmed,alive,,
+5xfad-136,5xfad,136,F,2026-06-06,in_house,,punch,5xFAD 121,WT 182,,-/-,-/-,,,APP:-/-; PS1:-/-,confirmed,sacrificed,,
 5xfad-137,5xfad,137,F,2026-06-06,in_house,,punch,5xFAD 121,WT 182,,+/-,+/-,,,APP:+/-; PS1:+/-,confirmed,alive,,
 5xfad-138,5xfad,138,F,2026-06-06,in_house,,punch,5xFAD 121,WT 182,,+/-,+/-,,,APP:+/-; PS1:+/-,confirmed,alive,,
 5xfad-1,5xfad,1,M,2023-03-06,vendor,,,5xFAD,WT,1,+/-,+/-,,,APP:+/-; PS1:+/-,confirmed,sacrificed,,Jacksonから購入（2023/6/22）
@@ -226,15 +226,15 @@ birth_id,line_id,number,sex,dob,source,litter_id,ear_mark,sire,dam,generation,gt
 5xfad_aqp4ko-87,5xfad_aqp4ko,87,M,2026-05-21,in_house,,punch,5 x FAD 121,AQP4KO 80,,+/-,+/-,+/-,,APP:+/-; PS1:+/-; AQP4:+/-,confirmed,alive,,
 5xfad_aqp4ko-88,5xfad_aqp4ko,88,M,2026-05-21,in_house,,punch,5 x FAD 121,AQP4KO 80,,+/-,+/-,+/-,,APP:+/-; PS1:+/-; AQP4:+/-,confirmed,alive,,
 5xfad_aqp4ko-89,5xfad_aqp4ko,89,M,2026-05-21,in_house,,punch,5 x FAD 121,AQP4KO 80,,-/-,-/-,+/-,,APP:-/-; PS1:-/-; AQP4:+/-,confirmed,alive,,
-5xfad_aqp4ko-90,5xfad_aqp4ko,90,F,2026-05-21,in_house,,,5 x FAD 121,AQP4KO 80,,,,,,,pending,alive,,
-5xfad_aqp4ko-91,5xfad_aqp4ko,91,F,2026-05-21,in_house,,,5 x FAD 121,AQP4KO 80,,,,,,,pending,alive,,
-5xfad_aqp4ko-92,5xfad_aqp4ko,92,F,2026-05-21,in_house,,,5 x FAD 121,AQP4KO 80,,,,,,,pending,alive,,
-5xfad_aqp4ko-93,5xfad_aqp4ko,93,F,2026-05-21,in_house,,,5 x FAD 121,AQP4KO 80,,,,,,,pending,alive,,
+5xfad_aqp4ko-90,5xfad_aqp4ko,90,F,2026-05-21,in_house,,punch,5 x FAD 121,AQP4KO 80,,+/-,+/-,+/-,,APP:+/-; PS1:+/-; AQP4:+/-,confirmed,alive,,
+5xfad_aqp4ko-91,5xfad_aqp4ko,91,F,2026-05-21,in_house,,punch,5 x FAD 121,AQP4KO 80,,+/-,+/-,+/-,,APP:+/-; PS1:+/-; AQP4:+/-,confirmed,alive,,
+5xfad_aqp4ko-92,5xfad_aqp4ko,92,F,2026-05-21,in_house,,punch,5 x FAD 121,AQP4KO 80,,-/-,-/-,+/-,,APP:-/-; PS1:-/-; AQP4:+/-,confirmed,alive,,
+5xfad_aqp4ko-93,5xfad_aqp4ko,93,F,2026-05-21,in_house,,punch,5 x FAD 121,AQP4KO 80,,-/-,-/-,+/-,,APP:-/-; PS1:-/-; AQP4:+/-,confirmed,alive,,
 5xfad_aqp4ko-94,5xfad_aqp4ko,94,M,2026-05-23,in_house,,punch,5 x FAD 120,AQP4KO 79,,+/-,+/-,+/-,,APP:+/-; PS1:+/-; AQP4:+/-,confirmed,alive,,
 5xfad_aqp4ko-95,5xfad_aqp4ko,95,M,2026-05-23,in_house,,punch,5 x FAD 120,AQP4KO 79,,+/-,+/-,+/-,,APP:+/-; PS1:+/-; AQP4:+/-,confirmed,alive,,
 5xfad_aqp4ko-96,5xfad_aqp4ko,96,M,2026-05-23,in_house,,punch,5 x FAD 120,AQP4KO 79,,-/-,-/-,+/-,,APP:-/-; PS1:-/-; AQP4:+/-,confirmed,alive,,
 5xfad_aqp4ko-97,5xfad_aqp4ko,97,M,2026-05-23,in_house,,punch,5 x FAD 120,AQP4KO 79,,+/-,+/-,+/-,,APP:+/-; PS1:+/-; AQP4:+/-,confirmed,alive,,
-5xfad_aqp4ko-98,5xfad_aqp4ko,98,F,2026-05-23,in_house,,,5 x FAD 120,AQP4KO 79,,,,,,,pending,alive,,不安が強い
+5xfad_aqp4ko-98,5xfad_aqp4ko,98,F,2026-05-23,in_house,,punch,5 x FAD 120,AQP4KO 79,,-/-,-/-,+/-,,APP:-/-; PS1:-/-; AQP4:+/-,confirmed,alive,,不安が強い
 5xfad_aqp4ko-99,5xfad_aqp4ko,99,,2026-05-23,in_house,,,5 x FAD 120,AQP4KO 79,,,,,,,na,sacrificed,,離乳前に死亡
 aqp4ko-1,aqp4ko,1,M,2023-03-06,in_house,,,AQP4KO-28,AQP4KO-10,2,,,-,,AQP4:-,confirmed,sacrificed,,
 aqp4ko-2,aqp4ko,2,M,2023-03-06,in_house,,,AQP4KO-28,AQP4KO-10,2,,,-,,AQP4:-,confirmed,sacrificed,,tag:左1
@@ -309,13 +309,13 @@ aqp4ko-70,aqp4ko,70,M,2026-01-29,in_house,,,AQP4KO＃54,AQP4KO＃63,5,,,-,,AQP4:
 aqp4ko-71,aqp4ko,71,M,2026-01-29,in_house,,,AQP4KO＃54,AQP4KO＃63,5,,,-,,AQP4:-,confirmed,alive,,
 aqp4ko-72,aqp4ko,72,M,2026-01-29,in_house,,,AQP4KO＃54,AQP4KO＃63,5,,,-,,AQP4:-,confirmed,alive,,
 aqp4ko-73,aqp4ko,73,M,2026-01-29,in_house,,,AQP4KO＃54,AQP4KO＃63,5,,,-,,AQP4:-,confirmed,alive,,
-aqp4ko-74,aqp4ko,74,F,2026-01-29,in_house,,,AQP4KO＃54,AQP4KO＃63,5,,,-,,AQP4:-,confirmed,transferred,,AQP4KO交配用 →尾崎さん
-aqp4ko-75,aqp4ko,75,M,2026-02-01,in_house,,,AQP4KO＃55,AQP4KO＃64,5,,,-,,AQP4:-,confirmed,transferred,,AQP4KO交配用→2026/05/12終了→尾崎さん
+aqp4ko-74,aqp4ko,74,F,2026-01-29,in_house,,,AQP4KO＃54,AQP4KO＃63,5,,,-,,AQP4:-,confirmed,nursing,,AQP4KO交配用 →尾崎さん
+aqp4ko-75,aqp4ko,75,M,2026-02-01,in_house,,,AQP4KO＃55,AQP4KO＃64,5,,,-,,AQP4:-,confirmed,alive,,AQP4KO交配用→2026/05/12終了→尾崎さん
 aqp4ko-76,aqp4ko,76,F,2026-02-01,in_house,,,AQP4KO＃55,AQP4KO＃64,5,,,-,,AQP4:-,confirmed,alive,,AQP4KO交配用 orig:育児中
-aqp4ko-77,aqp4ko,77,F,2026-02-01,in_house,,,AQP4KO＃55,AQP4KO＃64,5,,,-,,AQP4:-,confirmed,mating,,CAGEGFP/AQP4KO交配用→出産見込みなし orig:交配中
+aqp4ko-77,aqp4ko,77,F,2026-02-01,in_house,,,AQP4KO＃55,AQP4KO＃64,5,,,-,,AQP4:-,confirmed,alive,,CAGEGFP/AQP4KO交配用→出産見込みなし orig:交配中
 aqp4ko-78,aqp4ko,78,F,2026-02-01,in_house,,,AQP4KO＃55,AQP4KO＃64,5,,,-,,AQP4:-,confirmed,alive,,CAGEGFP/AQP4KO交配用 orig:育児中
-aqp4ko-79,aqp4ko,79,F,2026-02-01,in_house,,,AQP4KO＃55,AQP4KO＃64,5,,,-,,AQP4:-,confirmed,mating,,5 x FAD x AQP4KO交配用 orig:育児中
-aqp4ko-80,aqp4ko,80,F,2026-02-01,in_house,,,AQP4KO＃55,AQP4KO＃64,5,,,-,,AQP4:-,confirmed,mating,,5 x FAD x AQP4KO交配用 orig:育児中
+aqp4ko-79,aqp4ko,79,F,2026-02-01,in_house,,,AQP4KO＃55,AQP4KO＃64,5,,,-,,AQP4:-,confirmed,alive,,5 x FAD x AQP4KO交配用 orig:育児中
+aqp4ko-80,aqp4ko,80,F,2026-02-01,in_house,,,AQP4KO＃55,AQP4KO＃64,5,,,-,,AQP4:-,confirmed,alive,,5 x FAD x AQP4KO交配用 orig:育児中
 aqp4ko-81,aqp4ko,81,,2026-05-18,in_house,,,AQP4KO＃75,AQP4KO＃74,6,,,-,,AQP4:-,confirmed,sacrificed,,→尾崎さん
 aqp4ko-82,aqp4ko,82,M,2026-05-18,in_house,,punch,AQP4KO＃75,AQP4KO＃74,6,,,-,,AQP4:-,confirmed,alive,,
 aqp4ko-83,aqp4ko,83,M,2026-05-18,in_house,,punch,AQP4KO＃75,AQP4KO＃74,6,,,-,,AQP4:-,confirmed,alive,,
@@ -331,7 +331,7 @@ aqp4ko-92,aqp4ko,92,M,2026-05-19,in_house,,punch,AQP4KO＃66,AQP4KO＃76,6,,,-/-
 aqp4ko-93,aqp4ko,93,F,2026-05-19,in_house,,punch,AQP4KO＃66,AQP4KO＃76,6,,,-/-,,AQP4:-/-,confirmed,alive,,
 aqp4ko-94,aqp4ko,94,F,2026-05-19,in_house,,punch,AQP4KO＃66,AQP4KO＃76,6,,,-/-,,AQP4:-/-,confirmed,alive,,
 aqp4ko-95,aqp4ko,95,F,2026-05-19,in_house,,punch,AQP4KO＃66,AQP4KO＃76,6,,,-/-,,AQP4:-/-,confirmed,alive,,
-aqp4ko-96,aqp4ko,96,F,2026-05-19,in_house,,punch,AQP4KO＃66,AQP4KO＃76,6,,,-/-,,AQP4:-/-,confirmed,alive,,
+aqp4ko-96,aqp4ko,96,F,2026-05-19,in_house,,punch,AQP4KO＃66,AQP4KO＃76,6,,,-/-,,AQP4:-/-,confirmed,sacrificed,,
 cagegfp-105,cagegfp,105,M,2025-02-20,in_house,,,CAG-EGFP 69,CAG-EGFP 65,4,,,,+,CAG-EGFP:+,confirmed,sacrificed,,tag:Punch
 cagegfp-106,cagegfp,106,M,2025-02-20,in_house,,,CAG-EGFP 69,CAG-EGFP 65,4,,,,+,CAG-EGFP:+,confirmed,sacrificed,,tag:Punch
 cagegfp-107,cagegfp,107,M,2025-02-20,in_house,,,CAG-EGFP 69,CAG-EGFP 65,4,,,,+,CAG-EGFP:+,confirmed,sacrificed,,tag:Punch
@@ -574,21 +574,21 @@ cagegfp_aqp4ko-89,cagegfp_aqp4ko,89,,2025-10-20,in_house,,,CAG-EGFP-AQP4KO 63,CA
 cagegfp_aqp4ko-90,cagegfp_aqp4ko,90,,2025-10-20,in_house,,,CAG-EGFP-AQP4KO 63,CAG-EGFP-AQP4KO 51,,,,,,,confirmed,sacrificed,,
 cagegfp_aqp4ko-91,cagegfp_aqp4ko,91,,2025-10-20,in_house,,,CAG-EGFP-AQP4KO 63,CAG-EGFP-AQP4KO 51,,,,,,,confirmed,sacrificed,,
 cagegfp_aqp4ko-92,cagegfp_aqp4ko,92,M,2026-02-28,in_house,,,CAG-EGFP-AQP4KO 63,CAG-EGFP-AQP4KO 84,4,,,,,,confirmed,sacrificed,,
-cagegfp_aqp4ko-93,cagegfp_aqp4ko,93,F,2026-02-28,in_house,,punch,CAG-EGFP-AQP4KO 63,CAG-EGFP-AQP4KO 84,4,,,-/-,+/+,AQP4:-/-; CAG-EGFP:+/+,confirmed,mating_planned,,
-cagegfp_aqp4ko-94,cagegfp_aqp4ko,94,F,2026-02-28,in_house,,punch,CAG-EGFP-AQP4KO 63,CAG-EGFP-AQP4KO 84,4,,,-/-,+/+,AQP4:-/-; CAG-EGFP:+/+,confirmed,mating_planned,,
-cagegfp_aqp4ko-95,cagegfp_aqp4ko,95,M,2026-03-10,in_house,,,CAG-EGFP-AQP4KO 63,CAG-EGFP-AQP4KO 85,4,,,,,,confirmed,enrolled,,orig:実験中
+cagegfp_aqp4ko-93,cagegfp_aqp4ko,93,F,2026-02-28,in_house,,punch,CAG-EGFP-AQP4KO 63,CAG-EGFP-AQP4KO 84,4,,,-/-,+/+,AQP4:-/-; CAG-EGFP:+/+,confirmed,mating,,
+cagegfp_aqp4ko-94,cagegfp_aqp4ko,94,F,2026-02-28,in_house,,punch,CAG-EGFP-AQP4KO 63,CAG-EGFP-AQP4KO 84,4,,,-/-,+/+,AQP4:-/-; CAG-EGFP:+/+,confirmed,mating,,
+cagegfp_aqp4ko-95,cagegfp_aqp4ko,95,M,2026-03-10,in_house,,,CAG-EGFP-AQP4KO 63,CAG-EGFP-AQP4KO 85,4,,,,,,confirmed,sacrificed,,orig:実験中
 cagegfp_aqp4ko-96,cagegfp_aqp4ko,96,M,2026-03-10,in_house,,,CAG-EGFP-AQP4KO 63,CAG-EGFP-AQP4KO 85,4,,,,,,confirmed,enrolled,,orig:実験中
-cagegfp_aqp4ko-97,cagegfp_aqp4ko,97,M,2026-03-10,in_house,,punch,CAG-EGFP-AQP4KO 63,CAG-EGFP-AQP4KO 85,4,,,-/-,+/+,AQP4:-/-; CAG-EGFP:+/+,confirmed,mating_planned,,
-cagegfp_aqp4ko-98,cagegfp_aqp4ko,98,F,2026-03-10,in_house,,punch,CAG-EGFP-AQP4KO 63,CAG-EGFP-AQP4KO 85,4,,,-/-,+/+,AQP4:-/-; CAG-EGFP:+/+,confirmed,alive,,
-cagegfp_aqp4ko-99,cagegfp_aqp4ko,99,F,2026-03-10,in_house,,punch,CAG-EGFP-AQP4KO 63,CAG-EGFP-AQP4KO 85,4,,,-/-,+/+,AQP4:-/-; CAG-EGFP:+/+,confirmed,alive,,
+cagegfp_aqp4ko-97,cagegfp_aqp4ko,97,M,2026-03-10,in_house,,punch,CAG-EGFP-AQP4KO 63,CAG-EGFP-AQP4KO 85,4,,,-/-,+/+,AQP4:-/-; CAG-EGFP:+/+,confirmed,mating,,
+cagegfp_aqp4ko-98,cagegfp_aqp4ko,98,F,2026-03-10,in_house,,punch,CAG-EGFP-AQP4KO 63,CAG-EGFP-AQP4KO 85,4,,,-/-,+/+,AQP4:-/-; CAG-EGFP:+/+,confirmed,enroll_planned,,
+cagegfp_aqp4ko-99,cagegfp_aqp4ko,99,F,2026-03-10,in_house,,punch,CAG-EGFP-AQP4KO 63,CAG-EGFP-AQP4KO 85,4,,,-/-,+/+,AQP4:-/-; CAG-EGFP:+/+,confirmed,enroll_planned,,
 cagegfp_aqp4ko-100,cagegfp_aqp4ko,100,M,2026-05-21,in_house,,punch,CAG-EGFP145,AQP4KO78,,,,+/-,+/-,AQP4:+/-; CAG-EGFP:+/-,confirmed,alive,,
 cagegfp_aqp4ko-101,cagegfp_aqp4ko,101,M,2026-05-21,in_house,,punch,CAG-EGFP145,AQP4KO78,,,,+/-,+/-,AQP4:+/-; CAG-EGFP:+/-,confirmed,alive,,
-cagegfp_aqp4ko-102,cagegfp_aqp4ko,102,M,2026-05-21,in_house,,punch,CAG-EGFP145,AQP4KO78,,,,+/-,-/-,AQP4:+/-; CAG-EGFP:-/-,confirmed,alive,,
+cagegfp_aqp4ko-102,cagegfp_aqp4ko,102,M,2026-05-21,in_house,,punch,CAG-EGFP145,AQP4KO78,,,,+/-,+/-,AQP4:+/-; CAG-EGFP:+/-,confirmed,alive,,
 cagegfp_aqp4ko-103,cagegfp_aqp4ko,103,F,2026-05-21,in_house,,punch,CAG-EGFP145,AQP4KO78,,,,+/-,+/-,AQP4:+/-; CAG-EGFP:+/-,confirmed,alive,,
 cagegfp_aqp4ko-104,cagegfp_aqp4ko,104,F,2026-05-21,in_house,,punch,CAG-EGFP145,AQP4KO78,,,,+/-,+/-,AQP4:+/-; CAG-EGFP:+/-,confirmed,alive,,
-cagegfp_aqp4ko-105,cagegfp_aqp4ko,105,F,2026-05-21,in_house,,punch,CAG-EGFP145,AQP4KO78,,,,+/-,-/-,AQP4:+/-; CAG-EGFP:-/-,confirmed,alive,,
-cagegfp_aqp4ko-106,cagegfp_aqp4ko,106,F,2026-05-21,in_house,,punch,CAG-EGFP145,AQP4KO78,,,,+/-,-/-,AQP4:+/-; CAG-EGFP:-/-,confirmed,alive,,
-wt-118,wt,118,M,2025-03-10,vendor,,,WT,WT,1,,,,,,na,sacrificed,,日本クレアから2025/4/22搬入
+cagegfp_aqp4ko-105,cagegfp_aqp4ko,105,F,2026-05-21,in_house,,punch,CAG-EGFP145,AQP4KO78,,,,+/-,+/-,AQP4:+/-; CAG-EGFP:+/-,confirmed,alive,,
+cagegfp_aqp4ko-106,cagegfp_aqp4ko,106,F,2026-05-21,in_house,,punch,CAG-EGFP145,AQP4KO78,,,,+/-,+/-,AQP4:+/-; CAG-EGFP:+/-,confirmed,alive,,
+wt-118,wt,118,M,2025-03-10,vendor,,,WT,WT,1,,,,,,na,alive,,日本クレアから2025/4/22搬入
 wt-119,wt,119,M,2025-03-10,vendor,,,WT,WT,1,,,,,,na,sacrificed,,日本クレアから2025/4/22搬入
 wt-120,wt,120,M,2025-03-10,vendor,,,WT,WT,1,,,,,,na,sacrificed,,日本クレアから2025/4/22搬入
 wt-121,wt,121,M,2025-03-10,vendor,,,WT,WT,1,,,,,,na,sacrificed,,日本クレアから2025/4/22搬入
@@ -780,28 +780,28 @@ wt-114,wt,114,M,2024-11-13,vendor,,,WT,WT,2,,,,,,na,sacrificed,,日本クレア�
 wt-115,wt,115,M,2024-11-13,vendor,,,WT,WT,2,,,,,,na,sacrificed,,日本クレアから2025/1/9搬入 tag:Punch
 wt-116,wt,116,M,2024-11-13,vendor,,,WT,WT,2,,,,,,na,sacrificed,,日本クレアから2025/1/9搬入 tag:Punch
 wt-117,wt,117,M,2024-08-23,in_house,,,WT,WT,2,,,,,,na,sacrificed,,From Nuriya Group
-cagegfp-151,cagegfp,151,M,2026-05-02,vendor,,N,,,1,,,,+/+,CAG-EGFP:+/+,confirmed,mating,,"vendor: RIKEN BRC Delivered on June 26, 2026, 00267SA05640102"
-cagegfp-152,cagegfp,152,M,2026-05-02,vendor,,R1,,,1,,,,+/+,CAG-EGFP:+/+,confirmed,mating,,"vendor: RIKEN BRC Delivered on June 26, 2026, 00267SA05640103"
-cagegfp-153,cagegfp,153,F,2026-04-22,vendor,,L1,,,1,,,,+/+,CAG-EGFP:+/+,confirmed,mating,,"vendor: RIKEN BRC Delivered on June 26, 2026, 00267SA05630101"
-cagegfp-154,cagegfp,154,F,2026-04-22,vendor,,RL1,,,1,,,,+/+,CAG-EGFP:+/+,confirmed,mating,,"vendor: RIKEN BRC Delivered on June 26, 2026, 00267SA05630102"
-cagegfp-155,cagegfp,155,M,2026-06-24,in_house,lit-cagegfp-1,,cagegfp-148,cagegfp-143,3,,,,,,pending,alive,,
-cagegfp-156,cagegfp,156,M,2026-06-24,in_house,lit-cagegfp-1,,cagegfp-148,cagegfp-143,3,,,,,,pending,alive,,
-cagegfp-157,cagegfp,157,F,2026-06-24,in_house,lit-cagegfp-1,,cagegfp-148,cagegfp-143,3,,,,,,pending,alive,,
-cagegfp-158,cagegfp,158,F,2026-06-24,in_house,lit-cagegfp-1,,cagegfp-148,cagegfp-143,3,,,,,,pending,alive,,
-cagegfp-159,cagegfp,159,F,2026-06-24,in_house,lit-cagegfp-1,,cagegfp-148,cagegfp-143,3,,,,,,pending,alive,,
-cagegfp-160,cagegfp,160,F,2026-06-24,in_house,lit-cagegfp-1,,cagegfp-148,cagegfp-143,3,,,,,,pending,alive,,
-cagegfp-161,cagegfp,161,F,2026-06-24,in_house,lit-cagegfp-1,,cagegfp-148,cagegfp-143,3,,,,,,pending,alive,,
-5xfad_aqp4ko-100,5xfad_aqp4ko,100,M,2026-07-06,in_house,lit-5xfad_aqp4ko-1,,5xfad_aqp4ko-70,aqp4ko-80,6,,,,,,pending,alive,,
-5xfad_aqp4ko-101,5xfad_aqp4ko,101,M,2026-07-06,in_house,lit-5xfad_aqp4ko-1,,5xfad_aqp4ko-70,aqp4ko-80,6,,,,,,pending,alive,,
-5xfad_aqp4ko-102,5xfad_aqp4ko,102,M,2026-07-06,in_house,lit-5xfad_aqp4ko-1,,5xfad_aqp4ko-70,aqp4ko-80,6,,,,,,pending,alive,,
-5xfad_aqp4ko-103,5xfad_aqp4ko,103,M,2026-07-06,in_house,lit-5xfad_aqp4ko-1,,5xfad_aqp4ko-70,aqp4ko-80,6,,,,,,pending,alive,,
-5xfad_aqp4ko-104,5xfad_aqp4ko,104,M,2026-07-06,in_house,lit-5xfad_aqp4ko-1,,5xfad_aqp4ko-70,aqp4ko-80,6,,,,,,pending,alive,,
-5xfad_aqp4ko-105,5xfad_aqp4ko,105,F,2026-07-06,in_house,lit-5xfad_aqp4ko-1,,5xfad_aqp4ko-70,aqp4ko-80,6,,,,,,pending,alive,,
-5xfad_aqp4ko-106,5xfad_aqp4ko,106,F,2026-07-06,in_house,lit-5xfad_aqp4ko-1,,5xfad_aqp4ko-70,aqp4ko-80,6,,,,,,pending,alive,,
-5xfad_aqp4ko-107,5xfad_aqp4ko,107,F,2026-07-06,in_house,lit-5xfad_aqp4ko-1,,5xfad_aqp4ko-70,aqp4ko-80,6,,,,,,pending,alive,,
-5xfad_aqp4ko-108,5xfad_aqp4ko,108,F,2026-07-06,in_house,lit-5xfad_aqp4ko-1,,5xfad_aqp4ko-70,aqp4ko-80,6,,,,,,pending,alive,,
-5xfad_aqp4ko-109,5xfad_aqp4ko,109,F,2026-07-06,in_house,lit-5xfad_aqp4ko-1,,5xfad_aqp4ko-70,aqp4ko-80,6,,,,,,pending,alive,,
-5xfad_aqp4ko-110,5xfad_aqp4ko,110,F,2026-07-06,in_house,lit-5xfad_aqp4ko-1,,5xfad_aqp4ko-70,aqp4ko-80,6,,,,,,pending,alive,,
+cagegfp-151,cagegfp,151,M,2026-05-02,vendor,,N,,,1,,,,+/+,CAG-EGFP:+/+,confirmed,alive,,"vendor: RIKEN BRC Delivered on June 26, 2026, 00267SA05640102"
+cagegfp-152,cagegfp,152,M,2026-05-02,vendor,,R1,,,1,,,,+/+,CAG-EGFP:+/+,confirmed,alive,,"vendor: RIKEN BRC Delivered on June 26, 2026, 00267SA05640103"
+cagegfp-153,cagegfp,153,F,2026-04-22,vendor,,L1,,,1,,,,+/+,CAG-EGFP:+/+,confirmed,nursing,,"vendor: RIKEN BRC Delivered on June 26, 2026, 00267SA05630101"
+cagegfp-154,cagegfp,154,F,2026-04-22,vendor,,RL1,,,1,,,,+/+,CAG-EGFP:+/+,confirmed,alive,,"vendor: RIKEN BRC Delivered on June 26, 2026, 00267SA05630102"
+cagegfp-155,cagegfp,155,M,2026-06-24,in_house,lit-cagegfp-1,punch,cagegfp-148,cagegfp-143,3,,,,+/+,CAG-EGFP:+/+,confirmed,alive,,
+cagegfp-156,cagegfp,156,M,2026-06-24,in_house,lit-cagegfp-1,punch,cagegfp-148,cagegfp-143,3,,,,+/+,CAG-EGFP:+/+,confirmed,alive,,
+cagegfp-157,cagegfp,157,F,2026-06-24,in_house,lit-cagegfp-1,punch,cagegfp-148,cagegfp-143,3,,,,+/+,CAG-EGFP:+/+,confirmed,alive,,
+cagegfp-158,cagegfp,158,F,2026-06-24,in_house,lit-cagegfp-1,punch,cagegfp-148,cagegfp-143,3,,,,+/+,CAG-EGFP:+/+,confirmed,alive,,
+cagegfp-159,cagegfp,159,F,2026-06-24,in_house,lit-cagegfp-1,punch,cagegfp-148,cagegfp-143,3,,,,+/+,CAG-EGFP:+/+,confirmed,alive,,
+cagegfp-160,cagegfp,160,F,2026-06-24,in_house,lit-cagegfp-1,punch,cagegfp-148,cagegfp-143,3,,,,+/+,CAG-EGFP:+/+,confirmed,alive,,
+cagegfp-161,cagegfp,161,F,2026-06-24,in_house,lit-cagegfp-1,punch,cagegfp-148,cagegfp-143,3,,,,+/+,CAG-EGFP:+/+,confirmed,alive,,
+5xfad_aqp4ko-100,5xfad_aqp4ko,100,M,2026-07-06,in_house,lit-5xfad_aqp4ko-1,punch,5xfad_aqp4ko-70,aqp4ko-80,6,-/-,-/-,-/-,,APP:-/-; PS1:-/-; AQP4:-/-,confirmed,alive,,
+5xfad_aqp4ko-101,5xfad_aqp4ko,101,M,2026-07-06,in_house,lit-5xfad_aqp4ko-1,punch,5xfad_aqp4ko-70,aqp4ko-80,6,-/-,-/-,-/-,,APP:-/-; PS1:-/-; AQP4:-/-,confirmed,alive,,
+5xfad_aqp4ko-102,5xfad_aqp4ko,102,M,2026-07-06,in_house,lit-5xfad_aqp4ko-1,punch,5xfad_aqp4ko-70,aqp4ko-80,6,+/-,+/-,-/-,,APP:+/-; PS1:+/-; AQP4:-/-,confirmed,alive,,
+5xfad_aqp4ko-103,5xfad_aqp4ko,103,M,2026-07-06,in_house,lit-5xfad_aqp4ko-1,punch,5xfad_aqp4ko-70,aqp4ko-80,6,-/-,-/-,-/-,,APP:-/-; PS1:-/-; AQP4:-/-,confirmed,alive,,
+5xfad_aqp4ko-104,5xfad_aqp4ko,104,M,2026-07-06,in_house,lit-5xfad_aqp4ko-1,punch,5xfad_aqp4ko-70,aqp4ko-80,6,-/-,-/-,-/-,,APP:-/-; PS1:-/-; AQP4:-/-,confirmed,alive,,
+5xfad_aqp4ko-105,5xfad_aqp4ko,105,F,2026-07-06,in_house,lit-5xfad_aqp4ko-1,punch,5xfad_aqp4ko-70,aqp4ko-80,6,-/-,-/-,-/-,,APP:-/-; PS1:-/-; AQP4:-/-,confirmed,alive,,
+5xfad_aqp4ko-106,5xfad_aqp4ko,106,F,2026-07-06,in_house,lit-5xfad_aqp4ko-1,punch,5xfad_aqp4ko-70,aqp4ko-80,6,-/-,-/-,-/-,,APP:-/-; PS1:-/-; AQP4:-/-,confirmed,alive,,
+5xfad_aqp4ko-107,5xfad_aqp4ko,107,F,2026-07-06,in_house,lit-5xfad_aqp4ko-1,punch,5xfad_aqp4ko-70,aqp4ko-80,6,+/-,+/-,-/-,,APP:+/-; PS1:+/-; AQP4:-/-,confirmed,alive,,
+5xfad_aqp4ko-108,5xfad_aqp4ko,108,F,2026-07-06,in_house,lit-5xfad_aqp4ko-1,punch,5xfad_aqp4ko-70,aqp4ko-80,6,+/-,+/-,-/-,,APP:+/-; PS1:+/-; AQP4:-/-,confirmed,alive,,
+5xfad_aqp4ko-109,5xfad_aqp4ko,109,F,2026-07-06,in_house,lit-5xfad_aqp4ko-1,punch,5xfad_aqp4ko-70,aqp4ko-80,6,+/-,+/-,-/-,,APP:+/-; PS1:+/-; AQP4:-/-,confirmed,alive,,
+5xfad_aqp4ko-110,5xfad_aqp4ko,110,F,2026-07-06,in_house,lit-5xfad_aqp4ko-1,punch,5xfad_aqp4ko-70,aqp4ko-80,6,-/-,-/-,-/-,,APP:-/-; PS1:-/-; AQP4:-/-,confirmed,alive,,
 wt-193,wt,193,M,2026-06-03,vendor,,,,,1,,,,,,na,sacrificed,,vendor: CLEA 2026/7/16搬入
 wt-194,wt,194,M,2026-06-03,vendor,,,,,1,,,,,,na,sacrificed,,vendor: CLEA 2026/7/16搬入
 wt-195,wt,195,M,2026-06-03,vendor,,,,,1,,,,,,na,enrolled,,vendor: CLEA 2026/7/16搬入
@@ -813,31 +813,47 @@ wt-200,wt,200,M,2026-06-03,vendor,,,,,1,,,,,,na,alive,,vendor: CLEA 2026/7/16搬
 wt-201,wt,201,M,2026-06-03,vendor,,,,,1,,,,,,na,sacrificed,,vendor: CLEA 2026/7/16搬入
 wt-202,wt,202,M,2026-06-03,vendor,,,,,1,,,,,,na,alive,,vendor: CLEA 2026/7/16搬入
 wt-203,wt,203,M,2026-06-03,vendor,,,,,1,,,,,,na,alive,,vendor: CLEA 2026/7/16搬入
-5xfad_aqp4ko-111,5xfad_aqp4ko,111,,2026-07-18,in_house,lit-5xfad_aqp4ko-2,,5xfad_aqp4ko-78,aqp4ko-79,6,,,,,,pending,alive,,
-5xfad_aqp4ko-112,5xfad_aqp4ko,112,,2026-07-18,in_house,lit-5xfad_aqp4ko-2,,5xfad_aqp4ko-78,aqp4ko-79,6,,,,,,pending,alive,,
-5xfad_aqp4ko-113,5xfad_aqp4ko,113,,2026-07-18,in_house,lit-5xfad_aqp4ko-2,,5xfad_aqp4ko-78,aqp4ko-79,6,,,,,,pending,alive,,
-5xfad_aqp4ko-114,5xfad_aqp4ko,114,,2026-07-18,in_house,lit-5xfad_aqp4ko-2,,5xfad_aqp4ko-78,aqp4ko-79,6,,,,,,pending,alive,,
-cagegfp-162,cagegfp,162,,2026-07-20,in_house,lit-cagegfp-2,,cagegfp-151,cagegfp-153,,,,,,,pending,alive,,
-cagegfp-163,cagegfp,163,,2026-07-20,in_house,lit-cagegfp-2,,cagegfp-151,cagegfp-153,,,,,,,pending,alive,,
-cagegfp-164,cagegfp,164,,2026-07-20,in_house,lit-cagegfp-2,,cagegfp-151,cagegfp-153,,,,,,,pending,alive,,
-cagegfp-165,cagegfp,165,,2026-07-20,in_house,lit-cagegfp-2,,cagegfp-151,cagegfp-153,,,,,,,pending,alive,,
-cagegfp-166,cagegfp,166,,2026-07-20,in_house,lit-cagegfp-2,,cagegfp-151,cagegfp-153,,,,,,,pending,alive,,
-cagegfp-167,cagegfp,167,,2026-07-20,in_house,lit-cagegfp-2,,cagegfp-151,cagegfp-153,,,,,,,pending,alive,,
-cagegfp-168,cagegfp,168,,2026-07-20,in_house,lit-cagegfp-2,,cagegfp-151,cagegfp-153,,,,,,,pending,alive,,
-cagegfp-169,cagegfp,169,,2026-07-20,in_house,lit-cagegfp-3,,cagegfp-152,cagegfp-154,,,,,,,pending,alive,,
-cagegfp-170,cagegfp,170,,2026-07-20,in_house,lit-cagegfp-3,,cagegfp-152,cagegfp-154,,,,,,,pending,alive,,
-cagegfp_aqp4ko-107,cagegfp_aqp4ko,107,,2026-07-18,in_house,lit-cagegfp_aqp4ko-1,,cagegfp-138,aqp4ko-77,,,,,,,pending,alive,,
-cagegfp_aqp4ko-108,cagegfp_aqp4ko,108,,2026-07-18,in_house,lit-cagegfp_aqp4ko-1,,cagegfp-138,aqp4ko-77,,,,,,,pending,alive,,
-cagegfp_aqp4ko-109,cagegfp_aqp4ko,109,,2026-07-18,in_house,lit-cagegfp_aqp4ko-1,,cagegfp-138,aqp4ko-77,,,,,,,pending,alive,,
-cagegfp_aqp4ko-110,cagegfp_aqp4ko,110,,2026-07-18,in_house,lit-cagegfp_aqp4ko-1,,cagegfp-138,aqp4ko-77,,,,,,,pending,alive,,
-wt-204,wt,204,M,2026-06-25,vendor,,,,,,,,,,,na,alive,,vendor: CLEA 2026/8/4搬入
-wt-205,wt,205,M,2026-06-25,vendor,,,,,,,,,,,na,alive,,vendor: CLEA 2026/8/4搬入
-wt-206,wt,206,M,2026-06-25,vendor,,,,,,,,,,,na,alive,,vendor: CLEA 2026/8/4搬入
-wt-207,wt,207,M,2026-06-25,vendor,,,,,,,,,,,na,alive,,vendor: CLEA 2026/8/4搬入
-wt-208,wt,208,M,2026-06-25,vendor,,,,,,,,,,,na,alive,,vendor: CLEA 2026/8/4搬入
-wt-209,wt,209,M,2026-06-25,vendor,,,,,,,,,,,na,alive,,vendor: CLEA 2026/8/4搬入
+5xfad_aqp4ko-111,5xfad_aqp4ko,111,M,2026-07-18,in_house,lit-5xfad_aqp4ko-2,punch,5xfad_aqp4ko-78,aqp4ko-79,6,+/-,+/-,-/-,,APP:+/-; PS1:+/-; AQP4:-/-,confirmed,alive,,
+5xfad_aqp4ko-112,5xfad_aqp4ko,112,M,2026-07-18,in_house,lit-5xfad_aqp4ko-2,punch,5xfad_aqp4ko-78,aqp4ko-79,6,-/-,-/-,-/-,,APP:-/-; PS1:-/-; AQP4:-/-,confirmed,alive,,
+5xfad_aqp4ko-113,5xfad_aqp4ko,113,F,2026-07-18,in_house,lit-5xfad_aqp4ko-2,punch,5xfad_aqp4ko-78,aqp4ko-79,6,+/-,+/-,-/-,,APP:+/-; PS1:+/-; AQP4:-/-,confirmed,alive,,
+cagegfp-162,cagegfp,162,M,2026-07-20,in_house,lit-cagegfp-2,punch,cagegfp-151,cagegfp-153,,,,,+/+,CAG-EGFP:+/+,confirmed,alive,,
+cagegfp-163,cagegfp,163,F,2026-07-20,in_house,lit-cagegfp-2,punch,cagegfp-151,cagegfp-153,,,,,+/+,CAG-EGFP:+/+,confirmed,alive,,
+cagegfp-164,cagegfp,164,F,2026-07-20,in_house,lit-cagegfp-2,punch,cagegfp-151,cagegfp-153,,,,,+/+,CAG-EGFP:+/+,confirmed,alive,,
+cagegfp-165,cagegfp,165,F,2026-07-20,in_house,lit-cagegfp-2,punch,cagegfp-151,cagegfp-153,,,,,+/+,CAG-EGFP:+/+,confirmed,alive,,
+cagegfp-166,cagegfp,166,F,2026-07-20,in_house,lit-cagegfp-2,punch,cagegfp-151,cagegfp-153,,,,,+/+,CAG-EGFP:+/+,confirmed,alive,,
+cagegfp-167,cagegfp,167,F,2026-07-20,in_house,lit-cagegfp-2,punch,cagegfp-151,cagegfp-153,,,,,+/+,CAG-EGFP:+/+,confirmed,alive,,
+cagegfp-168,cagegfp,168,F,2026-07-20,in_house,lit-cagegfp-2,punch,cagegfp-151,cagegfp-153,,,,,+/+,CAG-EGFP:+/+,confirmed,alive,,
+cagegfp-169,cagegfp,169,F,2026-07-20,in_house,lit-cagegfp-3,punch,cagegfp-152,cagegfp-154,,,,,+/+,CAG-EGFP:+/+,confirmed,alive,,
+cagegfp-170,cagegfp,170,F,2026-07-20,in_house,lit-cagegfp-3,punch,cagegfp-152,cagegfp-154,,,,,+/+,CAG-EGFP:+/+,confirmed,alive,,
+cagegfp_aqp4ko-107,cagegfp_aqp4ko,107,M,2026-07-18,in_house,lit-cagegfp_aqp4ko-1,punch,cagegfp-138,aqp4ko-77,,,,+/-,+/-,AQP4:+/-; CAG-EGFP:+/-,confirmed,alive,,
+cagegfp_aqp4ko-108,cagegfp_aqp4ko,108,M,2026-07-18,in_house,lit-cagegfp_aqp4ko-1,punch,cagegfp-138,aqp4ko-77,,,,+/-,+/-,AQP4:+/-; CAG-EGFP:+/-,confirmed,alive,,
+cagegfp_aqp4ko-109,cagegfp_aqp4ko,109,F,2026-07-18,in_house,lit-cagegfp_aqp4ko-1,punch,cagegfp-138,aqp4ko-77,,,,+/-,+/-,AQP4:+/-; CAG-EGFP:+/-,confirmed,alive,,
+cagegfp_aqp4ko-110,cagegfp_aqp4ko,110,F,2026-07-18,in_house,lit-cagegfp_aqp4ko-1,punch,cagegfp-138,aqp4ko-77,,,,+/-,+/-,AQP4:+/-; CAG-EGFP:+/-,confirmed,alive,,
+wt-204,wt,204,M,2026-06-25,vendor,,,,,,,,,,,na,enrolled,,vendor: CLEA 2026/8/4搬入
+wt-205,wt,205,M,2026-06-25,vendor,,,,,,,,,,,na,enrolled,,vendor: CLEA 2026/8/4搬入
+wt-206,wt,206,M,2026-06-25,vendor,,,,,,,,,,,na,enrolled,,vendor: CLEA 2026/8/4搬入
+wt-207,wt,207,M,2026-06-25,vendor,,,,,,,,,,,na,sacrificed,,vendor: CLEA 2026/8/4搬入
+wt-208,wt,208,M,2026-06-25,vendor,,,,,,,,,,,na,sacrificed,,vendor: CLEA 2026/8/4搬入
+wt-209,wt,209,M,2026-06-25,vendor,,,,,,,,,,,na,sacrificed,,vendor: CLEA 2026/8/4搬入
 wt-210,wt,210,M,2026-06-25,vendor,,,,,,,,,,,na,alive,,vendor: CLEA 2026/8/4搬入
 wt-211,wt,211,M,2026-06-25,vendor,,,,,,,,,,,na,alive,,vendor: CLEA 2026/8/4搬入
 wt-212,wt,212,M,2026-06-25,vendor,,,,,,,,,,,na,alive,,vendor: CLEA 2026/8/4搬入
 wt-213,wt,213,M,2026-06-25,vendor,,,,,,,,,,,na,alive,,vendor: CLEA 2026/8/4搬入
 wt-214,wt,214,M,2026-06-25,vendor,,,,,,,,,,,na,alive,,vendor: CLEA 2026/8/4搬入
+aqp4ko-97,aqp4ko,97,M,2026-07-07,in_house,lit-aqp4ko-1,,aqp4ko-75,aqp4ko-74,6,,,,,,pending,enrolled,,
+aqp4ko-98,aqp4ko,98,F,2026-07-07,in_house,lit-aqp4ko-1,,aqp4ko-75,aqp4ko-74,6,,,,,,pending,enrolled,,
+aqp4ko-99,aqp4ko,99,F,2026-07-07,in_house,lit-aqp4ko-1,,aqp4ko-75,aqp4ko-74,6,,,,,,pending,enrolled,,
+cagegfp-171,cagegfp,171,,2026-08-21,in_house,lit-cagegfp-4,,cagegfp-151,cagegfp-153,,,,,,,pending,alive,,
+cagegfp-172,cagegfp,172,,2026-08-21,in_house,lit-cagegfp-4,,cagegfp-151,cagegfp-153,,,,,,,pending,alive,,
+cagegfp-173,cagegfp,173,,2026-08-21,in_house,lit-cagegfp-4,,cagegfp-151,cagegfp-153,,,,,,,pending,alive,,
+cagegfp-174,cagegfp,174,,2026-08-21,in_house,lit-cagegfp-4,,cagegfp-151,cagegfp-153,,,,,,,pending,alive,,
+cagegfp-175,cagegfp,175,,2026-08-21,in_house,lit-cagegfp-4,,cagegfp-151,cagegfp-153,,,,,,,pending,alive,,
+aqp4ko-100,aqp4ko,100,M,2026-08-14,in_house,lit-aqp4ko-2,,aqp4ko-75,aqp4ko-74,6,,,,,,pending,alive,,
+aqp4ko-101,aqp4ko,101,M,2026-08-14,in_house,lit-aqp4ko-2,,aqp4ko-75,aqp4ko-74,6,,,,,,pending,alive,,
+aqp4ko-102,aqp4ko,102,M,2026-08-14,in_house,lit-aqp4ko-2,,aqp4ko-75,aqp4ko-74,6,,,,,,pending,alive,,
+aqp4ko-103,aqp4ko,103,M,2026-08-14,in_house,lit-aqp4ko-2,,aqp4ko-75,aqp4ko-74,6,,,,,,pending,alive,,
+aqp4ko-104,aqp4ko,104,M,2026-08-14,in_house,lit-aqp4ko-2,,aqp4ko-75,aqp4ko-74,6,,,,,,pending,alive,,
+aqp4ko-105,aqp4ko,105,M,2026-08-14,in_house,lit-aqp4ko-2,,aqp4ko-75,aqp4ko-74,6,,,,,,pending,alive,,
+aqp4ko-106,aqp4ko,106,M,2026-08-14,in_house,lit-aqp4ko-2,,aqp4ko-75,aqp4ko-74,6,,,,,,pending,alive,,
+aqp4ko-107,aqp4ko,107,M,2026-08-14,in_house,lit-aqp4ko-2,,aqp4ko-75,aqp4ko-74,6,,,,,,pending,alive,,
+aqp4ko-108,aqp4ko,108,M,2026-08-14,in_house,lit-aqp4ko-2,,aqp4ko-75,aqp4ko-74,6,,,,,,pending,alive,,

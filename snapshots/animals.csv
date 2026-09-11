@@ -309,11 +309,11 @@ sk18,,collab,M,wt,2026-03-05,2026-04-28,other,,WT173
 sk19,,collab,M,wt,2026-03-05,2026-04-28,other,,WT179
 sk20,,collab,M,cagegfp_aqp4ko,2026-02-28,2026-05-11,,,#92
 sk21,,collab,M,cagegfp,2026-02-14,,,,#146 カバーガラスの下に少し気泡が入った
-sk22,,collab,M,cagegfp_aqp4ko,2026-03-10,,,,#95
+sk22,cagegfp_aqp4ko-95,collab,M,cagegfp_aqp4ko,2026-03-10,2026-09-10,,,#95
 sk23,,collab,M,cagegfp,2026-02-14,,,,#147
 sk24,,collab,F,cagegfp,2025-12-17,,,,#140
 sk25,wt-175,collab,M,wt,2026-03-05,2026-06-23,,,#175
-sk26,cagegfp-96,collab,M,cagegfp_aqp4ko,2026-03-10,,,,#96 カバーガラスの下に一部気泡が入った
+sk26,cagegfp_aqp4ko-96,collab,M,cagegfp_aqp4ko,2026-03-10,,,,#96 カバーガラスの下に一部気泡が入った
 sk27,wt-176,collab,M,wt,2026-03-05,2026-07-30,PFA_perfusion,,#176
 sk28,aqp4ko-67,collab,M,aqp4ko,2026-01-29,,,,#67
 sk29,,collab,M,aqp4ko,2026-01-29,,,,#68
@@ -337,3 +337,14 @@ sk45,wt-193,collab,M,wt,2026-06-03,2026-07-21,PFA_immersion,,
 sk46,wt-194,collab,M,wt,2026-06-03,2026-07-27,PFA_immersion,,
 sk47,wt-195,collab,M,wt,2026-06-03,,,,
 sk48,wt-201,collab,M,wt,2026-06-03,2026-08-03,PFA_immersion,,
+sk49,wt-204,collab,M,wt,2026-06-25,,,,
+sk50,5xfad-136,collab,F,5xfad,2026-06-06,2026-08-18,PFA_perfusion,APP:-/-; PS1:-/-,
+sk51,aqp4ko-96,collab,F,aqp4ko,2026-05-19,2026-08-18,PFA_perfusion,AQP4:-/-,
+sk52,wt-205,collab,M,wt,2026-06-25,,,,
+sk53,wt-206,collab,M,wt,2026-06-25,,,,
+sk54,aqp4ko-97,collab,M,aqp4ko,2026-07-07,,,,
+sk55,aqp4ko-98,collab,F,aqp4ko,2026-07-07,,,,
+sk56,aqp4ko-99,collab,F,aqp4ko,2026-07-07,,,,
+sk57,wt-207,collab,M,wt,2026-06-25,2026-08-25,PFA_immersion,,
+sk58,wt-208,collab,M,wt,2026-06-25,2026-08-25,PFA_immersion,,
+sk59,wt-209,collab,M,wt,2026-06-25,2026-08-25,PFA_immersion,,

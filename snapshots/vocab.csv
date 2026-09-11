@@ -7,7 +7,7 @@ U,failed,-/-,nursing,completed,littermate_control,,ended,,craniotomy,sc,icm,aver
 ,,na,sacrificed,,,,,,ICM_injection,po,,other,,,,,RL2
 ,,,transferred,,,,,,CSF_collection,none,,,,,,,punch
 ,,,enrolled,,,,,,femoral_catheter,,,,,,,,N
-,,,,,,,,,perfusion_fix,,,,,,,,
+,,,enroll_planned,,,,,,perfusion_fix,,,,,,,,
 ,,,,,,,,,tissue_clearing,,,,,,,,
 ,,,,,,,,,brain_sampling,,,,,,,,
 ,,,,,,,,,imaging,,,,,,,,
